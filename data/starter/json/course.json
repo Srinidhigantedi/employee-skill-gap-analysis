@@ -1,0 +1,1002 @@
+[
+  {
+    "course_id":"CRS-000001",
+    "course_name":"Learning Course 0001",
+    "duration_hours":24,
+    "cost":6647.13,
+    "capacity":21,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000002",
+    "course_name":"Learning Course 0002",
+    "duration_hours":16,
+    "cost":6101.04,
+    "capacity":48,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000003",
+    "course_name":"Learning Course 0003",
+    "duration_hours":2,
+    "cost":9280.53,
+    "capacity":83,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000004",
+    "course_name":"Learning Course 0004",
+    "duration_hours":40,
+    "cost":4290.02,
+    "capacity":26,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000005",
+    "course_name":"Learning Course 0005",
+    "duration_hours":2,
+    "cost":6896.65,
+    "capacity":69,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000006",
+    "course_name":"Learning Course 0006",
+    "duration_hours":40,
+    "cost":9093.71,
+    "capacity":80,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000007",
+    "course_name":"Learning Course 0007",
+    "duration_hours":12,
+    "cost":12947.05,
+    "capacity":91,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000008",
+    "course_name":"Learning Course 0008",
+    "duration_hours":40,
+    "cost":8094.36,
+    "capacity":73,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000009",
+    "course_name":"Learning Course 0009",
+    "duration_hours":16,
+    "cost":11944.92,
+    "capacity":14,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000010",
+    "course_name":"Learning Course 0010",
+    "duration_hours":2,
+    "cost":11368.81,
+    "capacity":11,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000011",
+    "course_name":"Learning Course 0011",
+    "duration_hours":40,
+    "cost":1245.72,
+    "capacity":93,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000012",
+    "course_name":"Learning Course 0012",
+    "duration_hours":16,
+    "cost":14083.96,
+    "capacity":71,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000013",
+    "course_name":"Learning Course 0013",
+    "duration_hours":12,
+    "cost":9202.01,
+    "capacity":81,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000014",
+    "course_name":"Learning Course 0014",
+    "duration_hours":4,
+    "cost":12866.84,
+    "capacity":25,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000015",
+    "course_name":"Learning Course 0015",
+    "duration_hours":12,
+    "cost":1567.05,
+    "capacity":16,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000016",
+    "course_name":"Learning Course 0016",
+    "duration_hours":8,
+    "cost":4820.95,
+    "capacity":58,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000017",
+    "course_name":"Learning Course 0017",
+    "duration_hours":8,
+    "cost":7121.87,
+    "capacity":57,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000018",
+    "course_name":"Learning Course 0018",
+    "duration_hours":24,
+    "cost":13550.77,
+    "capacity":27,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000019",
+    "course_name":"Learning Course 0019",
+    "duration_hours":24,
+    "cost":1370.45,
+    "capacity":16,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000020",
+    "course_name":"Learning Course 0020",
+    "duration_hours":8,
+    "cost":12763.3,
+    "capacity":66,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000021",
+    "course_name":"Learning Course 0021",
+    "duration_hours":8,
+    "cost":6684.45,
+    "capacity":70,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000022",
+    "course_name":"Learning Course 0022",
+    "duration_hours":8,
+    "cost":6473.02,
+    "capacity":43,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000023",
+    "course_name":"Learning Course 0023",
+    "duration_hours":12,
+    "cost":3956.4,
+    "capacity":44,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000024",
+    "course_name":"Learning Course 0024",
+    "duration_hours":16,
+    "cost":5272.9,
+    "capacity":99,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000025",
+    "course_name":"Learning Course 0025",
+    "duration_hours":8,
+    "cost":1644.61,
+    "capacity":29,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000026",
+    "course_name":"Learning Course 0026",
+    "duration_hours":8,
+    "cost":2572.28,
+    "capacity":56,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000027",
+    "course_name":"Learning Course 0027",
+    "duration_hours":16,
+    "cost":4318.38,
+    "capacity":92,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000028",
+    "course_name":"Learning Course 0028",
+    "duration_hours":16,
+    "cost":12195.98,
+    "capacity":38,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000029",
+    "course_name":"Learning Course 0029",
+    "duration_hours":8,
+    "cost":10688.34,
+    "capacity":42,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000030",
+    "course_name":"Learning Course 0030",
+    "duration_hours":2,
+    "cost":14203.17,
+    "capacity":69,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000031",
+    "course_name":"Learning Course 0031",
+    "duration_hours":12,
+    "cost":2583.59,
+    "capacity":34,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000032",
+    "course_name":"Learning Course 0032",
+    "duration_hours":4,
+    "cost":804.7,
+    "capacity":94,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000033",
+    "course_name":"Learning Course 0033",
+    "duration_hours":8,
+    "cost":12809.9,
+    "capacity":44,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000034",
+    "course_name":"Learning Course 0034",
+    "duration_hours":16,
+    "cost":9712.09,
+    "capacity":86,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000035",
+    "course_name":"Learning Course 0035",
+    "duration_hours":40,
+    "cost":7412.96,
+    "capacity":100,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000036",
+    "course_name":"Learning Course 0036",
+    "duration_hours":40,
+    "cost":7204.05,
+    "capacity":12,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000037",
+    "course_name":"Learning Course 0037",
+    "duration_hours":8,
+    "cost":9044.96,
+    "capacity":31,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000038",
+    "course_name":"Learning Course 0038",
+    "duration_hours":2,
+    "cost":4184.71,
+    "capacity":17,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000039",
+    "course_name":"Learning Course 0039",
+    "duration_hours":4,
+    "cost":2917.22,
+    "capacity":14,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000040",
+    "course_name":"Learning Course 0040",
+    "duration_hours":8,
+    "cost":891.3,
+    "capacity":84,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000041",
+    "course_name":"Learning Course 0041",
+    "duration_hours":40,
+    "cost":11753.15,
+    "capacity":66,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000042",
+    "course_name":"Learning Course 0042",
+    "duration_hours":40,
+    "cost":7073.69,
+    "capacity":98,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000043",
+    "course_name":"Learning Course 0043",
+    "duration_hours":40,
+    "cost":8337.25,
+    "capacity":71,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000044",
+    "course_name":"Learning Course 0044",
+    "duration_hours":2,
+    "cost":3978.14,
+    "capacity":43,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000045",
+    "course_name":"Learning Course 0045",
+    "duration_hours":40,
+    "cost":12831.46,
+    "capacity":24,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000046",
+    "course_name":"Learning Course 0046",
+    "duration_hours":8,
+    "cost":8450.67,
+    "capacity":30,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000047",
+    "course_name":"Learning Course 0047",
+    "duration_hours":8,
+    "cost":4244.79,
+    "capacity":33,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000048",
+    "course_name":"Learning Course 0048",
+    "duration_hours":8,
+    "cost":14365.43,
+    "capacity":55,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000049",
+    "course_name":"Learning Course 0049",
+    "duration_hours":16,
+    "cost":12000.35,
+    "capacity":14,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000050",
+    "course_name":"Learning Course 0050",
+    "duration_hours":40,
+    "cost":10413.13,
+    "capacity":24,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000051",
+    "course_name":"Learning Course 0051",
+    "duration_hours":40,
+    "cost":6344.53,
+    "capacity":33,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000052",
+    "course_name":"Learning Course 0052",
+    "duration_hours":2,
+    "cost":14888.87,
+    "capacity":34,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000053",
+    "course_name":"Learning Course 0053",
+    "duration_hours":2,
+    "cost":3624.92,
+    "capacity":35,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000054",
+    "course_name":"Learning Course 0054",
+    "duration_hours":24,
+    "cost":4430.09,
+    "capacity":26,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000055",
+    "course_name":"Learning Course 0055",
+    "duration_hours":24,
+    "cost":13763.75,
+    "capacity":26,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000056",
+    "course_name":"Learning Course 0056",
+    "duration_hours":40,
+    "cost":3876.7,
+    "capacity":76,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000057",
+    "course_name":"Learning Course 0057",
+    "duration_hours":40,
+    "cost":11558.97,
+    "capacity":91,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000058",
+    "course_name":"Learning Course 0058",
+    "duration_hours":4,
+    "cost":10889.14,
+    "capacity":30,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000059",
+    "course_name":"Learning Course 0059",
+    "duration_hours":4,
+    "cost":10906.36,
+    "capacity":41,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000060",
+    "course_name":"Learning Course 0060",
+    "duration_hours":4,
+    "cost":10922.03,
+    "capacity":23,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000061",
+    "course_name":"Learning Course 0061",
+    "duration_hours":40,
+    "cost":1590.59,
+    "capacity":15,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000062",
+    "course_name":"Learning Course 0062",
+    "duration_hours":4,
+    "cost":11269.29,
+    "capacity":74,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000063",
+    "course_name":"Learning Course 0063",
+    "duration_hours":16,
+    "cost":5327.4,
+    "capacity":52,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000064",
+    "course_name":"Learning Course 0064",
+    "duration_hours":2,
+    "cost":8067.0,
+    "capacity":13,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000065",
+    "course_name":"Learning Course 0065",
+    "duration_hours":12,
+    "cost":9784.16,
+    "capacity":13,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000066",
+    "course_name":"Learning Course 0066",
+    "duration_hours":8,
+    "cost":9949.73,
+    "capacity":62,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000067",
+    "course_name":"Learning Course 0067",
+    "duration_hours":24,
+    "cost":2781.05,
+    "capacity":65,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000068",
+    "course_name":"Learning Course 0068",
+    "duration_hours":24,
+    "cost":4997.92,
+    "capacity":57,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000069",
+    "course_name":"Learning Course 0069",
+    "duration_hours":4,
+    "cost":12487.05,
+    "capacity":75,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000070",
+    "course_name":"Learning Course 0070",
+    "duration_hours":8,
+    "cost":10738.07,
+    "capacity":54,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000071",
+    "course_name":"Learning Course 0071",
+    "duration_hours":16,
+    "cost":2671.26,
+    "capacity":61,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000072",
+    "course_name":"Learning Course 0072",
+    "duration_hours":40,
+    "cost":4011.33,
+    "capacity":92,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000073",
+    "course_name":"Learning Course 0073",
+    "duration_hours":4,
+    "cost":12481.83,
+    "capacity":71,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000074",
+    "course_name":"Learning Course 0074",
+    "duration_hours":16,
+    "cost":8776.26,
+    "capacity":49,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000075",
+    "course_name":"Learning Course 0075",
+    "duration_hours":12,
+    "cost":6713.36,
+    "capacity":56,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000076",
+    "course_name":"Learning Course 0076",
+    "duration_hours":12,
+    "cost":6275.55,
+    "capacity":83,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000077",
+    "course_name":"Learning Course 0077",
+    "duration_hours":8,
+    "cost":10552.2,
+    "capacity":26,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000078",
+    "course_name":"Learning Course 0078",
+    "duration_hours":40,
+    "cost":7192.0,
+    "capacity":91,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000079",
+    "course_name":"Learning Course 0079",
+    "duration_hours":16,
+    "cost":11500.38,
+    "capacity":19,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000080",
+    "course_name":"Learning Course 0080",
+    "duration_hours":24,
+    "cost":4779.61,
+    "capacity":94,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000081",
+    "course_name":"Learning Course 0081",
+    "duration_hours":12,
+    "cost":3615.16,
+    "capacity":14,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000082",
+    "course_name":"Learning Course 0082",
+    "duration_hours":8,
+    "cost":1172.72,
+    "capacity":86,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000083",
+    "course_name":"Learning Course 0083",
+    "duration_hours":40,
+    "cost":6320.71,
+    "capacity":63,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000084",
+    "course_name":"Learning Course 0084",
+    "duration_hours":2,
+    "cost":14234.25,
+    "capacity":23,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000085",
+    "course_name":"Learning Course 0085",
+    "duration_hours":16,
+    "cost":11119.75,
+    "capacity":21,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000086",
+    "course_name":"Learning Course 0086",
+    "duration_hours":40,
+    "cost":8159.07,
+    "capacity":43,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000087",
+    "course_name":"Learning Course 0087",
+    "duration_hours":16,
+    "cost":10233.9,
+    "capacity":16,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000088",
+    "course_name":"Learning Course 0088",
+    "duration_hours":2,
+    "cost":7452.63,
+    "capacity":42,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000089",
+    "course_name":"Learning Course 0089",
+    "duration_hours":16,
+    "cost":6535.17,
+    "capacity":36,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000090",
+    "course_name":"Learning Course 0090",
+    "duration_hours":40,
+    "cost":2211.91,
+    "capacity":61,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000091",
+    "course_name":"Learning Course 0091",
+    "duration_hours":8,
+    "cost":8324.65,
+    "capacity":55,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000092",
+    "course_name":"Learning Course 0092",
+    "duration_hours":12,
+    "cost":7559.87,
+    "capacity":87,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000093",
+    "course_name":"Learning Course 0093",
+    "duration_hours":40,
+    "cost":1628.8,
+    "capacity":99,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000094",
+    "course_name":"Learning Course 0094",
+    "duration_hours":16,
+    "cost":8844.71,
+    "capacity":49,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000095",
+    "course_name":"Learning Course 0095",
+    "duration_hours":40,
+    "cost":8586.2,
+    "capacity":56,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000096",
+    "course_name":"Learning Course 0096",
+    "duration_hours":12,
+    "cost":2476.06,
+    "capacity":46,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000097",
+    "course_name":"Learning Course 0097",
+    "duration_hours":16,
+    "cost":6315.33,
+    "capacity":81,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000098",
+    "course_name":"Learning Course 0098",
+    "duration_hours":4,
+    "cost":9692.29,
+    "capacity":50,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000099",
+    "course_name":"Learning Course 0099",
+    "duration_hours":4,
+    "cost":802.53,
+    "capacity":61,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  },
+  {
+    "course_id":"CRS-000100",
+    "course_name":"Learning Course 0100",
+    "duration_hours":24,
+    "cost":2241.53,
+    "capacity":97,
+    "available_from":"2026-01-01",
+    "available_to":"2027-12-31",
+    "status":"active"
+  }
+]

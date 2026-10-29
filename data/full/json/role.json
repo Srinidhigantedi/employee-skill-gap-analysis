@@ -1,0 +1,62 @@
+[
+  {
+    "role_id":"ROL-000001",
+    "role_name":"Python Developer",
+    "department":"Engineering",
+    "status":"active"
+  },
+  {
+    "role_id":"ROL-000002",
+    "role_name":"Data Analyst",
+    "department":"Data",
+    "status":"active"
+  },
+  {
+    "role_id":"ROL-000003",
+    "role_name":"Software Engineer",
+    "department":"IT",
+    "status":"active"
+  },
+  {
+    "role_id":"ROL-000004",
+    "role_name":"IT Support Engineer",
+    "department":"HR",
+    "status":"active"
+  },
+  {
+    "role_id":"ROL-000005",
+    "role_name":"HR Analyst",
+    "department":"Operations",
+    "status":"active"
+  },
+  {
+    "role_id":"ROL-000006",
+    "role_name":"Business Analyst",
+    "department":"Engineering",
+    "status":"active"
+  },
+  {
+    "role_id":"ROL-000007",
+    "role_name":"Cloud Engineer",
+    "department":"Data",
+    "status":"active"
+  },
+  {
+    "role_id":"ROL-000008",
+    "role_name":"QA Engineer",
+    "department":"IT",
+    "status":"active"
+  },
+  {
+    "role_id":"ROL-000009",
+    "role_name":"Database Administrator",
+    "department":"HR",
+    "status":"active"
+  },
+  {
+    "role_id":"ROL-000010",
+    "role_name":"Project Coordinator",
+    "department":"Operations",
+    "status":"active"
+  }
+]

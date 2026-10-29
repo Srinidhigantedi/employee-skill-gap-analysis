@@ -1,0 +1,302 @@
+[
+  {
+    "skill_id":"SKL-000001",
+    "skill_name":"Python",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000002",
+    "skill_name":"SQL",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000003",
+    "skill_name":"Java",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000004",
+    "skill_name":"JavaScript",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000005",
+    "skill_name":"HTML",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000006",
+    "skill_name":"CSS",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000007",
+    "skill_name":"React",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000008",
+    "skill_name":"Flask",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000009",
+    "skill_name":"Django",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000010",
+    "skill_name":"Git",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000011",
+    "skill_name":"Problem Solving",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000012",
+    "skill_name":"Communication",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000013",
+    "skill_name":"Excel",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000014",
+    "skill_name":"Data Analysis",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000015",
+    "skill_name":"Machine Learning",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000016",
+    "skill_name":"Statistics",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000017",
+    "skill_name":"Cloud Computing",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000018",
+    "skill_name":"AWS",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000019",
+    "skill_name":"Azure",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000020",
+    "skill_name":"Linux",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000021",
+    "skill_name":"Docker",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000022",
+    "skill_name":"Kubernetes",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000023",
+    "skill_name":"REST APIs",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000024",
+    "skill_name":"Testing",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000025",
+    "skill_name":"OOP",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000026",
+    "skill_name":"Data Structures",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000027",
+    "skill_name":"Cybersecurity",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000028",
+    "skill_name":"Networking",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000029",
+    "skill_name":"Project Management",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000030",
+    "skill_name":"Leadership",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000031",
+    "skill_name":"Specialized Skill 0031",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000032",
+    "skill_name":"Specialized Skill 0032",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000033",
+    "skill_name":"Specialized Skill 0033",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000034",
+    "skill_name":"Specialized Skill 0034",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000035",
+    "skill_name":"Specialized Skill 0035",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000036",
+    "skill_name":"Specialized Skill 0036",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000037",
+    "skill_name":"Specialized Skill 0037",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000038",
+    "skill_name":"Specialized Skill 0038",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000039",
+    "skill_name":"Specialized Skill 0039",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000040",
+    "skill_name":"Specialized Skill 0040",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000041",
+    "skill_name":"Specialized Skill 0041",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000042",
+    "skill_name":"Specialized Skill 0042",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000043",
+    "skill_name":"Specialized Skill 0043",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000044",
+    "skill_name":"Specialized Skill 0044",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000045",
+    "skill_name":"Specialized Skill 0045",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000046",
+    "skill_name":"Specialized Skill 0046",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000047",
+    "skill_name":"Specialized Skill 0047",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000048",
+    "skill_name":"Specialized Skill 0048",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000049",
+    "skill_name":"Specialized Skill 0049",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000050",
+    "skill_name":"Specialized Skill 0050",
+    "category":"Technical",
+    "status":"active"
+  }
+]

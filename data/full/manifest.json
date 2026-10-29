@@ -1,0 +1,19 @@
+{
+  "seed": 20261022,
+  "scale": "full",
+  "generated_on": "2026-10-28",
+  "row_counts": {
+    "employee": 5000,
+    "role": 10,
+    "skill": 500,
+    "role_skill_target": 120,
+    "employee_skill": 40000,
+    "course": 1000,
+    "course_skill": 2012,
+    "prerequisite": 160,
+    "enrollment": 10000,
+    "completion": 4090,
+    "budget": 5
+  },
+  "source": "Synthetic data generated locally; no personal data."
+}

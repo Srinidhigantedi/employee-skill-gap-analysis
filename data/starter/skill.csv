@@ -1,0 +1,51 @@
+skill_id,skill_name,category,status
+SKL-000001,Python,Technical,active
+SKL-000002,SQL,Technical,active
+SKL-000003,Java,Technical,active
+SKL-000004,JavaScript,Professional,active
+SKL-000005,HTML,Technical,active
+SKL-000006,CSS,Technical,active
+SKL-000007,React,Technical,active
+SKL-000008,Flask,Professional,active
+SKL-000009,Django,Technical,active
+SKL-000010,Git,Technical,active
+SKL-000011,Problem Solving,Technical,active
+SKL-000012,Communication,Professional,active
+SKL-000013,Excel,Technical,active
+SKL-000014,Data Analysis,Technical,active
+SKL-000015,Machine Learning,Technical,active
+SKL-000016,Statistics,Professional,active
+SKL-000017,Cloud Computing,Technical,active
+SKL-000018,AWS,Technical,active
+SKL-000019,Azure,Technical,active
+SKL-000020,Linux,Professional,active
+SKL-000021,Docker,Technical,active
+SKL-000022,Kubernetes,Technical,active
+SKL-000023,REST APIs,Technical,active
+SKL-000024,Testing,Professional,active
+SKL-000025,OOP,Technical,active
+SKL-000026,Data Structures,Technical,active
+SKL-000027,Cybersecurity,Technical,active
+SKL-000028,Networking,Professional,active
+SKL-000029,Project Management,Technical,active
+SKL-000030,Leadership,Technical,active
+SKL-000031,Specialized Skill 0031,Technical,active
+SKL-000032,Specialized Skill 0032,Professional,active
+SKL-000033,Specialized Skill 0033,Technical,active
+SKL-000034,Specialized Skill 0034,Technical,active
+SKL-000035,Specialized Skill 0035,Technical,active
+SKL-000036,Specialized Skill 0036,Professional,active
+SKL-000037,Specialized Skill 0037,Technical,active
+SKL-000038,Specialized Skill 0038,Technical,active
+SKL-000039,Specialized Skill 0039,Technical,active
+SKL-000040,Specialized Skill 0040,Professional,active
+SKL-000041,Specialized Skill 0041,Technical,active
+SKL-000042,Specialized Skill 0042,Technical,active
+SKL-000043,Specialized Skill 0043,Technical,active
+SKL-000044,Specialized Skill 0044,Professional,active
+SKL-000045,Specialized Skill 0045,Technical,active
+SKL-000046,Specialized Skill 0046,Technical,active
+SKL-000047,Specialized Skill 0047,Technical,active
+SKL-000048,Specialized Skill 0048,Professional,active
+SKL-000049,Specialized Skill 0049,Technical,active
+SKL-000050,Specialized Skill 0050,Technical,active

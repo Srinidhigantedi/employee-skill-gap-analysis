@@ -1,0 +1,6 @@
+budget_id,department,fiscal_year,allocated_amount,currency
+BUD-Engineering-2026,Engineering,2026,10000000.0,INR
+BUD-Data-2026,Data,2026,10000000.0,INR
+BUD-IT-2026,IT,2026,10000000.0,INR
+BUD-HR-2026,HR,2026,10000000.0,INR
+BUD-Operations-2026,Operations,2026,10000000.0,INR

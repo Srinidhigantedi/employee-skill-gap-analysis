@@ -1,0 +1,6 @@
+case_id,scenario,input_condition,expected_result,expected_reason,severity,is_expected_to_pass
+EDGE-001,prerequisite_violation,An employee attempts a course without passing its required prerequisite.,BLOCK,Required prerequisite is not satisfied.,high,False
+EDGE-002,budget_exceeded,A proposed allocation makes department spending exceed its approved budget.,REJECT_ALLOCATION,Department budget limit would be exceeded.,high,False
+EDGE-003,duplicate_completion,Two completion records exist for the same enrollment.,FLAG_DUPLICATE,An enrollment should not have duplicate completion records.,medium,False
+EDGE-004,missing_reassessment,An employee's skill assessment is older than the allowed reassessment interval.,FLAG_REASSESSMENT,The skill assessment needs to be refreshed before relying on it.,medium,False
+EDGE-005,course_unavailable,A recommendation is attempted for an inactive course or one outside its availability dates.,EXCLUDE_COURSE,Unavailable courses must not be recommended.,high,False

@@ -1,0 +1,37 @@
+[
+  {
+    "budget_id":"BUD-Engineering-2026",
+    "department":"Engineering",
+    "fiscal_year":2026,
+    "allocated_amount":10000000.0,
+    "currency":"INR"
+  },
+  {
+    "budget_id":"BUD-Data-2026",
+    "department":"Data",
+    "fiscal_year":2026,
+    "allocated_amount":10000000.0,
+    "currency":"INR"
+  },
+  {
+    "budget_id":"BUD-IT-2026",
+    "department":"IT",
+    "fiscal_year":2026,
+    "allocated_amount":10000000.0,
+    "currency":"INR"
+  },
+  {
+    "budget_id":"BUD-HR-2026",
+    "department":"HR",
+    "fiscal_year":2026,
+    "allocated_amount":10000000.0,
+    "currency":"INR"
+  },
+  {
+    "budget_id":"BUD-Operations-2026",
+    "department":"Operations",
+    "fiscal_year":2026,
+    "allocated_amount":10000000.0,
+    "currency":"INR"
+  }
+]

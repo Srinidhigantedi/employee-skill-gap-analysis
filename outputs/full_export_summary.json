@@ -1,0 +1,34 @@
+{
+  "scale": "full",
+  "tables_exported": [
+    "budget",
+    "completion",
+    "course",
+    "course_skill",
+    "employee",
+    "employee_skill",
+    "enrollment",
+    "prerequisite",
+    "role",
+    "role_skill_target",
+    "skill"
+  ],
+  "row_counts": {
+    "budget": 5,
+    "completion": 4090,
+    "course": 1000,
+    "course_skill": 2012,
+    "employee": 5000,
+    "employee_skill": 40000,
+    "enrollment": 10000,
+    "prerequisite": 160,
+    "role": 10,
+    "role_skill_target": 120,
+    "skill": 500
+  },
+  "json_directory": "data\\full\\json",
+  "sqlite_database": "outputs\\sql\\full.sqlite",
+  "sql_dump": "outputs\\sql\\full.sql",
+  "ground_truth_cases": 5,
+  "note": "Ground-truth cases define expected behavior for test scenarios. They do not imply the clean source tables contain these defects."
+}

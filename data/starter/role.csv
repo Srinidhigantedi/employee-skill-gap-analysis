@@ -1,0 +1,11 @@
+role_id,role_name,department,status
+ROL-000001,Python Developer,Engineering,active
+ROL-000002,Data Analyst,Data,active
+ROL-000003,Software Engineer,IT,active
+ROL-000004,IT Support Engineer,HR,active
+ROL-000005,HR Analyst,Operations,active
+ROL-000006,Business Analyst,Engineering,active
+ROL-000007,Cloud Engineer,Data,active
+ROL-000008,QA Engineer,IT,active
+ROL-000009,Database Administrator,HR,active
+ROL-000010,Project Coordinator,Operations,active

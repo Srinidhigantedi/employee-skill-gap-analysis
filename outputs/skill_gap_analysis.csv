@@ -1,0 +1,1201 @@
+employee_id,role_id,department,role_name,skill_id,target_proficiency,effective_from,effective_to,proficiency,assessed_on,assessment_status,gap,skill_name,gap_status
+EMP-000001,ROL-000006,Engineering,Business Analyst,SKL-000003,4,2026-01-01,,2.0,2026-10-01,assessed,2,Java,gap_identified
+EMP-000001,ROL-000006,Engineering,Business Analyst,SKL-000020,4,2026-01-01,,2.0,2026-10-01,assessed,2,Linux,gap_identified
+EMP-000001,ROL-000006,Engineering,Business Analyst,SKL-000008,3,2026-01-01,,4.0,2026-10-01,assessed,0,Flask,no_gap
+EMP-000001,ROL-000006,Engineering,Business Analyst,SKL-000010,4,2026-01-01,,4.0,2026-10-01,assessed,0,Git,no_gap
+EMP-000001,ROL-000006,Engineering,Business Analyst,SKL-000034,4,2026-01-01,,4.0,2026-10-01,assessed,0,Specialized Skill 0034,no_gap
+EMP-000001,ROL-000006,Engineering,Business Analyst,SKL-000035,5,2026-01-01,,2.0,2026-10-01,assessed,3,Specialized Skill 0035,gap_identified
+EMP-000001,ROL-000006,Engineering,Business Analyst,SKL-000043,5,2026-01-01,,,,not_assessed,,Specialized Skill 0043,not_assessed
+EMP-000001,ROL-000006,Engineering,Business Analyst,SKL-000039,5,2026-01-01,,,,not_assessed,,Specialized Skill 0039,not_assessed
+EMP-000001,ROL-000006,Engineering,Business Analyst,SKL-000009,5,2026-01-01,,,,not_assessed,,Django,not_assessed
+EMP-000001,ROL-000006,Engineering,Business Analyst,SKL-000047,3,2026-01-01,,3.0,2026-10-01,assessed,0,Specialized Skill 0047,no_gap
+EMP-000001,ROL-000006,Engineering,Business Analyst,SKL-000007,5,2026-01-01,,,,not_assessed,,React,not_assessed
+EMP-000001,ROL-000006,Engineering,Business Analyst,SKL-000004,3,2026-01-01,,5.0,2026-10-01,assessed,0,JavaScript,no_gap
+EMP-000002,ROL-000005,Operations,HR Analyst,SKL-000031,4,2026-01-01,,1.0,2026-10-01,assessed,3,Specialized Skill 0031,gap_identified
+EMP-000002,ROL-000005,Operations,HR Analyst,SKL-000006,4,2026-01-01,,4.0,2026-10-01,assessed,0,CSS,no_gap
+EMP-000002,ROL-000005,Operations,HR Analyst,SKL-000037,3,2026-01-01,,1.0,2026-10-01,assessed,2,Specialized Skill 0037,gap_identified
+EMP-000002,ROL-000005,Operations,HR Analyst,SKL-000039,4,2026-01-01,,,,not_assessed,,Specialized Skill 0039,not_assessed
+EMP-000002,ROL-000005,Operations,HR Analyst,SKL-000024,5,2026-01-01,,,,not_assessed,,Testing,not_assessed
+EMP-000002,ROL-000005,Operations,HR Analyst,SKL-000008,4,2026-01-01,,2.0,2026-10-01,assessed,2,Flask,gap_identified
+EMP-000002,ROL-000005,Operations,HR Analyst,SKL-000044,3,2026-01-01,,,,not_assessed,,Specialized Skill 0044,not_assessed
+EMP-000002,ROL-000005,Operations,HR Analyst,SKL-000040,4,2026-01-01,,,,not_assessed,,Specialized Skill 0040,not_assessed
+EMP-000002,ROL-000005,Operations,HR Analyst,SKL-000041,5,2026-01-01,,1.0,2026-10-01,assessed,4,Specialized Skill 0041,gap_identified
+EMP-000002,ROL-000005,Operations,HR Analyst,SKL-000032,5,2026-01-01,,3.0,2026-10-01,assessed,2,Specialized Skill 0032,gap_identified
+EMP-000002,ROL-000005,Operations,HR Analyst,SKL-000042,4,2026-01-01,,2.0,2026-10-01,assessed,2,Specialized Skill 0042,gap_identified
+EMP-000002,ROL-000005,Operations,HR Analyst,SKL-000002,4,2026-01-01,,2.0,2026-10-01,assessed,2,SQL,gap_identified
+EMP-000003,ROL-000001,Engineering,Python Developer,SKL-000031,5,2026-01-01,,2.0,2026-10-01,assessed,3,Specialized Skill 0031,gap_identified
+EMP-000003,ROL-000001,Engineering,Python Developer,SKL-000009,3,2026-01-01,,4.0,2026-10-01,assessed,0,Django,no_gap
+EMP-000003,ROL-000001,Engineering,Python Developer,SKL-000004,5,2026-01-01,,,,not_assessed,,JavaScript,not_assessed
+EMP-000003,ROL-000001,Engineering,Python Developer,SKL-000019,3,2026-01-01,,3.0,2026-10-01,assessed,0,Azure,no_gap
+EMP-000003,ROL-000001,Engineering,Python Developer,SKL-000012,5,2026-01-01,,,,not_assessed,,Communication,not_assessed
+EMP-000003,ROL-000001,Engineering,Python Developer,SKL-000050,5,2026-01-01,,5.0,2026-10-01,assessed,0,Specialized Skill 0050,no_gap
+EMP-000003,ROL-000001,Engineering,Python Developer,SKL-000045,3,2026-01-01,,5.0,2026-10-01,assessed,0,Specialized Skill 0045,no_gap
+EMP-000003,ROL-000001,Engineering,Python Developer,SKL-000028,4,2026-01-01,,5.0,2026-10-01,assessed,0,Networking,no_gap
+EMP-000003,ROL-000001,Engineering,Python Developer,SKL-000024,5,2026-01-01,,2.0,2026-10-01,assessed,3,Testing,gap_identified
+EMP-000003,ROL-000001,Engineering,Python Developer,SKL-000026,5,2026-01-01,,,,not_assessed,,Data Structures,not_assessed
+EMP-000003,ROL-000001,Engineering,Python Developer,SKL-000021,4,2026-01-01,,,,not_assessed,,Docker,not_assessed
+EMP-000003,ROL-000001,Engineering,Python Developer,SKL-000048,3,2026-01-01,,2.0,2026-10-01,assessed,1,Specialized Skill 0048,gap_identified
+EMP-000004,ROL-000004,HR,IT Support Engineer,SKL-000012,5,2026-01-01,,3.0,2026-10-01,assessed,2,Communication,gap_identified
+EMP-000004,ROL-000004,HR,IT Support Engineer,SKL-000020,4,2026-01-01,,,,not_assessed,,Linux,not_assessed
+EMP-000004,ROL-000004,HR,IT Support Engineer,SKL-000029,4,2026-01-01,,2.0,2026-10-01,assessed,2,Project Management,gap_identified
+EMP-000004,ROL-000004,HR,IT Support Engineer,SKL-000045,4,2026-01-01,,,,not_assessed,,Specialized Skill 0045,not_assessed
+EMP-000004,ROL-000004,HR,IT Support Engineer,SKL-000021,4,2026-01-01,,2.0,2026-10-01,assessed,2,Docker,gap_identified
+EMP-000004,ROL-000004,HR,IT Support Engineer,SKL-000025,4,2026-01-01,,3.0,2026-10-01,assessed,1,OOP,gap_identified
+EMP-000004,ROL-000004,HR,IT Support Engineer,SKL-000013,5,2026-01-01,,3.0,2026-10-01,assessed,2,Excel,gap_identified
+EMP-000004,ROL-000004,HR,IT Support Engineer,SKL-000034,3,2026-01-01,,,,not_assessed,,Specialized Skill 0034,not_assessed
+EMP-000004,ROL-000004,HR,IT Support Engineer,SKL-000044,4,2026-01-01,,3.0,2026-10-01,assessed,1,Specialized Skill 0044,gap_identified
+EMP-000004,ROL-000004,HR,IT Support Engineer,SKL-000003,5,2026-01-01,,4.0,2026-10-01,assessed,1,Java,gap_identified
+EMP-000004,ROL-000004,HR,IT Support Engineer,SKL-000042,3,2026-01-01,,,,not_assessed,,Specialized Skill 0042,not_assessed
+EMP-000004,ROL-000004,HR,IT Support Engineer,SKL-000008,4,2026-01-01,,4.0,2026-10-01,assessed,0,Flask,no_gap
+EMP-000005,ROL-000001,Engineering,Python Developer,SKL-000031,5,2026-01-01,,5.0,2026-10-01,assessed,0,Specialized Skill 0031,no_gap
+EMP-000005,ROL-000001,Engineering,Python Developer,SKL-000009,3,2026-01-01,,4.0,2026-10-01,assessed,0,Django,no_gap
+EMP-000005,ROL-000001,Engineering,Python Developer,SKL-000004,5,2026-01-01,,2.0,2026-10-01,assessed,3,JavaScript,gap_identified
+EMP-000005,ROL-000001,Engineering,Python Developer,SKL-000019,3,2026-01-01,,4.0,2026-10-01,assessed,0,Azure,no_gap
+EMP-000005,ROL-000001,Engineering,Python Developer,SKL-000012,5,2026-01-01,,2.0,2026-10-01,assessed,3,Communication,gap_identified
+EMP-000005,ROL-000001,Engineering,Python Developer,SKL-000050,5,2026-01-01,,,,not_assessed,,Specialized Skill 0050,not_assessed
+EMP-000005,ROL-000001,Engineering,Python Developer,SKL-000045,3,2026-01-01,,,,not_assessed,,Specialized Skill 0045,not_assessed
+EMP-000005,ROL-000001,Engineering,Python Developer,SKL-000028,4,2026-01-01,,,,not_assessed,,Networking,not_assessed
+EMP-000005,ROL-000001,Engineering,Python Developer,SKL-000024,5,2026-01-01,,5.0,2026-10-01,assessed,0,Testing,no_gap
+EMP-000005,ROL-000001,Engineering,Python Developer,SKL-000026,5,2026-01-01,,,,not_assessed,,Data Structures,not_assessed
+EMP-000005,ROL-000001,Engineering,Python Developer,SKL-000021,4,2026-01-01,,4.0,2026-10-01,assessed,0,Docker,no_gap
+EMP-000005,ROL-000001,Engineering,Python Developer,SKL-000048,3,2026-01-01,,2.0,2026-10-01,assessed,1,Specialized Skill 0048,gap_identified
+EMP-000006,ROL-000003,IT,Software Engineer,SKL-000034,3,2026-01-01,,,,not_assessed,,Specialized Skill 0034,not_assessed
+EMP-000006,ROL-000003,IT,Software Engineer,SKL-000018,4,2026-01-01,,3.0,2026-10-01,assessed,1,AWS,gap_identified
+EMP-000006,ROL-000003,IT,Software Engineer,SKL-000042,4,2026-01-01,,3.0,2026-10-01,assessed,1,Specialized Skill 0042,gap_identified
+EMP-000006,ROL-000003,IT,Software Engineer,SKL-000038,4,2026-01-01,,2.0,2026-10-01,assessed,2,Specialized Skill 0038,gap_identified
+EMP-000006,ROL-000003,IT,Software Engineer,SKL-000023,5,2026-01-01,,3.0,2026-10-01,assessed,2,REST APIs,gap_identified
+EMP-000006,ROL-000003,IT,Software Engineer,SKL-000003,3,2026-01-01,,1.0,2026-10-01,assessed,2,Java,gap_identified
+EMP-000006,ROL-000003,IT,Software Engineer,SKL-000004,3,2026-01-01,,5.0,2026-10-01,assessed,0,JavaScript,no_gap
+EMP-000006,ROL-000003,IT,Software Engineer,SKL-000036,5,2026-01-01,,2.0,2026-10-01,assessed,3,Specialized Skill 0036,gap_identified
+EMP-000006,ROL-000003,IT,Software Engineer,SKL-000035,5,2026-01-01,,,,not_assessed,,Specialized Skill 0035,not_assessed
+EMP-000006,ROL-000003,IT,Software Engineer,SKL-000049,3,2026-01-01,,,,not_assessed,,Specialized Skill 0049,not_assessed
+EMP-000006,ROL-000003,IT,Software Engineer,SKL-000016,4,2026-01-01,,5.0,2026-10-01,assessed,0,Statistics,no_gap
+EMP-000006,ROL-000003,IT,Software Engineer,SKL-000020,5,2026-01-01,,,,not_assessed,,Linux,not_assessed
+EMP-000007,ROL-000004,HR,IT Support Engineer,SKL-000012,5,2026-01-01,,5.0,2026-10-01,assessed,0,Communication,no_gap
+EMP-000007,ROL-000004,HR,IT Support Engineer,SKL-000020,4,2026-01-01,,,,not_assessed,,Linux,not_assessed
+EMP-000007,ROL-000004,HR,IT Support Engineer,SKL-000029,4,2026-01-01,,,,not_assessed,,Project Management,not_assessed
+EMP-000007,ROL-000004,HR,IT Support Engineer,SKL-000045,4,2026-01-01,,1.0,2026-10-01,assessed,3,Specialized Skill 0045,gap_identified
+EMP-000007,ROL-000004,HR,IT Support Engineer,SKL-000021,4,2026-01-01,,,,not_assessed,,Docker,not_assessed
+EMP-000007,ROL-000004,HR,IT Support Engineer,SKL-000025,4,2026-01-01,,3.0,2026-10-01,assessed,1,OOP,gap_identified
+EMP-000007,ROL-000004,HR,IT Support Engineer,SKL-000013,5,2026-01-01,,5.0,2026-10-01,assessed,0,Excel,no_gap
+EMP-000007,ROL-000004,HR,IT Support Engineer,SKL-000034,3,2026-01-01,,2.0,2026-10-01,assessed,1,Specialized Skill 0034,gap_identified
+EMP-000007,ROL-000004,HR,IT Support Engineer,SKL-000044,4,2026-01-01,,5.0,2026-10-01,assessed,0,Specialized Skill 0044,no_gap
+EMP-000007,ROL-000004,HR,IT Support Engineer,SKL-000003,5,2026-01-01,,4.0,2026-10-01,assessed,1,Java,gap_identified
+EMP-000007,ROL-000004,HR,IT Support Engineer,SKL-000042,3,2026-01-01,,,,not_assessed,,Specialized Skill 0042,not_assessed
+EMP-000007,ROL-000004,HR,IT Support Engineer,SKL-000008,4,2026-01-01,,3.0,2026-10-01,assessed,1,Flask,gap_identified
+EMP-000008,ROL-000005,Operations,HR Analyst,SKL-000031,4,2026-01-01,,,,not_assessed,,Specialized Skill 0031,not_assessed
+EMP-000008,ROL-000005,Operations,HR Analyst,SKL-000006,4,2026-01-01,,5.0,2026-10-01,assessed,0,CSS,no_gap
+EMP-000008,ROL-000005,Operations,HR Analyst,SKL-000037,3,2026-01-01,,2.0,2026-10-01,assessed,1,Specialized Skill 0037,gap_identified
+EMP-000008,ROL-000005,Operations,HR Analyst,SKL-000039,4,2026-01-01,,5.0,2026-10-01,assessed,0,Specialized Skill 0039,no_gap
+EMP-000008,ROL-000005,Operations,HR Analyst,SKL-000024,5,2026-01-01,,,,not_assessed,,Testing,not_assessed
+EMP-000008,ROL-000005,Operations,HR Analyst,SKL-000008,4,2026-01-01,,,,not_assessed,,Flask,not_assessed
+EMP-000008,ROL-000005,Operations,HR Analyst,SKL-000044,3,2026-01-01,,3.0,2026-10-01,assessed,0,Specialized Skill 0044,no_gap
+EMP-000008,ROL-000005,Operations,HR Analyst,SKL-000040,4,2026-01-01,,2.0,2026-10-01,assessed,2,Specialized Skill 0040,gap_identified
+EMP-000008,ROL-000005,Operations,HR Analyst,SKL-000041,5,2026-01-01,,,,not_assessed,,Specialized Skill 0041,not_assessed
+EMP-000008,ROL-000005,Operations,HR Analyst,SKL-000032,5,2026-01-01,,1.0,2026-10-01,assessed,4,Specialized Skill 0032,gap_identified
+EMP-000008,ROL-000005,Operations,HR Analyst,SKL-000042,4,2026-01-01,,5.0,2026-10-01,assessed,0,Specialized Skill 0042,no_gap
+EMP-000008,ROL-000005,Operations,HR Analyst,SKL-000002,4,2026-01-01,,3.0,2026-10-01,assessed,1,SQL,gap_identified
+EMP-000009,ROL-000004,HR,IT Support Engineer,SKL-000012,5,2026-01-01,,5.0,2026-10-01,assessed,0,Communication,no_gap
+EMP-000009,ROL-000004,HR,IT Support Engineer,SKL-000020,4,2026-01-01,,3.0,2026-10-01,assessed,1,Linux,gap_identified
+EMP-000009,ROL-000004,HR,IT Support Engineer,SKL-000029,4,2026-01-01,,,,not_assessed,,Project Management,not_assessed
+EMP-000009,ROL-000004,HR,IT Support Engineer,SKL-000045,4,2026-01-01,,,,not_assessed,,Specialized Skill 0045,not_assessed
+EMP-000009,ROL-000004,HR,IT Support Engineer,SKL-000021,4,2026-01-01,,2.0,2026-10-01,assessed,2,Docker,gap_identified
+EMP-000009,ROL-000004,HR,IT Support Engineer,SKL-000025,4,2026-01-01,,,,not_assessed,,OOP,not_assessed
+EMP-000009,ROL-000004,HR,IT Support Engineer,SKL-000013,5,2026-01-01,,2.0,2026-10-01,assessed,3,Excel,gap_identified
+EMP-000009,ROL-000004,HR,IT Support Engineer,SKL-000034,3,2026-01-01,,2.0,2026-10-01,assessed,1,Specialized Skill 0034,gap_identified
+EMP-000009,ROL-000004,HR,IT Support Engineer,SKL-000044,4,2026-01-01,,5.0,2026-10-01,assessed,0,Specialized Skill 0044,no_gap
+EMP-000009,ROL-000004,HR,IT Support Engineer,SKL-000003,5,2026-01-01,,,,not_assessed,,Java,not_assessed
+EMP-000009,ROL-000004,HR,IT Support Engineer,SKL-000042,3,2026-01-01,,3.0,2026-10-01,assessed,0,Specialized Skill 0042,no_gap
+EMP-000009,ROL-000004,HR,IT Support Engineer,SKL-000008,4,2026-01-01,,3.0,2026-10-01,assessed,1,Flask,gap_identified
+EMP-000010,ROL-000009,HR,Database Administrator,SKL-000008,4,2026-01-01,,5.0,2026-10-01,assessed,0,Flask,no_gap
+EMP-000010,ROL-000009,HR,Database Administrator,SKL-000048,4,2026-01-01,,4.0,2026-10-01,assessed,0,Specialized Skill 0048,no_gap
+EMP-000010,ROL-000009,HR,Database Administrator,SKL-000001,4,2026-01-01,,,,not_assessed,,Python,not_assessed
+EMP-000010,ROL-000009,HR,Database Administrator,SKL-000015,5,2026-01-01,,5.0,2026-10-01,assessed,0,Machine Learning,no_gap
+EMP-000010,ROL-000009,HR,Database Administrator,SKL-000030,3,2026-01-01,,,,not_assessed,,Leadership,not_assessed
+EMP-000010,ROL-000009,HR,Database Administrator,SKL-000027,4,2026-01-01,,,,not_assessed,,Cybersecurity,not_assessed
+EMP-000010,ROL-000009,HR,Database Administrator,SKL-000049,5,2026-01-01,,2.0,2026-10-01,assessed,3,Specialized Skill 0049,gap_identified
+EMP-000010,ROL-000009,HR,Database Administrator,SKL-000033,3,2026-01-01,,,,not_assessed,,Specialized Skill 0033,not_assessed
+EMP-000010,ROL-000009,HR,Database Administrator,SKL-000004,4,2026-01-01,,4.0,2026-10-01,assessed,0,JavaScript,no_gap
+EMP-000010,ROL-000009,HR,Database Administrator,SKL-000041,4,2026-01-01,,5.0,2026-10-01,assessed,0,Specialized Skill 0041,no_gap
+EMP-000010,ROL-000009,HR,Database Administrator,SKL-000042,5,2026-01-01,,5.0,2026-10-01,assessed,0,Specialized Skill 0042,no_gap
+EMP-000010,ROL-000009,HR,Database Administrator,SKL-000021,5,2026-01-01,,3.0,2026-10-01,assessed,2,Docker,gap_identified
+EMP-000011,ROL-000004,HR,IT Support Engineer,SKL-000012,5,2026-01-01,,,,not_assessed,,Communication,not_assessed
+EMP-000011,ROL-000004,HR,IT Support Engineer,SKL-000020,4,2026-01-01,,4.0,2026-10-01,assessed,0,Linux,no_gap
+EMP-000011,ROL-000004,HR,IT Support Engineer,SKL-000029,4,2026-01-01,,,,not_assessed,,Project Management,not_assessed
+EMP-000011,ROL-000004,HR,IT Support Engineer,SKL-000045,4,2026-01-01,,1.0,2026-10-01,assessed,3,Specialized Skill 0045,gap_identified
+EMP-000011,ROL-000004,HR,IT Support Engineer,SKL-000021,4,2026-01-01,,1.0,2026-10-01,assessed,3,Docker,gap_identified
+EMP-000011,ROL-000004,HR,IT Support Engineer,SKL-000025,4,2026-01-01,,,,not_assessed,,OOP,not_assessed
+EMP-000011,ROL-000004,HR,IT Support Engineer,SKL-000013,5,2026-01-01,,2.0,2026-10-01,assessed,3,Excel,gap_identified
+EMP-000011,ROL-000004,HR,IT Support Engineer,SKL-000034,3,2026-01-01,,3.0,2026-10-01,assessed,0,Specialized Skill 0034,no_gap
+EMP-000011,ROL-000004,HR,IT Support Engineer,SKL-000044,4,2026-01-01,,4.0,2026-10-01,assessed,0,Specialized Skill 0044,no_gap
+EMP-000011,ROL-000004,HR,IT Support Engineer,SKL-000003,5,2026-01-01,,2.0,2026-10-01,assessed,3,Java,gap_identified
+EMP-000011,ROL-000004,HR,IT Support Engineer,SKL-000042,3,2026-01-01,,1.0,2026-10-01,assessed,2,Specialized Skill 0042,gap_identified
+EMP-000011,ROL-000004,HR,IT Support Engineer,SKL-000008,4,2026-01-01,,,,not_assessed,,Flask,not_assessed
+EMP-000012,ROL-000008,IT,QA Engineer,SKL-000017,3,2026-01-01,,5.0,2026-10-01,assessed,0,Cloud Computing,no_gap
+EMP-000012,ROL-000008,IT,QA Engineer,SKL-000043,3,2026-01-01,,3.0,2026-10-01,assessed,0,Specialized Skill 0043,no_gap
+EMP-000012,ROL-000008,IT,QA Engineer,SKL-000024,4,2026-01-01,,,,not_assessed,,Testing,not_assessed
+EMP-000012,ROL-000008,IT,QA Engineer,SKL-000048,5,2026-01-01,,3.0,2026-10-01,assessed,2,Specialized Skill 0048,gap_identified
+EMP-000012,ROL-000008,IT,QA Engineer,SKL-000016,3,2026-01-01,,3.0,2026-10-01,assessed,0,Statistics,no_gap
+EMP-000012,ROL-000008,IT,QA Engineer,SKL-000049,3,2026-01-01,,,,not_assessed,,Specialized Skill 0049,not_assessed
+EMP-000012,ROL-000008,IT,QA Engineer,SKL-000022,4,2026-01-01,,,,not_assessed,,Kubernetes,not_assessed
+EMP-000012,ROL-000008,IT,QA Engineer,SKL-000006,3,2026-01-01,,3.0,2026-10-01,assessed,0,CSS,no_gap
+EMP-000012,ROL-000008,IT,QA Engineer,SKL-000003,3,2026-01-01,,5.0,2026-10-01,assessed,0,Java,no_gap
+EMP-000012,ROL-000008,IT,QA Engineer,SKL-000015,4,2026-01-01,,5.0,2026-10-01,assessed,0,Machine Learning,no_gap
+EMP-000012,ROL-000008,IT,QA Engineer,SKL-000039,5,2026-01-01,,2.0,2026-10-01,assessed,3,Specialized Skill 0039,gap_identified
+EMP-000012,ROL-000008,IT,QA Engineer,SKL-000018,3,2026-01-01,,,,not_assessed,,AWS,not_assessed
+EMP-000013,ROL-000010,Operations,Project Coordinator,SKL-000040,3,2026-01-01,,,,not_assessed,,Specialized Skill 0040,not_assessed
+EMP-000013,ROL-000010,Operations,Project Coordinator,SKL-000033,3,2026-01-01,,5.0,2026-10-01,assessed,0,Specialized Skill 0033,no_gap
+EMP-000013,ROL-000010,Operations,Project Coordinator,SKL-000043,3,2026-01-01,,5.0,2026-10-01,assessed,0,Specialized Skill 0043,no_gap
+EMP-000013,ROL-000010,Operations,Project Coordinator,SKL-000027,5,2026-01-01,,3.0,2026-10-01,assessed,2,Cybersecurity,gap_identified
+EMP-000013,ROL-000010,Operations,Project Coordinator,SKL-000035,4,2026-01-01,,3.0,2026-10-01,assessed,1,Specialized Skill 0035,gap_identified
+EMP-000013,ROL-000010,Operations,Project Coordinator,SKL-000020,3,2026-01-01,,2.0,2026-10-01,assessed,1,Linux,gap_identified
+EMP-000013,ROL-000010,Operations,Project Coordinator,SKL-000011,3,2026-01-01,,,,not_assessed,,Problem Solving,not_assessed
+EMP-000013,ROL-000010,Operations,Project Coordinator,SKL-000025,3,2026-01-01,,2.0,2026-10-01,assessed,1,OOP,gap_identified
+EMP-000013,ROL-000010,Operations,Project Coordinator,SKL-000017,3,2026-01-01,,,,not_assessed,,Cloud Computing,not_assessed
+EMP-000013,ROL-000010,Operations,Project Coordinator,SKL-000031,4,2026-01-01,,2.0,2026-10-01,assessed,2,Specialized Skill 0031,gap_identified
+EMP-000013,ROL-000010,Operations,Project Coordinator,SKL-000003,3,2026-01-01,,,,not_assessed,,Java,not_assessed
+EMP-000013,ROL-000010,Operations,Project Coordinator,SKL-000008,4,2026-01-01,,2.0,2026-10-01,assessed,2,Flask,gap_identified
+EMP-000014,ROL-000006,Engineering,Business Analyst,SKL-000003,4,2026-01-01,,4.0,2026-10-01,assessed,0,Java,no_gap
+EMP-000014,ROL-000006,Engineering,Business Analyst,SKL-000020,4,2026-01-01,,2.0,2026-10-01,assessed,2,Linux,gap_identified
+EMP-000014,ROL-000006,Engineering,Business Analyst,SKL-000008,3,2026-01-01,,5.0,2026-10-01,assessed,0,Flask,no_gap
+EMP-000014,ROL-000006,Engineering,Business Analyst,SKL-000010,4,2026-01-01,,,,not_assessed,,Git,not_assessed
+EMP-000014,ROL-000006,Engineering,Business Analyst,SKL-000034,4,2026-01-01,,2.0,2026-10-01,assessed,2,Specialized Skill 0034,gap_identified
+EMP-000014,ROL-000006,Engineering,Business Analyst,SKL-000035,5,2026-01-01,,,,not_assessed,,Specialized Skill 0035,not_assessed
+EMP-000014,ROL-000006,Engineering,Business Analyst,SKL-000043,5,2026-01-01,,1.0,2026-10-01,assessed,4,Specialized Skill 0043,gap_identified
+EMP-000014,ROL-000006,Engineering,Business Analyst,SKL-000039,5,2026-01-01,,4.0,2026-10-01,assessed,1,Specialized Skill 0039,gap_identified
+EMP-000014,ROL-000006,Engineering,Business Analyst,SKL-000009,5,2026-01-01,,,,not_assessed,,Django,not_assessed
+EMP-000014,ROL-000006,Engineering,Business Analyst,SKL-000047,3,2026-01-01,,,,not_assessed,,Specialized Skill 0047,not_assessed
+EMP-000014,ROL-000006,Engineering,Business Analyst,SKL-000007,5,2026-01-01,,1.0,2026-10-01,assessed,4,React,gap_identified
+EMP-000014,ROL-000006,Engineering,Business Analyst,SKL-000004,3,2026-01-01,,1.0,2026-10-01,assessed,2,JavaScript,gap_identified
+EMP-000015,ROL-000010,Operations,Project Coordinator,SKL-000040,3,2026-01-01,,2.0,2026-10-01,assessed,1,Specialized Skill 0040,gap_identified
+EMP-000015,ROL-000010,Operations,Project Coordinator,SKL-000033,3,2026-01-01,,3.0,2026-10-01,assessed,0,Specialized Skill 0033,no_gap
+EMP-000015,ROL-000010,Operations,Project Coordinator,SKL-000043,3,2026-01-01,,3.0,2026-10-01,assessed,0,Specialized Skill 0043,no_gap
+EMP-000015,ROL-000010,Operations,Project Coordinator,SKL-000027,5,2026-01-01,,,,not_assessed,,Cybersecurity,not_assessed
+EMP-000015,ROL-000010,Operations,Project Coordinator,SKL-000035,4,2026-01-01,,5.0,2026-10-01,assessed,0,Specialized Skill 0035,no_gap
+EMP-000015,ROL-000010,Operations,Project Coordinator,SKL-000020,3,2026-01-01,,2.0,2026-10-01,assessed,1,Linux,gap_identified
+EMP-000015,ROL-000010,Operations,Project Coordinator,SKL-000011,3,2026-01-01,,,,not_assessed,,Problem Solving,not_assessed
+EMP-000015,ROL-000010,Operations,Project Coordinator,SKL-000025,3,2026-01-01,,,,not_assessed,,OOP,not_assessed
+EMP-000015,ROL-000010,Operations,Project Coordinator,SKL-000017,3,2026-01-01,,2.0,2026-10-01,assessed,1,Cloud Computing,gap_identified
+EMP-000015,ROL-000010,Operations,Project Coordinator,SKL-000031,4,2026-01-01,,1.0,2026-10-01,assessed,3,Specialized Skill 0031,gap_identified
+EMP-000015,ROL-000010,Operations,Project Coordinator,SKL-000003,3,2026-01-01,,,,not_assessed,,Java,not_assessed
+EMP-000015,ROL-000010,Operations,Project Coordinator,SKL-000008,4,2026-01-01,,1.0,2026-10-01,assessed,3,Flask,gap_identified
+EMP-000016,ROL-000008,IT,QA Engineer,SKL-000017,3,2026-01-01,,,,not_assessed,,Cloud Computing,not_assessed
+EMP-000016,ROL-000008,IT,QA Engineer,SKL-000043,3,2026-01-01,,1.0,2026-10-01,assessed,2,Specialized Skill 0043,gap_identified
+EMP-000016,ROL-000008,IT,QA Engineer,SKL-000024,4,2026-01-01,,1.0,2026-10-01,assessed,3,Testing,gap_identified
+EMP-000016,ROL-000008,IT,QA Engineer,SKL-000048,5,2026-01-01,,1.0,2026-10-01,assessed,4,Specialized Skill 0048,gap_identified
+EMP-000016,ROL-000008,IT,QA Engineer,SKL-000016,3,2026-01-01,,1.0,2026-10-01,assessed,2,Statistics,gap_identified
+EMP-000016,ROL-000008,IT,QA Engineer,SKL-000049,3,2026-01-01,,3.0,2026-10-01,assessed,0,Specialized Skill 0049,no_gap
+EMP-000016,ROL-000008,IT,QA Engineer,SKL-000022,4,2026-01-01,,2.0,2026-10-01,assessed,2,Kubernetes,gap_identified
+EMP-000016,ROL-000008,IT,QA Engineer,SKL-000006,3,2026-01-01,,,,not_assessed,,CSS,not_assessed
+EMP-000016,ROL-000008,IT,QA Engineer,SKL-000003,3,2026-01-01,,,,not_assessed,,Java,not_assessed
+EMP-000016,ROL-000008,IT,QA Engineer,SKL-000015,4,2026-01-01,,5.0,2026-10-01,assessed,0,Machine Learning,no_gap
+EMP-000016,ROL-000008,IT,QA Engineer,SKL-000039,5,2026-01-01,,,,not_assessed,,Specialized Skill 0039,not_assessed
+EMP-000016,ROL-000008,IT,QA Engineer,SKL-000018,3,2026-01-01,,3.0,2026-10-01,assessed,0,AWS,no_gap
+EMP-000017,ROL-000001,Engineering,Python Developer,SKL-000031,5,2026-01-01,,1.0,2026-10-01,assessed,4,Specialized Skill 0031,gap_identified
+EMP-000017,ROL-000001,Engineering,Python Developer,SKL-000009,3,2026-01-01,,2.0,2026-10-01,assessed,1,Django,gap_identified
+EMP-000017,ROL-000001,Engineering,Python Developer,SKL-000004,5,2026-01-01,,1.0,2026-10-01,assessed,4,JavaScript,gap_identified
+EMP-000017,ROL-000001,Engineering,Python Developer,SKL-000019,3,2026-01-01,,,,not_assessed,,Azure,not_assessed
+EMP-000017,ROL-000001,Engineering,Python Developer,SKL-000012,5,2026-01-01,,4.0,2026-10-01,assessed,1,Communication,gap_identified
+EMP-000017,ROL-000001,Engineering,Python Developer,SKL-000050,5,2026-01-01,,,,not_assessed,,Specialized Skill 0050,not_assessed
+EMP-000017,ROL-000001,Engineering,Python Developer,SKL-000045,3,2026-01-01,,1.0,2026-10-01,assessed,2,Specialized Skill 0045,gap_identified
+EMP-000017,ROL-000001,Engineering,Python Developer,SKL-000028,4,2026-01-01,,4.0,2026-10-01,assessed,0,Networking,no_gap
+EMP-000017,ROL-000001,Engineering,Python Developer,SKL-000024,5,2026-01-01,,,,not_assessed,,Testing,not_assessed
+EMP-000017,ROL-000001,Engineering,Python Developer,SKL-000026,5,2026-01-01,,1.0,2026-10-01,assessed,4,Data Structures,gap_identified
+EMP-000017,ROL-000001,Engineering,Python Developer,SKL-000021,4,2026-01-01,,3.0,2026-10-01,assessed,1,Docker,gap_identified
+EMP-000017,ROL-000001,Engineering,Python Developer,SKL-000048,3,2026-01-01,,,,not_assessed,,Specialized Skill 0048,not_assessed
+EMP-000018,ROL-000003,IT,Software Engineer,SKL-000034,3,2026-01-01,,4.0,2026-10-01,assessed,0,Specialized Skill 0034,no_gap
+EMP-000018,ROL-000003,IT,Software Engineer,SKL-000018,4,2026-01-01,,1.0,2026-10-01,assessed,3,AWS,gap_identified
+EMP-000018,ROL-000003,IT,Software Engineer,SKL-000042,4,2026-01-01,,4.0,2026-10-01,assessed,0,Specialized Skill 0042,no_gap
+EMP-000018,ROL-000003,IT,Software Engineer,SKL-000038,4,2026-01-01,,,,not_assessed,,Specialized Skill 0038,not_assessed
+EMP-000018,ROL-000003,IT,Software Engineer,SKL-000023,5,2026-01-01,,4.0,2026-10-01,assessed,1,REST APIs,gap_identified
+EMP-000018,ROL-000003,IT,Software Engineer,SKL-000003,3,2026-01-01,,3.0,2026-10-01,assessed,0,Java,no_gap
+EMP-000018,ROL-000003,IT,Software Engineer,SKL-000004,3,2026-01-01,,,,not_assessed,,JavaScript,not_assessed
+EMP-000018,ROL-000003,IT,Software Engineer,SKL-000036,5,2026-01-01,,4.0,2026-10-01,assessed,1,Specialized Skill 0036,gap_identified
+EMP-000018,ROL-000003,IT,Software Engineer,SKL-000035,5,2026-01-01,,3.0,2026-10-01,assessed,2,Specialized Skill 0035,gap_identified
+EMP-000018,ROL-000003,IT,Software Engineer,SKL-000049,3,2026-01-01,,,,not_assessed,,Specialized Skill 0049,not_assessed
+EMP-000018,ROL-000003,IT,Software Engineer,SKL-000016,4,2026-01-01,,4.0,2026-10-01,assessed,0,Statistics,no_gap
+EMP-000018,ROL-000003,IT,Software Engineer,SKL-000020,5,2026-01-01,,,,not_assessed,,Linux,not_assessed
+EMP-000019,ROL-000002,Data,Data Analyst,SKL-000026,5,2026-01-01,,2.0,2026-10-01,assessed,3,Data Structures,gap_identified
+EMP-000019,ROL-000002,Data,Data Analyst,SKL-000033,3,2026-01-01,,3.0,2026-10-01,assessed,0,Specialized Skill 0033,no_gap
+EMP-000019,ROL-000002,Data,Data Analyst,SKL-000048,5,2026-01-01,,3.0,2026-10-01,assessed,2,Specialized Skill 0048,gap_identified
+EMP-000019,ROL-000002,Data,Data Analyst,SKL-000037,5,2026-01-01,,2.0,2026-10-01,assessed,3,Specialized Skill 0037,gap_identified
+EMP-000019,ROL-000002,Data,Data Analyst,SKL-000034,5,2026-01-01,,2.0,2026-10-01,assessed,3,Specialized Skill 0034,gap_identified
+EMP-000019,ROL-000002,Data,Data Analyst,SKL-000006,5,2026-01-01,,,,not_assessed,,CSS,not_assessed
+EMP-000019,ROL-000002,Data,Data Analyst,SKL-000012,4,2026-01-01,,,,not_assessed,,Communication,not_assessed
+EMP-000019,ROL-000002,Data,Data Analyst,SKL-000045,3,2026-01-01,,1.0,2026-10-01,assessed,2,Specialized Skill 0045,gap_identified
+EMP-000019,ROL-000002,Data,Data Analyst,SKL-000005,5,2026-01-01,,,,not_assessed,,HTML,not_assessed
+EMP-000019,ROL-000002,Data,Data Analyst,SKL-000047,4,2026-01-01,,,,not_assessed,,Specialized Skill 0047,not_assessed
+EMP-000019,ROL-000002,Data,Data Analyst,SKL-000030,4,2026-01-01,,5.0,2026-10-01,assessed,0,Leadership,no_gap
+EMP-000019,ROL-000002,Data,Data Analyst,SKL-000003,3,2026-01-01,,1.0,2026-10-01,assessed,2,Java,gap_identified
+EMP-000020,ROL-000010,Operations,Project Coordinator,SKL-000040,3,2026-01-01,,5.0,2026-10-01,assessed,0,Specialized Skill 0040,no_gap
+EMP-000020,ROL-000010,Operations,Project Coordinator,SKL-000033,3,2026-01-01,,,,not_assessed,,Specialized Skill 0033,not_assessed
+EMP-000020,ROL-000010,Operations,Project Coordinator,SKL-000043,3,2026-01-01,,,,not_assessed,,Specialized Skill 0043,not_assessed
+EMP-000020,ROL-000010,Operations,Project Coordinator,SKL-000027,5,2026-01-01,,2.0,2026-10-01,assessed,3,Cybersecurity,gap_identified
+EMP-000020,ROL-000010,Operations,Project Coordinator,SKL-000035,4,2026-01-01,,1.0,2026-10-01,assessed,3,Specialized Skill 0035,gap_identified
+EMP-000020,ROL-000010,Operations,Project Coordinator,SKL-000020,3,2026-01-01,,3.0,2026-10-01,assessed,0,Linux,no_gap
+EMP-000020,ROL-000010,Operations,Project Coordinator,SKL-000011,3,2026-01-01,,4.0,2026-10-01,assessed,0,Problem Solving,no_gap
+EMP-000020,ROL-000010,Operations,Project Coordinator,SKL-000025,3,2026-01-01,,,,not_assessed,,OOP,not_assessed
+EMP-000020,ROL-000010,Operations,Project Coordinator,SKL-000017,3,2026-01-01,,2.0,2026-10-01,assessed,1,Cloud Computing,gap_identified
+EMP-000020,ROL-000010,Operations,Project Coordinator,SKL-000031,4,2026-01-01,,,,not_assessed,,Specialized Skill 0031,not_assessed
+EMP-000020,ROL-000010,Operations,Project Coordinator,SKL-000003,3,2026-01-01,,4.0,2026-10-01,assessed,0,Java,no_gap
+EMP-000020,ROL-000010,Operations,Project Coordinator,SKL-000008,4,2026-01-01,,5.0,2026-10-01,assessed,0,Flask,no_gap
+EMP-000021,ROL-000009,HR,Database Administrator,SKL-000008,4,2026-01-01,,,,not_assessed,,Flask,not_assessed
+EMP-000021,ROL-000009,HR,Database Administrator,SKL-000048,4,2026-01-01,,1.0,2026-10-01,assessed,3,Specialized Skill 0048,gap_identified
+EMP-000021,ROL-000009,HR,Database Administrator,SKL-000001,4,2026-01-01,,4.0,2026-10-01,assessed,0,Python,no_gap
+EMP-000021,ROL-000009,HR,Database Administrator,SKL-000015,5,2026-01-01,,2.0,2026-10-01,assessed,3,Machine Learning,gap_identified
+EMP-000021,ROL-000009,HR,Database Administrator,SKL-000030,3,2026-01-01,,5.0,2026-10-01,assessed,0,Leadership,no_gap
+EMP-000021,ROL-000009,HR,Database Administrator,SKL-000027,4,2026-01-01,,,,not_assessed,,Cybersecurity,not_assessed
+EMP-000021,ROL-000009,HR,Database Administrator,SKL-000049,5,2026-01-01,,2.0,2026-10-01,assessed,3,Specialized Skill 0049,gap_identified
+EMP-000021,ROL-000009,HR,Database Administrator,SKL-000033,3,2026-01-01,,,,not_assessed,,Specialized Skill 0033,not_assessed
+EMP-000021,ROL-000009,HR,Database Administrator,SKL-000004,4,2026-01-01,,,,not_assessed,,JavaScript,not_assessed
+EMP-000021,ROL-000009,HR,Database Administrator,SKL-000041,4,2026-01-01,,4.0,2026-10-01,assessed,0,Specialized Skill 0041,no_gap
+EMP-000021,ROL-000009,HR,Database Administrator,SKL-000042,5,2026-01-01,,2.0,2026-10-01,assessed,3,Specialized Skill 0042,gap_identified
+EMP-000021,ROL-000009,HR,Database Administrator,SKL-000021,5,2026-01-01,,2.0,2026-10-01,assessed,3,Docker,gap_identified
+EMP-000022,ROL-000006,Engineering,Business Analyst,SKL-000003,4,2026-01-01,,4.0,2026-10-01,assessed,0,Java,no_gap
+EMP-000022,ROL-000006,Engineering,Business Analyst,SKL-000020,4,2026-01-01,,3.0,2026-10-01,assessed,1,Linux,gap_identified
+EMP-000022,ROL-000006,Engineering,Business Analyst,SKL-000008,3,2026-01-01,,4.0,2026-10-01,assessed,0,Flask,no_gap
+EMP-000022,ROL-000006,Engineering,Business Analyst,SKL-000010,4,2026-01-01,,,,not_assessed,,Git,not_assessed
+EMP-000022,ROL-000006,Engineering,Business Analyst,SKL-000034,4,2026-01-01,,,,not_assessed,,Specialized Skill 0034,not_assessed
+EMP-000022,ROL-000006,Engineering,Business Analyst,SKL-000035,5,2026-01-01,,,,not_assessed,,Specialized Skill 0035,not_assessed
+EMP-000022,ROL-000006,Engineering,Business Analyst,SKL-000043,5,2026-01-01,,2.0,2026-10-01,assessed,3,Specialized Skill 0043,gap_identified
+EMP-000022,ROL-000006,Engineering,Business Analyst,SKL-000039,5,2026-01-01,,,,not_assessed,,Specialized Skill 0039,not_assessed
+EMP-000022,ROL-000006,Engineering,Business Analyst,SKL-000009,5,2026-01-01,,1.0,2026-10-01,assessed,4,Django,gap_identified
+EMP-000022,ROL-000006,Engineering,Business Analyst,SKL-000047,3,2026-01-01,,1.0,2026-10-01,assessed,2,Specialized Skill 0047,gap_identified
+EMP-000022,ROL-000006,Engineering,Business Analyst,SKL-000007,5,2026-01-01,,2.0,2026-10-01,assessed,3,React,gap_identified
+EMP-000022,ROL-000006,Engineering,Business Analyst,SKL-000004,3,2026-01-01,,5.0,2026-10-01,assessed,0,JavaScript,no_gap
+EMP-000023,ROL-000003,IT,Software Engineer,SKL-000034,3,2026-01-01,,3.0,2026-10-01,assessed,0,Specialized Skill 0034,no_gap
+EMP-000023,ROL-000003,IT,Software Engineer,SKL-000018,4,2026-01-01,,2.0,2026-10-01,assessed,2,AWS,gap_identified
+EMP-000023,ROL-000003,IT,Software Engineer,SKL-000042,4,2026-01-01,,,,not_assessed,,Specialized Skill 0042,not_assessed
+EMP-000023,ROL-000003,IT,Software Engineer,SKL-000038,4,2026-01-01,,,,not_assessed,,Specialized Skill 0038,not_assessed
+EMP-000023,ROL-000003,IT,Software Engineer,SKL-000023,5,2026-01-01,,2.0,2026-10-01,assessed,3,REST APIs,gap_identified
+EMP-000023,ROL-000003,IT,Software Engineer,SKL-000003,3,2026-01-01,,4.0,2026-10-01,assessed,0,Java,no_gap
+EMP-000023,ROL-000003,IT,Software Engineer,SKL-000004,3,2026-01-01,,1.0,2026-10-01,assessed,2,JavaScript,gap_identified
+EMP-000023,ROL-000003,IT,Software Engineer,SKL-000036,5,2026-01-01,,5.0,2026-10-01,assessed,0,Specialized Skill 0036,no_gap
+EMP-000023,ROL-000003,IT,Software Engineer,SKL-000035,5,2026-01-01,,1.0,2026-10-01,assessed,4,Specialized Skill 0035,gap_identified
+EMP-000023,ROL-000003,IT,Software Engineer,SKL-000049,3,2026-01-01,,,,not_assessed,,Specialized Skill 0049,not_assessed
+EMP-000023,ROL-000003,IT,Software Engineer,SKL-000016,4,2026-01-01,,5.0,2026-10-01,assessed,0,Statistics,no_gap
+EMP-000023,ROL-000003,IT,Software Engineer,SKL-000020,5,2026-01-01,,,,not_assessed,,Linux,not_assessed
+EMP-000024,ROL-000010,Operations,Project Coordinator,SKL-000040,3,2026-01-01,,,,not_assessed,,Specialized Skill 0040,not_assessed
+EMP-000024,ROL-000010,Operations,Project Coordinator,SKL-000033,3,2026-01-01,,4.0,2026-10-01,assessed,0,Specialized Skill 0033,no_gap
+EMP-000024,ROL-000010,Operations,Project Coordinator,SKL-000043,3,2026-01-01,,2.0,2026-10-01,assessed,1,Specialized Skill 0043,gap_identified
+EMP-000024,ROL-000010,Operations,Project Coordinator,SKL-000027,5,2026-01-01,,,,not_assessed,,Cybersecurity,not_assessed
+EMP-000024,ROL-000010,Operations,Project Coordinator,SKL-000035,4,2026-01-01,,,,not_assessed,,Specialized Skill 0035,not_assessed
+EMP-000024,ROL-000010,Operations,Project Coordinator,SKL-000020,3,2026-01-01,,4.0,2026-10-01,assessed,0,Linux,no_gap
+EMP-000024,ROL-000010,Operations,Project Coordinator,SKL-000011,3,2026-01-01,,4.0,2026-10-01,assessed,0,Problem Solving,no_gap
+EMP-000024,ROL-000010,Operations,Project Coordinator,SKL-000025,3,2026-01-01,,,,not_assessed,,OOP,not_assessed
+EMP-000024,ROL-000010,Operations,Project Coordinator,SKL-000017,3,2026-01-01,,1.0,2026-10-01,assessed,2,Cloud Computing,gap_identified
+EMP-000024,ROL-000010,Operations,Project Coordinator,SKL-000031,4,2026-01-01,,2.0,2026-10-01,assessed,2,Specialized Skill 0031,gap_identified
+EMP-000024,ROL-000010,Operations,Project Coordinator,SKL-000003,3,2026-01-01,,1.0,2026-10-01,assessed,2,Java,gap_identified
+EMP-000024,ROL-000010,Operations,Project Coordinator,SKL-000008,4,2026-01-01,,1.0,2026-10-01,assessed,3,Flask,gap_identified
+EMP-000025,ROL-000002,Data,Data Analyst,SKL-000026,5,2026-01-01,,2.0,2026-10-01,assessed,3,Data Structures,gap_identified
+EMP-000025,ROL-000002,Data,Data Analyst,SKL-000033,3,2026-01-01,,2.0,2026-10-01,assessed,1,Specialized Skill 0033,gap_identified
+EMP-000025,ROL-000002,Data,Data Analyst,SKL-000048,5,2026-01-01,,,,not_assessed,,Specialized Skill 0048,not_assessed
+EMP-000025,ROL-000002,Data,Data Analyst,SKL-000037,5,2026-01-01,,,,not_assessed,,Specialized Skill 0037,not_assessed
+EMP-000025,ROL-000002,Data,Data Analyst,SKL-000034,5,2026-01-01,,3.0,2026-10-01,assessed,2,Specialized Skill 0034,gap_identified
+EMP-000025,ROL-000002,Data,Data Analyst,SKL-000006,5,2026-01-01,,3.0,2026-10-01,assessed,2,CSS,gap_identified
+EMP-000025,ROL-000002,Data,Data Analyst,SKL-000012,4,2026-01-01,,4.0,2026-10-01,assessed,0,Communication,no_gap
+EMP-000025,ROL-000002,Data,Data Analyst,SKL-000045,3,2026-01-01,,5.0,2026-10-01,assessed,0,Specialized Skill 0045,no_gap
+EMP-000025,ROL-000002,Data,Data Analyst,SKL-000005,5,2026-01-01,,2.0,2026-10-01,assessed,3,HTML,gap_identified
+EMP-000025,ROL-000002,Data,Data Analyst,SKL-000047,4,2026-01-01,,,,not_assessed,,Specialized Skill 0047,not_assessed
+EMP-000025,ROL-000002,Data,Data Analyst,SKL-000030,4,2026-01-01,,3.0,2026-10-01,assessed,1,Leadership,gap_identified
+EMP-000025,ROL-000002,Data,Data Analyst,SKL-000003,3,2026-01-01,,,,not_assessed,,Java,not_assessed
+EMP-000026,ROL-000008,IT,QA Engineer,SKL-000017,3,2026-01-01,,1.0,2026-10-01,assessed,2,Cloud Computing,gap_identified
+EMP-000026,ROL-000008,IT,QA Engineer,SKL-000043,3,2026-01-01,,2.0,2026-10-01,assessed,1,Specialized Skill 0043,gap_identified
+EMP-000026,ROL-000008,IT,QA Engineer,SKL-000024,4,2026-01-01,,1.0,2026-10-01,assessed,3,Testing,gap_identified
+EMP-000026,ROL-000008,IT,QA Engineer,SKL-000048,5,2026-01-01,,,,not_assessed,,Specialized Skill 0048,not_assessed
+EMP-000026,ROL-000008,IT,QA Engineer,SKL-000016,3,2026-01-01,,,,not_assessed,,Statistics,not_assessed
+EMP-000026,ROL-000008,IT,QA Engineer,SKL-000049,3,2026-01-01,,,,not_assessed,,Specialized Skill 0049,not_assessed
+EMP-000026,ROL-000008,IT,QA Engineer,SKL-000022,4,2026-01-01,,,,not_assessed,,Kubernetes,not_assessed
+EMP-000026,ROL-000008,IT,QA Engineer,SKL-000006,3,2026-01-01,,2.0,2026-10-01,assessed,1,CSS,gap_identified
+EMP-000026,ROL-000008,IT,QA Engineer,SKL-000003,3,2026-01-01,,4.0,2026-10-01,assessed,0,Java,no_gap
+EMP-000026,ROL-000008,IT,QA Engineer,SKL-000015,4,2026-01-01,,5.0,2026-10-01,assessed,0,Machine Learning,no_gap
+EMP-000026,ROL-000008,IT,QA Engineer,SKL-000039,5,2026-01-01,,1.0,2026-10-01,assessed,4,Specialized Skill 0039,gap_identified
+EMP-000026,ROL-000008,IT,QA Engineer,SKL-000018,3,2026-01-01,,2.0,2026-10-01,assessed,1,AWS,gap_identified
+EMP-000027,ROL-000003,IT,Software Engineer,SKL-000034,3,2026-01-01,,1.0,2026-10-01,assessed,2,Specialized Skill 0034,gap_identified
+EMP-000027,ROL-000003,IT,Software Engineer,SKL-000018,4,2026-01-01,,,,not_assessed,,AWS,not_assessed
+EMP-000027,ROL-000003,IT,Software Engineer,SKL-000042,4,2026-01-01,,4.0,2026-10-01,assessed,0,Specialized Skill 0042,no_gap
+EMP-000027,ROL-000003,IT,Software Engineer,SKL-000038,4,2026-01-01,,5.0,2026-10-01,assessed,0,Specialized Skill 0038,no_gap
+EMP-000027,ROL-000003,IT,Software Engineer,SKL-000023,5,2026-01-01,,3.0,2026-10-01,assessed,2,REST APIs,gap_identified
+EMP-000027,ROL-000003,IT,Software Engineer,SKL-000003,3,2026-01-01,,2.0,2026-10-01,assessed,1,Java,gap_identified
+EMP-000027,ROL-000003,IT,Software Engineer,SKL-000004,3,2026-01-01,,,,not_assessed,,JavaScript,not_assessed
+EMP-000027,ROL-000003,IT,Software Engineer,SKL-000036,5,2026-01-01,,3.0,2026-10-01,assessed,2,Specialized Skill 0036,gap_identified
+EMP-000027,ROL-000003,IT,Software Engineer,SKL-000035,5,2026-01-01,,2.0,2026-10-01,assessed,3,Specialized Skill 0035,gap_identified
+EMP-000027,ROL-000003,IT,Software Engineer,SKL-000049,3,2026-01-01,,,,not_assessed,,Specialized Skill 0049,not_assessed
+EMP-000027,ROL-000003,IT,Software Engineer,SKL-000016,4,2026-01-01,,3.0,2026-10-01,assessed,1,Statistics,gap_identified
+EMP-000027,ROL-000003,IT,Software Engineer,SKL-000020,5,2026-01-01,,,,not_assessed,,Linux,not_assessed
+EMP-000028,ROL-000009,HR,Database Administrator,SKL-000008,4,2026-01-01,,1.0,2026-10-01,assessed,3,Flask,gap_identified
+EMP-000028,ROL-000009,HR,Database Administrator,SKL-000048,4,2026-01-01,,,,not_assessed,,Specialized Skill 0048,not_assessed
+EMP-000028,ROL-000009,HR,Database Administrator,SKL-000001,4,2026-01-01,,2.0,2026-10-01,assessed,2,Python,gap_identified
+EMP-000028,ROL-000009,HR,Database Administrator,SKL-000015,5,2026-01-01,,,,not_assessed,,Machine Learning,not_assessed
+EMP-000028,ROL-000009,HR,Database Administrator,SKL-000030,3,2026-01-01,,,,not_assessed,,Leadership,not_assessed
+EMP-000028,ROL-000009,HR,Database Administrator,SKL-000027,4,2026-01-01,,3.0,2026-10-01,assessed,1,Cybersecurity,gap_identified
+EMP-000028,ROL-000009,HR,Database Administrator,SKL-000049,5,2026-01-01,,,,not_assessed,,Specialized Skill 0049,not_assessed
+EMP-000028,ROL-000009,HR,Database Administrator,SKL-000033,3,2026-01-01,,5.0,2026-10-01,assessed,0,Specialized Skill 0033,no_gap
+EMP-000028,ROL-000009,HR,Database Administrator,SKL-000004,4,2026-01-01,,1.0,2026-10-01,assessed,3,JavaScript,gap_identified
+EMP-000028,ROL-000009,HR,Database Administrator,SKL-000041,4,2026-01-01,,1.0,2026-10-01,assessed,3,Specialized Skill 0041,gap_identified
+EMP-000028,ROL-000009,HR,Database Administrator,SKL-000042,5,2026-01-01,,2.0,2026-10-01,assessed,3,Specialized Skill 0042,gap_identified
+EMP-000028,ROL-000009,HR,Database Administrator,SKL-000021,5,2026-01-01,,1.0,2026-10-01,assessed,4,Docker,gap_identified
+EMP-000029,ROL-000001,Engineering,Python Developer,SKL-000031,5,2026-01-01,,,,not_assessed,,Specialized Skill 0031,not_assessed
+EMP-000029,ROL-000001,Engineering,Python Developer,SKL-000009,3,2026-01-01,,5.0,2026-10-01,assessed,0,Django,no_gap
+EMP-000029,ROL-000001,Engineering,Python Developer,SKL-000004,5,2026-01-01,,2.0,2026-10-01,assessed,3,JavaScript,gap_identified
+EMP-000029,ROL-000001,Engineering,Python Developer,SKL-000019,3,2026-01-01,,5.0,2026-10-01,assessed,0,Azure,no_gap
+EMP-000029,ROL-000001,Engineering,Python Developer,SKL-000012,5,2026-01-01,,,,not_assessed,,Communication,not_assessed
+EMP-000029,ROL-000001,Engineering,Python Developer,SKL-000050,5,2026-01-01,,2.0,2026-10-01,assessed,3,Specialized Skill 0050,gap_identified
+EMP-000029,ROL-000001,Engineering,Python Developer,SKL-000045,3,2026-01-01,,,,not_assessed,,Specialized Skill 0045,not_assessed
+EMP-000029,ROL-000001,Engineering,Python Developer,SKL-000028,4,2026-01-01,,,,not_assessed,,Networking,not_assessed
+EMP-000029,ROL-000001,Engineering,Python Developer,SKL-000024,5,2026-01-01,,4.0,2026-10-01,assessed,1,Testing,gap_identified
+EMP-000029,ROL-000001,Engineering,Python Developer,SKL-000026,5,2026-01-01,,1.0,2026-10-01,assessed,4,Data Structures,gap_identified
+EMP-000029,ROL-000001,Engineering,Python Developer,SKL-000021,4,2026-01-01,,4.0,2026-10-01,assessed,0,Docker,no_gap
+EMP-000029,ROL-000001,Engineering,Python Developer,SKL-000048,3,2026-01-01,,1.0,2026-10-01,assessed,2,Specialized Skill 0048,gap_identified
+EMP-000030,ROL-000006,Engineering,Business Analyst,SKL-000003,4,2026-01-01,,,,not_assessed,,Java,not_assessed
+EMP-000030,ROL-000006,Engineering,Business Analyst,SKL-000020,4,2026-01-01,,4.0,2026-10-01,assessed,0,Linux,no_gap
+EMP-000030,ROL-000006,Engineering,Business Analyst,SKL-000008,3,2026-01-01,,2.0,2026-10-01,assessed,1,Flask,gap_identified
+EMP-000030,ROL-000006,Engineering,Business Analyst,SKL-000010,4,2026-01-01,,2.0,2026-10-01,assessed,2,Git,gap_identified
+EMP-000030,ROL-000006,Engineering,Business Analyst,SKL-000034,4,2026-01-01,,4.0,2026-10-01,assessed,0,Specialized Skill 0034,no_gap
+EMP-000030,ROL-000006,Engineering,Business Analyst,SKL-000035,5,2026-01-01,,,,not_assessed,,Specialized Skill 0035,not_assessed
+EMP-000030,ROL-000006,Engineering,Business Analyst,SKL-000043,5,2026-01-01,,1.0,2026-10-01,assessed,4,Specialized Skill 0043,gap_identified
+EMP-000030,ROL-000006,Engineering,Business Analyst,SKL-000039,5,2026-01-01,,4.0,2026-10-01,assessed,1,Specialized Skill 0039,gap_identified
+EMP-000030,ROL-000006,Engineering,Business Analyst,SKL-000009,5,2026-01-01,,1.0,2026-10-01,assessed,4,Django,gap_identified
+EMP-000030,ROL-000006,Engineering,Business Analyst,SKL-000047,3,2026-01-01,,,,not_assessed,,Specialized Skill 0047,not_assessed
+EMP-000030,ROL-000006,Engineering,Business Analyst,SKL-000007,5,2026-01-01,,1.0,2026-10-01,assessed,4,React,gap_identified
+EMP-000030,ROL-000006,Engineering,Business Analyst,SKL-000004,3,2026-01-01,,,,not_assessed,,JavaScript,not_assessed
+EMP-000031,ROL-000005,Operations,HR Analyst,SKL-000031,4,2026-01-01,,,,not_assessed,,Specialized Skill 0031,not_assessed
+EMP-000031,ROL-000005,Operations,HR Analyst,SKL-000006,4,2026-01-01,,4.0,2026-10-01,assessed,0,CSS,no_gap
+EMP-000031,ROL-000005,Operations,HR Analyst,SKL-000037,3,2026-01-01,,5.0,2026-10-01,assessed,0,Specialized Skill 0037,no_gap
+EMP-000031,ROL-000005,Operations,HR Analyst,SKL-000039,4,2026-01-01,,1.0,2026-10-01,assessed,3,Specialized Skill 0039,gap_identified
+EMP-000031,ROL-000005,Operations,HR Analyst,SKL-000024,5,2026-01-01,,1.0,2026-10-01,assessed,4,Testing,gap_identified
+EMP-000031,ROL-000005,Operations,HR Analyst,SKL-000008,4,2026-01-01,,4.0,2026-10-01,assessed,0,Flask,no_gap
+EMP-000031,ROL-000005,Operations,HR Analyst,SKL-000044,3,2026-01-01,,1.0,2026-10-01,assessed,2,Specialized Skill 0044,gap_identified
+EMP-000031,ROL-000005,Operations,HR Analyst,SKL-000040,4,2026-01-01,,4.0,2026-10-01,assessed,0,Specialized Skill 0040,no_gap
+EMP-000031,ROL-000005,Operations,HR Analyst,SKL-000041,5,2026-01-01,,2.0,2026-10-01,assessed,3,Specialized Skill 0041,gap_identified
+EMP-000031,ROL-000005,Operations,HR Analyst,SKL-000032,5,2026-01-01,,,,not_assessed,,Specialized Skill 0032,not_assessed
+EMP-000031,ROL-000005,Operations,HR Analyst,SKL-000042,4,2026-01-01,,,,not_assessed,,Specialized Skill 0042,not_assessed
+EMP-000031,ROL-000005,Operations,HR Analyst,SKL-000002,4,2026-01-01,,,,not_assessed,,SQL,not_assessed
+EMP-000032,ROL-000004,HR,IT Support Engineer,SKL-000012,5,2026-01-01,,,,not_assessed,,Communication,not_assessed
+EMP-000032,ROL-000004,HR,IT Support Engineer,SKL-000020,4,2026-01-01,,1.0,2026-10-01,assessed,3,Linux,gap_identified
+EMP-000032,ROL-000004,HR,IT Support Engineer,SKL-000029,4,2026-01-01,,,,not_assessed,,Project Management,not_assessed
+EMP-000032,ROL-000004,HR,IT Support Engineer,SKL-000045,4,2026-01-01,,5.0,2026-10-01,assessed,0,Specialized Skill 0045,no_gap
+EMP-000032,ROL-000004,HR,IT Support Engineer,SKL-000021,4,2026-01-01,,5.0,2026-10-01,assessed,0,Docker,no_gap
+EMP-000032,ROL-000004,HR,IT Support Engineer,SKL-000025,4,2026-01-01,,5.0,2026-10-01,assessed,0,OOP,no_gap
+EMP-000032,ROL-000004,HR,IT Support Engineer,SKL-000013,5,2026-01-01,,,,not_assessed,,Excel,not_assessed
+EMP-000032,ROL-000004,HR,IT Support Engineer,SKL-000034,3,2026-01-01,,4.0,2026-10-01,assessed,0,Specialized Skill 0034,no_gap
+EMP-000032,ROL-000004,HR,IT Support Engineer,SKL-000044,4,2026-01-01,,4.0,2026-10-01,assessed,0,Specialized Skill 0044,no_gap
+EMP-000032,ROL-000004,HR,IT Support Engineer,SKL-000003,5,2026-01-01,,,,not_assessed,,Java,not_assessed
+EMP-000032,ROL-000004,HR,IT Support Engineer,SKL-000042,3,2026-01-01,,2.0,2026-10-01,assessed,1,Specialized Skill 0042,gap_identified
+EMP-000032,ROL-000004,HR,IT Support Engineer,SKL-000008,4,2026-01-01,,1.0,2026-10-01,assessed,3,Flask,gap_identified
+EMP-000033,ROL-000002,Data,Data Analyst,SKL-000026,5,2026-01-01,,4.0,2026-10-01,assessed,1,Data Structures,gap_identified
+EMP-000033,ROL-000002,Data,Data Analyst,SKL-000033,3,2026-01-01,,,,not_assessed,,Specialized Skill 0033,not_assessed
+EMP-000033,ROL-000002,Data,Data Analyst,SKL-000048,5,2026-01-01,,4.0,2026-10-01,assessed,1,Specialized Skill 0048,gap_identified
+EMP-000033,ROL-000002,Data,Data Analyst,SKL-000037,5,2026-01-01,,4.0,2026-10-01,assessed,1,Specialized Skill 0037,gap_identified
+EMP-000033,ROL-000002,Data,Data Analyst,SKL-000034,5,2026-01-01,,3.0,2026-10-01,assessed,2,Specialized Skill 0034,gap_identified
+EMP-000033,ROL-000002,Data,Data Analyst,SKL-000006,5,2026-01-01,,4.0,2026-10-01,assessed,1,CSS,gap_identified
+EMP-000033,ROL-000002,Data,Data Analyst,SKL-000012,4,2026-01-01,,,,not_assessed,,Communication,not_assessed
+EMP-000033,ROL-000002,Data,Data Analyst,SKL-000045,3,2026-01-01,,,,not_assessed,,Specialized Skill 0045,not_assessed
+EMP-000033,ROL-000002,Data,Data Analyst,SKL-000005,5,2026-01-01,,,,not_assessed,,HTML,not_assessed
+EMP-000033,ROL-000002,Data,Data Analyst,SKL-000047,4,2026-01-01,,2.0,2026-10-01,assessed,2,Specialized Skill 0047,gap_identified
+EMP-000033,ROL-000002,Data,Data Analyst,SKL-000030,4,2026-01-01,,3.0,2026-10-01,assessed,1,Leadership,gap_identified
+EMP-000033,ROL-000002,Data,Data Analyst,SKL-000003,3,2026-01-01,,5.0,2026-10-01,assessed,0,Java,no_gap
+EMP-000034,ROL-000007,Data,Cloud Engineer,SKL-000025,4,2026-01-01,,,,not_assessed,,OOP,not_assessed
+EMP-000034,ROL-000007,Data,Cloud Engineer,SKL-000048,4,2026-01-01,,4.0,2026-10-01,assessed,0,Specialized Skill 0048,no_gap
+EMP-000034,ROL-000007,Data,Cloud Engineer,SKL-000002,5,2026-01-01,,2.0,2026-10-01,assessed,3,SQL,gap_identified
+EMP-000034,ROL-000007,Data,Cloud Engineer,SKL-000024,3,2026-01-01,,,,not_assessed,,Testing,not_assessed
+EMP-000034,ROL-000007,Data,Cloud Engineer,SKL-000007,4,2026-01-01,,3.0,2026-10-01,assessed,1,React,gap_identified
+EMP-000034,ROL-000007,Data,Cloud Engineer,SKL-000023,4,2026-01-01,,4.0,2026-10-01,assessed,0,REST APIs,no_gap
+EMP-000034,ROL-000007,Data,Cloud Engineer,SKL-000003,4,2026-01-01,,4.0,2026-10-01,assessed,0,Java,no_gap
+EMP-000034,ROL-000007,Data,Cloud Engineer,SKL-000036,3,2026-01-01,,3.0,2026-10-01,assessed,0,Specialized Skill 0036,no_gap
+EMP-000034,ROL-000007,Data,Cloud Engineer,SKL-000030,3,2026-01-01,,,,not_assessed,,Leadership,not_assessed
+EMP-000034,ROL-000007,Data,Cloud Engineer,SKL-000020,4,2026-01-01,,,,not_assessed,,Linux,not_assessed
+EMP-000034,ROL-000007,Data,Cloud Engineer,SKL-000011,3,2026-01-01,,1.0,2026-10-01,assessed,2,Problem Solving,gap_identified
+EMP-000034,ROL-000007,Data,Cloud Engineer,SKL-000021,5,2026-01-01,,4.0,2026-10-01,assessed,1,Docker,gap_identified
+EMP-000035,ROL-000010,Operations,Project Coordinator,SKL-000040,3,2026-01-01,,5.0,2026-10-01,assessed,0,Specialized Skill 0040,no_gap
+EMP-000035,ROL-000010,Operations,Project Coordinator,SKL-000033,3,2026-01-01,,,,not_assessed,,Specialized Skill 0033,not_assessed
+EMP-000035,ROL-000010,Operations,Project Coordinator,SKL-000043,3,2026-01-01,,4.0,2026-10-01,assessed,0,Specialized Skill 0043,no_gap
+EMP-000035,ROL-000010,Operations,Project Coordinator,SKL-000027,5,2026-01-01,,5.0,2026-10-01,assessed,0,Cybersecurity,no_gap
+EMP-000035,ROL-000010,Operations,Project Coordinator,SKL-000035,4,2026-01-01,,4.0,2026-10-01,assessed,0,Specialized Skill 0035,no_gap
+EMP-000035,ROL-000010,Operations,Project Coordinator,SKL-000020,3,2026-01-01,,3.0,2026-10-01,assessed,0,Linux,no_gap
+EMP-000035,ROL-000010,Operations,Project Coordinator,SKL-000011,3,2026-01-01,,4.0,2026-10-01,assessed,0,Problem Solving,no_gap
+EMP-000035,ROL-000010,Operations,Project Coordinator,SKL-000025,3,2026-01-01,,1.0,2026-10-01,assessed,2,OOP,gap_identified
+EMP-000035,ROL-000010,Operations,Project Coordinator,SKL-000017,3,2026-01-01,,,,not_assessed,,Cloud Computing,not_assessed
+EMP-000035,ROL-000010,Operations,Project Coordinator,SKL-000031,4,2026-01-01,,,,not_assessed,,Specialized Skill 0031,not_assessed
+EMP-000035,ROL-000010,Operations,Project Coordinator,SKL-000003,3,2026-01-01,,,,not_assessed,,Java,not_assessed
+EMP-000035,ROL-000010,Operations,Project Coordinator,SKL-000008,4,2026-01-01,,2.0,2026-10-01,assessed,2,Flask,gap_identified
+EMP-000036,ROL-000008,IT,QA Engineer,SKL-000017,3,2026-01-01,,1.0,2026-10-01,assessed,2,Cloud Computing,gap_identified
+EMP-000036,ROL-000008,IT,QA Engineer,SKL-000043,3,2026-01-01,,2.0,2026-10-01,assessed,1,Specialized Skill 0043,gap_identified
+EMP-000036,ROL-000008,IT,QA Engineer,SKL-000024,4,2026-01-01,,4.0,2026-10-01,assessed,0,Testing,no_gap
+EMP-000036,ROL-000008,IT,QA Engineer,SKL-000048,5,2026-01-01,,4.0,2026-10-01,assessed,1,Specialized Skill 0048,gap_identified
+EMP-000036,ROL-000008,IT,QA Engineer,SKL-000016,3,2026-01-01,,,,not_assessed,,Statistics,not_assessed
+EMP-000036,ROL-000008,IT,QA Engineer,SKL-000049,3,2026-01-01,,,,not_assessed,,Specialized Skill 0049,not_assessed
+EMP-000036,ROL-000008,IT,QA Engineer,SKL-000022,4,2026-01-01,,2.0,2026-10-01,assessed,2,Kubernetes,gap_identified
+EMP-000036,ROL-000008,IT,QA Engineer,SKL-000006,3,2026-01-01,,5.0,2026-10-01,assessed,0,CSS,no_gap
+EMP-000036,ROL-000008,IT,QA Engineer,SKL-000003,3,2026-01-01,,1.0,2026-10-01,assessed,2,Java,gap_identified
+EMP-000036,ROL-000008,IT,QA Engineer,SKL-000015,4,2026-01-01,,,,not_assessed,,Machine Learning,not_assessed
+EMP-000036,ROL-000008,IT,QA Engineer,SKL-000039,5,2026-01-01,,1.0,2026-10-01,assessed,4,Specialized Skill 0039,gap_identified
+EMP-000036,ROL-000008,IT,QA Engineer,SKL-000018,3,2026-01-01,,,,not_assessed,,AWS,not_assessed
+EMP-000037,ROL-000009,HR,Database Administrator,SKL-000008,4,2026-01-01,,,,not_assessed,,Flask,not_assessed
+EMP-000037,ROL-000009,HR,Database Administrator,SKL-000048,4,2026-01-01,,,,not_assessed,,Specialized Skill 0048,not_assessed
+EMP-000037,ROL-000009,HR,Database Administrator,SKL-000001,4,2026-01-01,,5.0,2026-10-01,assessed,0,Python,no_gap
+EMP-000037,ROL-000009,HR,Database Administrator,SKL-000015,5,2026-01-01,,2.0,2026-10-01,assessed,3,Machine Learning,gap_identified
+EMP-000037,ROL-000009,HR,Database Administrator,SKL-000030,3,2026-01-01,,5.0,2026-10-01,assessed,0,Leadership,no_gap
+EMP-000037,ROL-000009,HR,Database Administrator,SKL-000027,4,2026-01-01,,5.0,2026-10-01,assessed,0,Cybersecurity,no_gap
+EMP-000037,ROL-000009,HR,Database Administrator,SKL-000049,5,2026-01-01,,1.0,2026-10-01,assessed,4,Specialized Skill 0049,gap_identified
+EMP-000037,ROL-000009,HR,Database Administrator,SKL-000033,3,2026-01-01,,3.0,2026-10-01,assessed,0,Specialized Skill 0033,no_gap
+EMP-000037,ROL-000009,HR,Database Administrator,SKL-000004,4,2026-01-01,,,,not_assessed,,JavaScript,not_assessed
+EMP-000037,ROL-000009,HR,Database Administrator,SKL-000041,4,2026-01-01,,5.0,2026-10-01,assessed,0,Specialized Skill 0041,no_gap
+EMP-000037,ROL-000009,HR,Database Administrator,SKL-000042,5,2026-01-01,,5.0,2026-10-01,assessed,0,Specialized Skill 0042,no_gap
+EMP-000037,ROL-000009,HR,Database Administrator,SKL-000021,5,2026-01-01,,,,not_assessed,,Docker,not_assessed
+EMP-000038,ROL-000006,Engineering,Business Analyst,SKL-000003,4,2026-01-01,,5.0,2026-10-01,assessed,0,Java,no_gap
+EMP-000038,ROL-000006,Engineering,Business Analyst,SKL-000020,4,2026-01-01,,3.0,2026-10-01,assessed,1,Linux,gap_identified
+EMP-000038,ROL-000006,Engineering,Business Analyst,SKL-000008,3,2026-01-01,,,,not_assessed,,Flask,not_assessed
+EMP-000038,ROL-000006,Engineering,Business Analyst,SKL-000010,4,2026-01-01,,3.0,2026-10-01,assessed,1,Git,gap_identified
+EMP-000038,ROL-000006,Engineering,Business Analyst,SKL-000034,4,2026-01-01,,3.0,2026-10-01,assessed,1,Specialized Skill 0034,gap_identified
+EMP-000038,ROL-000006,Engineering,Business Analyst,SKL-000035,5,2026-01-01,,4.0,2026-10-01,assessed,1,Specialized Skill 0035,gap_identified
+EMP-000038,ROL-000006,Engineering,Business Analyst,SKL-000043,5,2026-01-01,,,,not_assessed,,Specialized Skill 0043,not_assessed
+EMP-000038,ROL-000006,Engineering,Business Analyst,SKL-000039,5,2026-01-01,,5.0,2026-10-01,assessed,0,Specialized Skill 0039,no_gap
+EMP-000038,ROL-000006,Engineering,Business Analyst,SKL-000009,5,2026-01-01,,4.0,2026-10-01,assessed,1,Django,gap_identified
+EMP-000038,ROL-000006,Engineering,Business Analyst,SKL-000047,3,2026-01-01,,,,not_assessed,,Specialized Skill 0047,not_assessed
+EMP-000038,ROL-000006,Engineering,Business Analyst,SKL-000007,5,2026-01-01,,5.0,2026-10-01,assessed,0,React,no_gap
+EMP-000038,ROL-000006,Engineering,Business Analyst,SKL-000004,3,2026-01-01,,,,not_assessed,,JavaScript,not_assessed
+EMP-000039,ROL-000010,Operations,Project Coordinator,SKL-000040,3,2026-01-01,,,,not_assessed,,Specialized Skill 0040,not_assessed
+EMP-000039,ROL-000010,Operations,Project Coordinator,SKL-000033,3,2026-01-01,,,,not_assessed,,Specialized Skill 0033,not_assessed
+EMP-000039,ROL-000010,Operations,Project Coordinator,SKL-000043,3,2026-01-01,,,,not_assessed,,Specialized Skill 0043,not_assessed
+EMP-000039,ROL-000010,Operations,Project Coordinator,SKL-000027,5,2026-01-01,,1.0,2026-10-01,assessed,4,Cybersecurity,gap_identified
+EMP-000039,ROL-000010,Operations,Project Coordinator,SKL-000035,4,2026-01-01,,1.0,2026-10-01,assessed,3,Specialized Skill 0035,gap_identified
+EMP-000039,ROL-000010,Operations,Project Coordinator,SKL-000020,3,2026-01-01,,,,not_assessed,,Linux,not_assessed
+EMP-000039,ROL-000010,Operations,Project Coordinator,SKL-000011,3,2026-01-01,,2.0,2026-10-01,assessed,1,Problem Solving,gap_identified
+EMP-000039,ROL-000010,Operations,Project Coordinator,SKL-000025,3,2026-01-01,,2.0,2026-10-01,assessed,1,OOP,gap_identified
+EMP-000039,ROL-000010,Operations,Project Coordinator,SKL-000017,3,2026-01-01,,4.0,2026-10-01,assessed,0,Cloud Computing,no_gap
+EMP-000039,ROL-000010,Operations,Project Coordinator,SKL-000031,4,2026-01-01,,1.0,2026-10-01,assessed,3,Specialized Skill 0031,gap_identified
+EMP-000039,ROL-000010,Operations,Project Coordinator,SKL-000003,3,2026-01-01,,5.0,2026-10-01,assessed,0,Java,no_gap
+EMP-000039,ROL-000010,Operations,Project Coordinator,SKL-000008,4,2026-01-01,,4.0,2026-10-01,assessed,0,Flask,no_gap
+EMP-000040,ROL-000001,Engineering,Python Developer,SKL-000031,5,2026-01-01,,,,not_assessed,,Specialized Skill 0031,not_assessed
+EMP-000040,ROL-000001,Engineering,Python Developer,SKL-000009,3,2026-01-01,,5.0,2026-10-01,assessed,0,Django,no_gap
+EMP-000040,ROL-000001,Engineering,Python Developer,SKL-000004,5,2026-01-01,,3.0,2026-10-01,assessed,2,JavaScript,gap_identified
+EMP-000040,ROL-000001,Engineering,Python Developer,SKL-000019,3,2026-01-01,,1.0,2026-10-01,assessed,2,Azure,gap_identified
+EMP-000040,ROL-000001,Engineering,Python Developer,SKL-000012,5,2026-01-01,,,,not_assessed,,Communication,not_assessed
+EMP-000040,ROL-000001,Engineering,Python Developer,SKL-000050,5,2026-01-01,,,,not_assessed,,Specialized Skill 0050,not_assessed
+EMP-000040,ROL-000001,Engineering,Python Developer,SKL-000045,3,2026-01-01,,2.0,2026-10-01,assessed,1,Specialized Skill 0045,gap_identified
+EMP-000040,ROL-000001,Engineering,Python Developer,SKL-000028,4,2026-01-01,,2.0,2026-10-01,assessed,2,Networking,gap_identified
+EMP-000040,ROL-000001,Engineering,Python Developer,SKL-000024,5,2026-01-01,,5.0,2026-10-01,assessed,0,Testing,no_gap
+EMP-000040,ROL-000001,Engineering,Python Developer,SKL-000026,5,2026-01-01,,2.0,2026-10-01,assessed,3,Data Structures,gap_identified
+EMP-000040,ROL-000001,Engineering,Python Developer,SKL-000021,4,2026-01-01,,,,not_assessed,,Docker,not_assessed
+EMP-000040,ROL-000001,Engineering,Python Developer,SKL-000048,3,2026-01-01,,3.0,2026-10-01,assessed,0,Specialized Skill 0048,no_gap
+EMP-000041,ROL-000001,Engineering,Python Developer,SKL-000031,5,2026-01-01,,,,not_assessed,,Specialized Skill 0031,not_assessed
+EMP-000041,ROL-000001,Engineering,Python Developer,SKL-000009,3,2026-01-01,,1.0,2026-10-01,assessed,2,Django,gap_identified
+EMP-000041,ROL-000001,Engineering,Python Developer,SKL-000004,5,2026-01-01,,4.0,2026-10-01,assessed,1,JavaScript,gap_identified
+EMP-000041,ROL-000001,Engineering,Python Developer,SKL-000019,3,2026-01-01,,5.0,2026-10-01,assessed,0,Azure,no_gap
+EMP-000041,ROL-000001,Engineering,Python Developer,SKL-000012,5,2026-01-01,,5.0,2026-10-01,assessed,0,Communication,no_gap
+EMP-000041,ROL-000001,Engineering,Python Developer,SKL-000050,5,2026-01-01,,2.0,2026-10-01,assessed,3,Specialized Skill 0050,gap_identified
+EMP-000041,ROL-000001,Engineering,Python Developer,SKL-000045,3,2026-01-01,,2.0,2026-10-01,assessed,1,Specialized Skill 0045,gap_identified
+EMP-000041,ROL-000001,Engineering,Python Developer,SKL-000028,4,2026-01-01,,2.0,2026-10-01,assessed,2,Networking,gap_identified
+EMP-000041,ROL-000001,Engineering,Python Developer,SKL-000024,5,2026-01-01,,,,not_assessed,,Testing,not_assessed
+EMP-000041,ROL-000001,Engineering,Python Developer,SKL-000026,5,2026-01-01,,2.0,2026-10-01,assessed,3,Data Structures,gap_identified
+EMP-000041,ROL-000001,Engineering,Python Developer,SKL-000021,4,2026-01-01,,,,not_assessed,,Docker,not_assessed
+EMP-000041,ROL-000001,Engineering,Python Developer,SKL-000048,3,2026-01-01,,,,not_assessed,,Specialized Skill 0048,not_assessed
+EMP-000042,ROL-000001,Engineering,Python Developer,SKL-000031,5,2026-01-01,,1.0,2026-10-01,assessed,4,Specialized Skill 0031,gap_identified
+EMP-000042,ROL-000001,Engineering,Python Developer,SKL-000009,3,2026-01-01,,,,not_assessed,,Django,not_assessed
+EMP-000042,ROL-000001,Engineering,Python Developer,SKL-000004,5,2026-01-01,,,,not_assessed,,JavaScript,not_assessed
+EMP-000042,ROL-000001,Engineering,Python Developer,SKL-000019,3,2026-01-01,,1.0,2026-10-01,assessed,2,Azure,gap_identified
+EMP-000042,ROL-000001,Engineering,Python Developer,SKL-000012,5,2026-01-01,,3.0,2026-10-01,assessed,2,Communication,gap_identified
+EMP-000042,ROL-000001,Engineering,Python Developer,SKL-000050,5,2026-01-01,,3.0,2026-10-01,assessed,2,Specialized Skill 0050,gap_identified
+EMP-000042,ROL-000001,Engineering,Python Developer,SKL-000045,3,2026-01-01,,5.0,2026-10-01,assessed,0,Specialized Skill 0045,no_gap
+EMP-000042,ROL-000001,Engineering,Python Developer,SKL-000028,4,2026-01-01,,2.0,2026-10-01,assessed,2,Networking,gap_identified
+EMP-000042,ROL-000001,Engineering,Python Developer,SKL-000024,5,2026-01-01,,4.0,2026-10-01,assessed,1,Testing,gap_identified
+EMP-000042,ROL-000001,Engineering,Python Developer,SKL-000026,5,2026-01-01,,,,not_assessed,,Data Structures,not_assessed
+EMP-000042,ROL-000001,Engineering,Python Developer,SKL-000021,4,2026-01-01,,,,not_assessed,,Docker,not_assessed
+EMP-000042,ROL-000001,Engineering,Python Developer,SKL-000048,3,2026-01-01,,1.0,2026-10-01,assessed,2,Specialized Skill 0048,gap_identified
+EMP-000043,ROL-000005,Operations,HR Analyst,SKL-000031,4,2026-01-01,,5.0,2026-10-01,assessed,0,Specialized Skill 0031,no_gap
+EMP-000043,ROL-000005,Operations,HR Analyst,SKL-000006,4,2026-01-01,,1.0,2026-10-01,assessed,3,CSS,gap_identified
+EMP-000043,ROL-000005,Operations,HR Analyst,SKL-000037,3,2026-01-01,,4.0,2026-10-01,assessed,0,Specialized Skill 0037,no_gap
+EMP-000043,ROL-000005,Operations,HR Analyst,SKL-000039,4,2026-01-01,,,,not_assessed,,Specialized Skill 0039,not_assessed
+EMP-000043,ROL-000005,Operations,HR Analyst,SKL-000024,5,2026-01-01,,,,not_assessed,,Testing,not_assessed
+EMP-000043,ROL-000005,Operations,HR Analyst,SKL-000008,4,2026-01-01,,5.0,2026-10-01,assessed,0,Flask,no_gap
+EMP-000043,ROL-000005,Operations,HR Analyst,SKL-000044,3,2026-01-01,,4.0,2026-10-01,assessed,0,Specialized Skill 0044,no_gap
+EMP-000043,ROL-000005,Operations,HR Analyst,SKL-000040,4,2026-01-01,,,,not_assessed,,Specialized Skill 0040,not_assessed
+EMP-000043,ROL-000005,Operations,HR Analyst,SKL-000041,5,2026-01-01,,,,not_assessed,,Specialized Skill 0041,not_assessed
+EMP-000043,ROL-000005,Operations,HR Analyst,SKL-000032,5,2026-01-01,,1.0,2026-10-01,assessed,4,Specialized Skill 0032,gap_identified
+EMP-000043,ROL-000005,Operations,HR Analyst,SKL-000042,4,2026-01-01,,2.0,2026-10-01,assessed,2,Specialized Skill 0042,gap_identified
+EMP-000043,ROL-000005,Operations,HR Analyst,SKL-000002,4,2026-01-01,,4.0,2026-10-01,assessed,0,SQL,no_gap
+EMP-000044,ROL-000009,HR,Database Administrator,SKL-000008,4,2026-01-01,,,,not_assessed,,Flask,not_assessed
+EMP-000044,ROL-000009,HR,Database Administrator,SKL-000048,4,2026-01-01,,1.0,2026-10-01,assessed,3,Specialized Skill 0048,gap_identified
+EMP-000044,ROL-000009,HR,Database Administrator,SKL-000001,4,2026-01-01,,,,not_assessed,,Python,not_assessed
+EMP-000044,ROL-000009,HR,Database Administrator,SKL-000015,5,2026-01-01,,2.0,2026-10-01,assessed,3,Machine Learning,gap_identified
+EMP-000044,ROL-000009,HR,Database Administrator,SKL-000030,3,2026-01-01,,,,not_assessed,,Leadership,not_assessed
+EMP-000044,ROL-000009,HR,Database Administrator,SKL-000027,4,2026-01-01,,1.0,2026-10-01,assessed,3,Cybersecurity,gap_identified
+EMP-000044,ROL-000009,HR,Database Administrator,SKL-000049,5,2026-01-01,,1.0,2026-10-01,assessed,4,Specialized Skill 0049,gap_identified
+EMP-000044,ROL-000009,HR,Database Administrator,SKL-000033,3,2026-01-01,,5.0,2026-10-01,assessed,0,Specialized Skill 0033,no_gap
+EMP-000044,ROL-000009,HR,Database Administrator,SKL-000004,4,2026-01-01,,5.0,2026-10-01,assessed,0,JavaScript,no_gap
+EMP-000044,ROL-000009,HR,Database Administrator,SKL-000041,4,2026-01-01,,1.0,2026-10-01,assessed,3,Specialized Skill 0041,gap_identified
+EMP-000044,ROL-000009,HR,Database Administrator,SKL-000042,5,2026-01-01,,5.0,2026-10-01,assessed,0,Specialized Skill 0042,no_gap
+EMP-000044,ROL-000009,HR,Database Administrator,SKL-000021,5,2026-01-01,,,,not_assessed,,Docker,not_assessed
+EMP-000045,ROL-000006,Engineering,Business Analyst,SKL-000003,4,2026-01-01,,1.0,2026-10-01,assessed,3,Java,gap_identified
+EMP-000045,ROL-000006,Engineering,Business Analyst,SKL-000020,4,2026-01-01,,2.0,2026-10-01,assessed,2,Linux,gap_identified
+EMP-000045,ROL-000006,Engineering,Business Analyst,SKL-000008,3,2026-01-01,,1.0,2026-10-01,assessed,2,Flask,gap_identified
+EMP-000045,ROL-000006,Engineering,Business Analyst,SKL-000010,4,2026-01-01,,4.0,2026-10-01,assessed,0,Git,no_gap
+EMP-000045,ROL-000006,Engineering,Business Analyst,SKL-000034,4,2026-01-01,,,,not_assessed,,Specialized Skill 0034,not_assessed
+EMP-000045,ROL-000006,Engineering,Business Analyst,SKL-000035,5,2026-01-01,,4.0,2026-10-01,assessed,1,Specialized Skill 0035,gap_identified
+EMP-000045,ROL-000006,Engineering,Business Analyst,SKL-000043,5,2026-01-01,,,,not_assessed,,Specialized Skill 0043,not_assessed
+EMP-000045,ROL-000006,Engineering,Business Analyst,SKL-000039,5,2026-01-01,,,,not_assessed,,Specialized Skill 0039,not_assessed
+EMP-000045,ROL-000006,Engineering,Business Analyst,SKL-000009,5,2026-01-01,,2.0,2026-10-01,assessed,3,Django,gap_identified
+EMP-000045,ROL-000006,Engineering,Business Analyst,SKL-000047,3,2026-01-01,,2.0,2026-10-01,assessed,1,Specialized Skill 0047,gap_identified
+EMP-000045,ROL-000006,Engineering,Business Analyst,SKL-000007,5,2026-01-01,,4.0,2026-10-01,assessed,1,React,gap_identified
+EMP-000045,ROL-000006,Engineering,Business Analyst,SKL-000004,3,2026-01-01,,,,not_assessed,,JavaScript,not_assessed
+EMP-000046,ROL-000005,Operations,HR Analyst,SKL-000031,4,2026-01-01,,,,not_assessed,,Specialized Skill 0031,not_assessed
+EMP-000046,ROL-000005,Operations,HR Analyst,SKL-000006,4,2026-01-01,,4.0,2026-10-01,assessed,0,CSS,no_gap
+EMP-000046,ROL-000005,Operations,HR Analyst,SKL-000037,3,2026-01-01,,2.0,2026-10-01,assessed,1,Specialized Skill 0037,gap_identified
+EMP-000046,ROL-000005,Operations,HR Analyst,SKL-000039,4,2026-01-01,,,,not_assessed,,Specialized Skill 0039,not_assessed
+EMP-000046,ROL-000005,Operations,HR Analyst,SKL-000024,5,2026-01-01,,5.0,2026-10-01,assessed,0,Testing,no_gap
+EMP-000046,ROL-000005,Operations,HR Analyst,SKL-000008,4,2026-01-01,,,,not_assessed,,Flask,not_assessed
+EMP-000046,ROL-000005,Operations,HR Analyst,SKL-000044,3,2026-01-01,,2.0,2026-10-01,assessed,1,Specialized Skill 0044,gap_identified
+EMP-000046,ROL-000005,Operations,HR Analyst,SKL-000040,4,2026-01-01,,2.0,2026-10-01,assessed,2,Specialized Skill 0040,gap_identified
+EMP-000046,ROL-000005,Operations,HR Analyst,SKL-000041,5,2026-01-01,,4.0,2026-10-01,assessed,1,Specialized Skill 0041,gap_identified
+EMP-000046,ROL-000005,Operations,HR Analyst,SKL-000032,5,2026-01-01,,3.0,2026-10-01,assessed,2,Specialized Skill 0032,gap_identified
+EMP-000046,ROL-000005,Operations,HR Analyst,SKL-000042,4,2026-01-01,,1.0,2026-10-01,assessed,3,Specialized Skill 0042,gap_identified
+EMP-000046,ROL-000005,Operations,HR Analyst,SKL-000002,4,2026-01-01,,,,not_assessed,,SQL,not_assessed
+EMP-000047,ROL-000001,Engineering,Python Developer,SKL-000031,5,2026-01-01,,4.0,2026-10-01,assessed,1,Specialized Skill 0031,gap_identified
+EMP-000047,ROL-000001,Engineering,Python Developer,SKL-000009,3,2026-01-01,,,,not_assessed,,Django,not_assessed
+EMP-000047,ROL-000001,Engineering,Python Developer,SKL-000004,5,2026-01-01,,3.0,2026-10-01,assessed,2,JavaScript,gap_identified
+EMP-000047,ROL-000001,Engineering,Python Developer,SKL-000019,3,2026-01-01,,2.0,2026-10-01,assessed,1,Azure,gap_identified
+EMP-000047,ROL-000001,Engineering,Python Developer,SKL-000012,5,2026-01-01,,2.0,2026-10-01,assessed,3,Communication,gap_identified
+EMP-000047,ROL-000001,Engineering,Python Developer,SKL-000050,5,2026-01-01,,5.0,2026-10-01,assessed,0,Specialized Skill 0050,no_gap
+EMP-000047,ROL-000001,Engineering,Python Developer,SKL-000045,3,2026-01-01,,2.0,2026-10-01,assessed,1,Specialized Skill 0045,gap_identified
+EMP-000047,ROL-000001,Engineering,Python Developer,SKL-000028,4,2026-01-01,,,,not_assessed,,Networking,not_assessed
+EMP-000047,ROL-000001,Engineering,Python Developer,SKL-000024,5,2026-01-01,,2.0,2026-10-01,assessed,3,Testing,gap_identified
+EMP-000047,ROL-000001,Engineering,Python Developer,SKL-000026,5,2026-01-01,,,,not_assessed,,Data Structures,not_assessed
+EMP-000047,ROL-000001,Engineering,Python Developer,SKL-000021,4,2026-01-01,,1.0,2026-10-01,assessed,3,Docker,gap_identified
+EMP-000047,ROL-000001,Engineering,Python Developer,SKL-000048,3,2026-01-01,,,,not_assessed,,Specialized Skill 0048,not_assessed
+EMP-000048,ROL-000001,Engineering,Python Developer,SKL-000031,5,2026-01-01,,,,not_assessed,,Specialized Skill 0031,not_assessed
+EMP-000048,ROL-000001,Engineering,Python Developer,SKL-000009,3,2026-01-01,,2.0,2026-10-01,assessed,1,Django,gap_identified
+EMP-000048,ROL-000001,Engineering,Python Developer,SKL-000004,5,2026-01-01,,2.0,2026-10-01,assessed,3,JavaScript,gap_identified
+EMP-000048,ROL-000001,Engineering,Python Developer,SKL-000019,3,2026-01-01,,3.0,2026-10-01,assessed,0,Azure,no_gap
+EMP-000048,ROL-000001,Engineering,Python Developer,SKL-000012,5,2026-01-01,,4.0,2026-10-01,assessed,1,Communication,gap_identified
+EMP-000048,ROL-000001,Engineering,Python Developer,SKL-000050,5,2026-01-01,,5.0,2026-10-01,assessed,0,Specialized Skill 0050,no_gap
+EMP-000048,ROL-000001,Engineering,Python Developer,SKL-000045,3,2026-01-01,,,,not_assessed,,Specialized Skill 0045,not_assessed
+EMP-000048,ROL-000001,Engineering,Python Developer,SKL-000028,4,2026-01-01,,3.0,2026-10-01,assessed,1,Networking,gap_identified
+EMP-000048,ROL-000001,Engineering,Python Developer,SKL-000024,5,2026-01-01,,1.0,2026-10-01,assessed,4,Testing,gap_identified
+EMP-000048,ROL-000001,Engineering,Python Developer,SKL-000026,5,2026-01-01,,,,not_assessed,,Data Structures,not_assessed
+EMP-000048,ROL-000001,Engineering,Python Developer,SKL-000021,4,2026-01-01,,4.0,2026-10-01,assessed,0,Docker,no_gap
+EMP-000048,ROL-000001,Engineering,Python Developer,SKL-000048,3,2026-01-01,,,,not_assessed,,Specialized Skill 0048,not_assessed
+EMP-000049,ROL-000010,Operations,Project Coordinator,SKL-000040,3,2026-01-01,,,,not_assessed,,Specialized Skill 0040,not_assessed
+EMP-000049,ROL-000010,Operations,Project Coordinator,SKL-000033,3,2026-01-01,,3.0,2026-10-01,assessed,0,Specialized Skill 0033,no_gap
+EMP-000049,ROL-000010,Operations,Project Coordinator,SKL-000043,3,2026-01-01,,1.0,2026-10-01,assessed,2,Specialized Skill 0043,gap_identified
+EMP-000049,ROL-000010,Operations,Project Coordinator,SKL-000027,5,2026-01-01,,3.0,2026-10-01,assessed,2,Cybersecurity,gap_identified
+EMP-000049,ROL-000010,Operations,Project Coordinator,SKL-000035,4,2026-01-01,,5.0,2026-10-01,assessed,0,Specialized Skill 0035,no_gap
+EMP-000049,ROL-000010,Operations,Project Coordinator,SKL-000020,3,2026-01-01,,3.0,2026-10-01,assessed,0,Linux,no_gap
+EMP-000049,ROL-000010,Operations,Project Coordinator,SKL-000011,3,2026-01-01,,,,not_assessed,,Problem Solving,not_assessed
+EMP-000049,ROL-000010,Operations,Project Coordinator,SKL-000025,3,2026-01-01,,,,not_assessed,,OOP,not_assessed
+EMP-000049,ROL-000010,Operations,Project Coordinator,SKL-000017,3,2026-01-01,,1.0,2026-10-01,assessed,2,Cloud Computing,gap_identified
+EMP-000049,ROL-000010,Operations,Project Coordinator,SKL-000031,4,2026-01-01,,2.0,2026-10-01,assessed,2,Specialized Skill 0031,gap_identified
+EMP-000049,ROL-000010,Operations,Project Coordinator,SKL-000003,3,2026-01-01,,4.0,2026-10-01,assessed,0,Java,no_gap
+EMP-000049,ROL-000010,Operations,Project Coordinator,SKL-000008,4,2026-01-01,,,,not_assessed,,Flask,not_assessed
+EMP-000050,ROL-000001,Engineering,Python Developer,SKL-000031,5,2026-01-01,,,,not_assessed,,Specialized Skill 0031,not_assessed
+EMP-000050,ROL-000001,Engineering,Python Developer,SKL-000009,3,2026-01-01,,4.0,2026-10-01,assessed,0,Django,no_gap
+EMP-000050,ROL-000001,Engineering,Python Developer,SKL-000004,5,2026-01-01,,2.0,2026-10-01,assessed,3,JavaScript,gap_identified
+EMP-000050,ROL-000001,Engineering,Python Developer,SKL-000019,3,2026-01-01,,,,not_assessed,,Azure,not_assessed
+EMP-000050,ROL-000001,Engineering,Python Developer,SKL-000012,5,2026-01-01,,2.0,2026-10-01,assessed,3,Communication,gap_identified
+EMP-000050,ROL-000001,Engineering,Python Developer,SKL-000050,5,2026-01-01,,,,not_assessed,,Specialized Skill 0050,not_assessed
+EMP-000050,ROL-000001,Engineering,Python Developer,SKL-000045,3,2026-01-01,,4.0,2026-10-01,assessed,0,Specialized Skill 0045,no_gap
+EMP-000050,ROL-000001,Engineering,Python Developer,SKL-000028,4,2026-01-01,,5.0,2026-10-01,assessed,0,Networking,no_gap
+EMP-000050,ROL-000001,Engineering,Python Developer,SKL-000024,5,2026-01-01,,3.0,2026-10-01,assessed,2,Testing,gap_identified
+EMP-000050,ROL-000001,Engineering,Python Developer,SKL-000026,5,2026-01-01,,4.0,2026-10-01,assessed,1,Data Structures,gap_identified
+EMP-000050,ROL-000001,Engineering,Python Developer,SKL-000021,4,2026-01-01,,4.0,2026-10-01,assessed,0,Docker,no_gap
+EMP-000050,ROL-000001,Engineering,Python Developer,SKL-000048,3,2026-01-01,,,,not_assessed,,Specialized Skill 0048,not_assessed
+EMP-000051,ROL-000009,HR,Database Administrator,SKL-000008,4,2026-01-01,,1.0,2026-10-01,assessed,3,Flask,gap_identified
+EMP-000051,ROL-000009,HR,Database Administrator,SKL-000048,4,2026-01-01,,,,not_assessed,,Specialized Skill 0048,not_assessed
+EMP-000051,ROL-000009,HR,Database Administrator,SKL-000001,4,2026-01-01,,3.0,2026-10-01,assessed,1,Python,gap_identified
+EMP-000051,ROL-000009,HR,Database Administrator,SKL-000015,5,2026-01-01,,,,not_assessed,,Machine Learning,not_assessed
+EMP-000051,ROL-000009,HR,Database Administrator,SKL-000030,3,2026-01-01,,,,not_assessed,,Leadership,not_assessed
+EMP-000051,ROL-000009,HR,Database Administrator,SKL-000027,4,2026-01-01,,4.0,2026-10-01,assessed,0,Cybersecurity,no_gap
+EMP-000051,ROL-000009,HR,Database Administrator,SKL-000049,5,2026-01-01,,4.0,2026-10-01,assessed,1,Specialized Skill 0049,gap_identified
+EMP-000051,ROL-000009,HR,Database Administrator,SKL-000033,3,2026-01-01,,1.0,2026-10-01,assessed,2,Specialized Skill 0033,gap_identified
+EMP-000051,ROL-000009,HR,Database Administrator,SKL-000004,4,2026-01-01,,,,not_assessed,,JavaScript,not_assessed
+EMP-000051,ROL-000009,HR,Database Administrator,SKL-000041,4,2026-01-01,,4.0,2026-10-01,assessed,0,Specialized Skill 0041,no_gap
+EMP-000051,ROL-000009,HR,Database Administrator,SKL-000042,5,2026-01-01,,4.0,2026-10-01,assessed,1,Specialized Skill 0042,gap_identified
+EMP-000051,ROL-000009,HR,Database Administrator,SKL-000021,5,2026-01-01,,4.0,2026-10-01,assessed,1,Docker,gap_identified
+EMP-000052,ROL-000007,Data,Cloud Engineer,SKL-000025,4,2026-01-01,,2.0,2026-10-01,assessed,2,OOP,gap_identified
+EMP-000052,ROL-000007,Data,Cloud Engineer,SKL-000048,4,2026-01-01,,,,not_assessed,,Specialized Skill 0048,not_assessed
+EMP-000052,ROL-000007,Data,Cloud Engineer,SKL-000002,5,2026-01-01,,4.0,2026-10-01,assessed,1,SQL,gap_identified
+EMP-000052,ROL-000007,Data,Cloud Engineer,SKL-000024,3,2026-01-01,,3.0,2026-10-01,assessed,0,Testing,no_gap
+EMP-000052,ROL-000007,Data,Cloud Engineer,SKL-000007,4,2026-01-01,,4.0,2026-10-01,assessed,0,React,no_gap
+EMP-000052,ROL-000007,Data,Cloud Engineer,SKL-000023,4,2026-01-01,,3.0,2026-10-01,assessed,1,REST APIs,gap_identified
+EMP-000052,ROL-000007,Data,Cloud Engineer,SKL-000003,4,2026-01-01,,,,not_assessed,,Java,not_assessed
+EMP-000052,ROL-000007,Data,Cloud Engineer,SKL-000036,3,2026-01-01,,,,not_assessed,,Specialized Skill 0036,not_assessed
+EMP-000052,ROL-000007,Data,Cloud Engineer,SKL-000030,3,2026-01-01,,3.0,2026-10-01,assessed,0,Leadership,no_gap
+EMP-000052,ROL-000007,Data,Cloud Engineer,SKL-000020,4,2026-01-01,,3.0,2026-10-01,assessed,1,Linux,gap_identified
+EMP-000052,ROL-000007,Data,Cloud Engineer,SKL-000011,3,2026-01-01,,3.0,2026-10-01,assessed,0,Problem Solving,no_gap
+EMP-000052,ROL-000007,Data,Cloud Engineer,SKL-000021,5,2026-01-01,,,,not_assessed,,Docker,not_assessed
+EMP-000053,ROL-000005,Operations,HR Analyst,SKL-000031,4,2026-01-01,,,,not_assessed,,Specialized Skill 0031,not_assessed
+EMP-000053,ROL-000005,Operations,HR Analyst,SKL-000006,4,2026-01-01,,1.0,2026-10-01,assessed,3,CSS,gap_identified
+EMP-000053,ROL-000005,Operations,HR Analyst,SKL-000037,3,2026-01-01,,5.0,2026-10-01,assessed,0,Specialized Skill 0037,no_gap
+EMP-000053,ROL-000005,Operations,HR Analyst,SKL-000039,4,2026-01-01,,5.0,2026-10-01,assessed,0,Specialized Skill 0039,no_gap
+EMP-000053,ROL-000005,Operations,HR Analyst,SKL-000024,5,2026-01-01,,3.0,2026-10-01,assessed,2,Testing,gap_identified
+EMP-000053,ROL-000005,Operations,HR Analyst,SKL-000008,4,2026-01-01,,2.0,2026-10-01,assessed,2,Flask,gap_identified
+EMP-000053,ROL-000005,Operations,HR Analyst,SKL-000044,3,2026-01-01,,4.0,2026-10-01,assessed,0,Specialized Skill 0044,no_gap
+EMP-000053,ROL-000005,Operations,HR Analyst,SKL-000040,4,2026-01-01,,,,not_assessed,,Specialized Skill 0040,not_assessed
+EMP-000053,ROL-000005,Operations,HR Analyst,SKL-000041,5,2026-01-01,,,,not_assessed,,Specialized Skill 0041,not_assessed
+EMP-000053,ROL-000005,Operations,HR Analyst,SKL-000032,5,2026-01-01,,,,not_assessed,,Specialized Skill 0032,not_assessed
+EMP-000053,ROL-000005,Operations,HR Analyst,SKL-000042,4,2026-01-01,,2.0,2026-10-01,assessed,2,Specialized Skill 0042,gap_identified
+EMP-000053,ROL-000005,Operations,HR Analyst,SKL-000002,4,2026-01-01,,4.0,2026-10-01,assessed,0,SQL,no_gap
+EMP-000054,ROL-000001,Engineering,Python Developer,SKL-000031,5,2026-01-01,,,,not_assessed,,Specialized Skill 0031,not_assessed
+EMP-000054,ROL-000001,Engineering,Python Developer,SKL-000009,3,2026-01-01,,,,not_assessed,,Django,not_assessed
+EMP-000054,ROL-000001,Engineering,Python Developer,SKL-000004,5,2026-01-01,,1.0,2026-10-01,assessed,4,JavaScript,gap_identified
+EMP-000054,ROL-000001,Engineering,Python Developer,SKL-000019,3,2026-01-01,,1.0,2026-10-01,assessed,2,Azure,gap_identified
+EMP-000054,ROL-000001,Engineering,Python Developer,SKL-000012,5,2026-01-01,,,,not_assessed,,Communication,not_assessed
+EMP-000054,ROL-000001,Engineering,Python Developer,SKL-000050,5,2026-01-01,,,,not_assessed,,Specialized Skill 0050,not_assessed
+EMP-000054,ROL-000001,Engineering,Python Developer,SKL-000045,3,2026-01-01,,5.0,2026-10-01,assessed,0,Specialized Skill 0045,no_gap
+EMP-000054,ROL-000001,Engineering,Python Developer,SKL-000028,4,2026-01-01,,2.0,2026-10-01,assessed,2,Networking,gap_identified
+EMP-000054,ROL-000001,Engineering,Python Developer,SKL-000024,5,2026-01-01,,4.0,2026-10-01,assessed,1,Testing,gap_identified
+EMP-000054,ROL-000001,Engineering,Python Developer,SKL-000026,5,2026-01-01,,1.0,2026-10-01,assessed,4,Data Structures,gap_identified
+EMP-000054,ROL-000001,Engineering,Python Developer,SKL-000021,4,2026-01-01,,3.0,2026-10-01,assessed,1,Docker,gap_identified
+EMP-000054,ROL-000001,Engineering,Python Developer,SKL-000048,3,2026-01-01,,4.0,2026-10-01,assessed,0,Specialized Skill 0048,no_gap
+EMP-000055,ROL-000006,Engineering,Business Analyst,SKL-000003,4,2026-01-01,,2.0,2026-10-01,assessed,2,Java,gap_identified
+EMP-000055,ROL-000006,Engineering,Business Analyst,SKL-000020,4,2026-01-01,,3.0,2026-10-01,assessed,1,Linux,gap_identified
+EMP-000055,ROL-000006,Engineering,Business Analyst,SKL-000008,3,2026-01-01,,1.0,2026-10-01,assessed,2,Flask,gap_identified
+EMP-000055,ROL-000006,Engineering,Business Analyst,SKL-000010,4,2026-01-01,,1.0,2026-10-01,assessed,3,Git,gap_identified
+EMP-000055,ROL-000006,Engineering,Business Analyst,SKL-000034,4,2026-01-01,,4.0,2026-10-01,assessed,0,Specialized Skill 0034,no_gap
+EMP-000055,ROL-000006,Engineering,Business Analyst,SKL-000035,5,2026-01-01,,4.0,2026-10-01,assessed,1,Specialized Skill 0035,gap_identified
+EMP-000055,ROL-000006,Engineering,Business Analyst,SKL-000043,5,2026-01-01,,2.0,2026-10-01,assessed,3,Specialized Skill 0043,gap_identified
+EMP-000055,ROL-000006,Engineering,Business Analyst,SKL-000039,5,2026-01-01,,1.0,2026-10-01,assessed,4,Specialized Skill 0039,gap_identified
+EMP-000055,ROL-000006,Engineering,Business Analyst,SKL-000009,5,2026-01-01,,,,not_assessed,,Django,not_assessed
+EMP-000055,ROL-000006,Engineering,Business Analyst,SKL-000047,3,2026-01-01,,,,not_assessed,,Specialized Skill 0047,not_assessed
+EMP-000055,ROL-000006,Engineering,Business Analyst,SKL-000007,5,2026-01-01,,,,not_assessed,,React,not_assessed
+EMP-000055,ROL-000006,Engineering,Business Analyst,SKL-000004,3,2026-01-01,,,,not_assessed,,JavaScript,not_assessed
+EMP-000056,ROL-000006,Engineering,Business Analyst,SKL-000003,4,2026-01-01,,2.0,2026-10-01,assessed,2,Java,gap_identified
+EMP-000056,ROL-000006,Engineering,Business Analyst,SKL-000020,4,2026-01-01,,4.0,2026-10-01,assessed,0,Linux,no_gap
+EMP-000056,ROL-000006,Engineering,Business Analyst,SKL-000008,3,2026-01-01,,5.0,2026-10-01,assessed,0,Flask,no_gap
+EMP-000056,ROL-000006,Engineering,Business Analyst,SKL-000010,4,2026-01-01,,2.0,2026-10-01,assessed,2,Git,gap_identified
+EMP-000056,ROL-000006,Engineering,Business Analyst,SKL-000034,4,2026-01-01,,,,not_assessed,,Specialized Skill 0034,not_assessed
+EMP-000056,ROL-000006,Engineering,Business Analyst,SKL-000035,5,2026-01-01,,,,not_assessed,,Specialized Skill 0035,not_assessed
+EMP-000056,ROL-000006,Engineering,Business Analyst,SKL-000043,5,2026-01-01,,1.0,2026-10-01,assessed,4,Specialized Skill 0043,gap_identified
+EMP-000056,ROL-000006,Engineering,Business Analyst,SKL-000039,5,2026-01-01,,,,not_assessed,,Specialized Skill 0039,not_assessed
+EMP-000056,ROL-000006,Engineering,Business Analyst,SKL-000009,5,2026-01-01,,3.0,2026-10-01,assessed,2,Django,gap_identified
+EMP-000056,ROL-000006,Engineering,Business Analyst,SKL-000047,3,2026-01-01,,,,not_assessed,,Specialized Skill 0047,not_assessed
+EMP-000056,ROL-000006,Engineering,Business Analyst,SKL-000007,5,2026-01-01,,5.0,2026-10-01,assessed,0,React,no_gap
+EMP-000056,ROL-000006,Engineering,Business Analyst,SKL-000004,3,2026-01-01,,2.0,2026-10-01,assessed,1,JavaScript,gap_identified
+EMP-000057,ROL-000009,HR,Database Administrator,SKL-000008,4,2026-01-01,,2.0,2026-10-01,assessed,2,Flask,gap_identified
+EMP-000057,ROL-000009,HR,Database Administrator,SKL-000048,4,2026-01-01,,,,not_assessed,,Specialized Skill 0048,not_assessed
+EMP-000057,ROL-000009,HR,Database Administrator,SKL-000001,4,2026-01-01,,4.0,2026-10-01,assessed,0,Python,no_gap
+EMP-000057,ROL-000009,HR,Database Administrator,SKL-000015,5,2026-01-01,,2.0,2026-10-01,assessed,3,Machine Learning,gap_identified
+EMP-000057,ROL-000009,HR,Database Administrator,SKL-000030,3,2026-01-01,,,,not_assessed,,Leadership,not_assessed
+EMP-000057,ROL-000009,HR,Database Administrator,SKL-000027,4,2026-01-01,,,,not_assessed,,Cybersecurity,not_assessed
+EMP-000057,ROL-000009,HR,Database Administrator,SKL-000049,5,2026-01-01,,3.0,2026-10-01,assessed,2,Specialized Skill 0049,gap_identified
+EMP-000057,ROL-000009,HR,Database Administrator,SKL-000033,3,2026-01-01,,1.0,2026-10-01,assessed,2,Specialized Skill 0033,gap_identified
+EMP-000057,ROL-000009,HR,Database Administrator,SKL-000004,4,2026-01-01,,,,not_assessed,,JavaScript,not_assessed
+EMP-000057,ROL-000009,HR,Database Administrator,SKL-000041,4,2026-01-01,,4.0,2026-10-01,assessed,0,Specialized Skill 0041,no_gap
+EMP-000057,ROL-000009,HR,Database Administrator,SKL-000042,5,2026-01-01,,2.0,2026-10-01,assessed,3,Specialized Skill 0042,gap_identified
+EMP-000057,ROL-000009,HR,Database Administrator,SKL-000021,5,2026-01-01,,5.0,2026-10-01,assessed,0,Docker,no_gap
+EMP-000058,ROL-000009,HR,Database Administrator,SKL-000008,4,2026-01-01,,2.0,2026-10-01,assessed,2,Flask,gap_identified
+EMP-000058,ROL-000009,HR,Database Administrator,SKL-000048,4,2026-01-01,,,,not_assessed,,Specialized Skill 0048,not_assessed
+EMP-000058,ROL-000009,HR,Database Administrator,SKL-000001,4,2026-01-01,,5.0,2026-10-01,assessed,0,Python,no_gap
+EMP-000058,ROL-000009,HR,Database Administrator,SKL-000015,5,2026-01-01,,5.0,2026-10-01,assessed,0,Machine Learning,no_gap
+EMP-000058,ROL-000009,HR,Database Administrator,SKL-000030,3,2026-01-01,,,,not_assessed,,Leadership,not_assessed
+EMP-000058,ROL-000009,HR,Database Administrator,SKL-000027,4,2026-01-01,,,,not_assessed,,Cybersecurity,not_assessed
+EMP-000058,ROL-000009,HR,Database Administrator,SKL-000049,5,2026-01-01,,,,not_assessed,,Specialized Skill 0049,not_assessed
+EMP-000058,ROL-000009,HR,Database Administrator,SKL-000033,3,2026-01-01,,4.0,2026-10-01,assessed,0,Specialized Skill 0033,no_gap
+EMP-000058,ROL-000009,HR,Database Administrator,SKL-000004,4,2026-01-01,,5.0,2026-10-01,assessed,0,JavaScript,no_gap
+EMP-000058,ROL-000009,HR,Database Administrator,SKL-000041,4,2026-01-01,,1.0,2026-10-01,assessed,3,Specialized Skill 0041,gap_identified
+EMP-000058,ROL-000009,HR,Database Administrator,SKL-000042,5,2026-01-01,,1.0,2026-10-01,assessed,4,Specialized Skill 0042,gap_identified
+EMP-000058,ROL-000009,HR,Database Administrator,SKL-000021,5,2026-01-01,,4.0,2026-10-01,assessed,1,Docker,gap_identified
+EMP-000059,ROL-000005,Operations,HR Analyst,SKL-000031,4,2026-01-01,,1.0,2026-10-01,assessed,3,Specialized Skill 0031,gap_identified
+EMP-000059,ROL-000005,Operations,HR Analyst,SKL-000006,4,2026-01-01,,5.0,2026-10-01,assessed,0,CSS,no_gap
+EMP-000059,ROL-000005,Operations,HR Analyst,SKL-000037,3,2026-01-01,,2.0,2026-10-01,assessed,1,Specialized Skill 0037,gap_identified
+EMP-000059,ROL-000005,Operations,HR Analyst,SKL-000039,4,2026-01-01,,4.0,2026-10-01,assessed,0,Specialized Skill 0039,no_gap
+EMP-000059,ROL-000005,Operations,HR Analyst,SKL-000024,5,2026-01-01,,3.0,2026-10-01,assessed,2,Testing,gap_identified
+EMP-000059,ROL-000005,Operations,HR Analyst,SKL-000008,4,2026-01-01,,5.0,2026-10-01,assessed,0,Flask,no_gap
+EMP-000059,ROL-000005,Operations,HR Analyst,SKL-000044,3,2026-01-01,,5.0,2026-10-01,assessed,0,Specialized Skill 0044,no_gap
+EMP-000059,ROL-000005,Operations,HR Analyst,SKL-000040,4,2026-01-01,,,,not_assessed,,Specialized Skill 0040,not_assessed
+EMP-000059,ROL-000005,Operations,HR Analyst,SKL-000041,5,2026-01-01,,,,not_assessed,,Specialized Skill 0041,not_assessed
+EMP-000059,ROL-000005,Operations,HR Analyst,SKL-000032,5,2026-01-01,,,,not_assessed,,Specialized Skill 0032,not_assessed
+EMP-000059,ROL-000005,Operations,HR Analyst,SKL-000042,4,2026-01-01,,,,not_assessed,,Specialized Skill 0042,not_assessed
+EMP-000059,ROL-000005,Operations,HR Analyst,SKL-000002,4,2026-01-01,,3.0,2026-10-01,assessed,1,SQL,gap_identified
+EMP-000060,ROL-000006,Engineering,Business Analyst,SKL-000003,4,2026-01-01,,,,not_assessed,,Java,not_assessed
+EMP-000060,ROL-000006,Engineering,Business Analyst,SKL-000020,4,2026-01-01,,4.0,2026-10-01,assessed,0,Linux,no_gap
+EMP-000060,ROL-000006,Engineering,Business Analyst,SKL-000008,3,2026-01-01,,4.0,2026-10-01,assessed,0,Flask,no_gap
+EMP-000060,ROL-000006,Engineering,Business Analyst,SKL-000010,4,2026-01-01,,2.0,2026-10-01,assessed,2,Git,gap_identified
+EMP-000060,ROL-000006,Engineering,Business Analyst,SKL-000034,4,2026-01-01,,,,not_assessed,,Specialized Skill 0034,not_assessed
+EMP-000060,ROL-000006,Engineering,Business Analyst,SKL-000035,5,2026-01-01,,1.0,2026-10-01,assessed,4,Specialized Skill 0035,gap_identified
+EMP-000060,ROL-000006,Engineering,Business Analyst,SKL-000043,5,2026-01-01,,,,not_assessed,,Specialized Skill 0043,not_assessed
+EMP-000060,ROL-000006,Engineering,Business Analyst,SKL-000039,5,2026-01-01,,4.0,2026-10-01,assessed,1,Specialized Skill 0039,gap_identified
+EMP-000060,ROL-000006,Engineering,Business Analyst,SKL-000009,5,2026-01-01,,3.0,2026-10-01,assessed,2,Django,gap_identified
+EMP-000060,ROL-000006,Engineering,Business Analyst,SKL-000047,3,2026-01-01,,4.0,2026-10-01,assessed,0,Specialized Skill 0047,no_gap
+EMP-000060,ROL-000006,Engineering,Business Analyst,SKL-000007,5,2026-01-01,,,,not_assessed,,React,not_assessed
+EMP-000060,ROL-000006,Engineering,Business Analyst,SKL-000004,3,2026-01-01,,5.0,2026-10-01,assessed,0,JavaScript,no_gap
+EMP-000061,ROL-000007,Data,Cloud Engineer,SKL-000025,4,2026-01-01,,5.0,2026-10-01,assessed,0,OOP,no_gap
+EMP-000061,ROL-000007,Data,Cloud Engineer,SKL-000048,4,2026-01-01,,5.0,2026-10-01,assessed,0,Specialized Skill 0048,no_gap
+EMP-000061,ROL-000007,Data,Cloud Engineer,SKL-000002,5,2026-01-01,,1.0,2026-10-01,assessed,4,SQL,gap_identified
+EMP-000061,ROL-000007,Data,Cloud Engineer,SKL-000024,3,2026-01-01,,3.0,2026-10-01,assessed,0,Testing,no_gap
+EMP-000061,ROL-000007,Data,Cloud Engineer,SKL-000007,4,2026-01-01,,1.0,2026-10-01,assessed,3,React,gap_identified
+EMP-000061,ROL-000007,Data,Cloud Engineer,SKL-000023,4,2026-01-01,,5.0,2026-10-01,assessed,0,REST APIs,no_gap
+EMP-000061,ROL-000007,Data,Cloud Engineer,SKL-000003,4,2026-01-01,,,,not_assessed,,Java,not_assessed
+EMP-000061,ROL-000007,Data,Cloud Engineer,SKL-000036,3,2026-01-01,,,,not_assessed,,Specialized Skill 0036,not_assessed
+EMP-000061,ROL-000007,Data,Cloud Engineer,SKL-000030,3,2026-01-01,,1.0,2026-10-01,assessed,2,Leadership,gap_identified
+EMP-000061,ROL-000007,Data,Cloud Engineer,SKL-000020,4,2026-01-01,,,,not_assessed,,Linux,not_assessed
+EMP-000061,ROL-000007,Data,Cloud Engineer,SKL-000011,3,2026-01-01,,,,not_assessed,,Problem Solving,not_assessed
+EMP-000061,ROL-000007,Data,Cloud Engineer,SKL-000021,5,2026-01-01,,4.0,2026-10-01,assessed,1,Docker,gap_identified
+EMP-000062,ROL-000010,Operations,Project Coordinator,SKL-000040,3,2026-01-01,,2.0,2026-10-01,assessed,1,Specialized Skill 0040,gap_identified
+EMP-000062,ROL-000010,Operations,Project Coordinator,SKL-000033,3,2026-01-01,,,,not_assessed,,Specialized Skill 0033,not_assessed
+EMP-000062,ROL-000010,Operations,Project Coordinator,SKL-000043,3,2026-01-01,,4.0,2026-10-01,assessed,0,Specialized Skill 0043,no_gap
+EMP-000062,ROL-000010,Operations,Project Coordinator,SKL-000027,5,2026-01-01,,2.0,2026-10-01,assessed,3,Cybersecurity,gap_identified
+EMP-000062,ROL-000010,Operations,Project Coordinator,SKL-000035,4,2026-01-01,,,,not_assessed,,Specialized Skill 0035,not_assessed
+EMP-000062,ROL-000010,Operations,Project Coordinator,SKL-000020,3,2026-01-01,,1.0,2026-10-01,assessed,2,Linux,gap_identified
+EMP-000062,ROL-000010,Operations,Project Coordinator,SKL-000011,3,2026-01-01,,4.0,2026-10-01,assessed,0,Problem Solving,no_gap
+EMP-000062,ROL-000010,Operations,Project Coordinator,SKL-000025,3,2026-01-01,,2.0,2026-10-01,assessed,1,OOP,gap_identified
+EMP-000062,ROL-000010,Operations,Project Coordinator,SKL-000017,3,2026-01-01,,3.0,2026-10-01,assessed,0,Cloud Computing,no_gap
+EMP-000062,ROL-000010,Operations,Project Coordinator,SKL-000031,4,2026-01-01,,5.0,2026-10-01,assessed,0,Specialized Skill 0031,no_gap
+EMP-000062,ROL-000010,Operations,Project Coordinator,SKL-000003,3,2026-01-01,,,,not_assessed,,Java,not_assessed
+EMP-000062,ROL-000010,Operations,Project Coordinator,SKL-000008,4,2026-01-01,,,,not_assessed,,Flask,not_assessed
+EMP-000063,ROL-000006,Engineering,Business Analyst,SKL-000003,4,2026-01-01,,,,not_assessed,,Java,not_assessed
+EMP-000063,ROL-000006,Engineering,Business Analyst,SKL-000020,4,2026-01-01,,1.0,2026-10-01,assessed,3,Linux,gap_identified
+EMP-000063,ROL-000006,Engineering,Business Analyst,SKL-000008,3,2026-01-01,,5.0,2026-10-01,assessed,0,Flask,no_gap
+EMP-000063,ROL-000006,Engineering,Business Analyst,SKL-000010,4,2026-01-01,,2.0,2026-10-01,assessed,2,Git,gap_identified
+EMP-000063,ROL-000006,Engineering,Business Analyst,SKL-000034,4,2026-01-01,,,,not_assessed,,Specialized Skill 0034,not_assessed
+EMP-000063,ROL-000006,Engineering,Business Analyst,SKL-000035,5,2026-01-01,,5.0,2026-10-01,assessed,0,Specialized Skill 0035,no_gap
+EMP-000063,ROL-000006,Engineering,Business Analyst,SKL-000043,5,2026-01-01,,4.0,2026-10-01,assessed,1,Specialized Skill 0043,gap_identified
+EMP-000063,ROL-000006,Engineering,Business Analyst,SKL-000039,5,2026-01-01,,,,not_assessed,,Specialized Skill 0039,not_assessed
+EMP-000063,ROL-000006,Engineering,Business Analyst,SKL-000009,5,2026-01-01,,3.0,2026-10-01,assessed,2,Django,gap_identified
+EMP-000063,ROL-000006,Engineering,Business Analyst,SKL-000047,3,2026-01-01,,3.0,2026-10-01,assessed,0,Specialized Skill 0047,no_gap
+EMP-000063,ROL-000006,Engineering,Business Analyst,SKL-000007,5,2026-01-01,,2.0,2026-10-01,assessed,3,React,gap_identified
+EMP-000063,ROL-000006,Engineering,Business Analyst,SKL-000004,3,2026-01-01,,,,not_assessed,,JavaScript,not_assessed
+EMP-000064,ROL-000003,IT,Software Engineer,SKL-000034,3,2026-01-01,,3.0,2026-10-01,assessed,0,Specialized Skill 0034,no_gap
+EMP-000064,ROL-000003,IT,Software Engineer,SKL-000018,4,2026-01-01,,3.0,2026-10-01,assessed,1,AWS,gap_identified
+EMP-000064,ROL-000003,IT,Software Engineer,SKL-000042,4,2026-01-01,,2.0,2026-10-01,assessed,2,Specialized Skill 0042,gap_identified
+EMP-000064,ROL-000003,IT,Software Engineer,SKL-000038,4,2026-01-01,,,,not_assessed,,Specialized Skill 0038,not_assessed
+EMP-000064,ROL-000003,IT,Software Engineer,SKL-000023,5,2026-01-01,,,,not_assessed,,REST APIs,not_assessed
+EMP-000064,ROL-000003,IT,Software Engineer,SKL-000003,3,2026-01-01,,,,not_assessed,,Java,not_assessed
+EMP-000064,ROL-000003,IT,Software Engineer,SKL-000004,3,2026-01-01,,3.0,2026-10-01,assessed,0,JavaScript,no_gap
+EMP-000064,ROL-000003,IT,Software Engineer,SKL-000036,5,2026-01-01,,2.0,2026-10-01,assessed,3,Specialized Skill 0036,gap_identified
+EMP-000064,ROL-000003,IT,Software Engineer,SKL-000035,5,2026-01-01,,1.0,2026-10-01,assessed,4,Specialized Skill 0035,gap_identified
+EMP-000064,ROL-000003,IT,Software Engineer,SKL-000049,3,2026-01-01,,2.0,2026-10-01,assessed,1,Specialized Skill 0049,gap_identified
+EMP-000064,ROL-000003,IT,Software Engineer,SKL-000016,4,2026-01-01,,,,not_assessed,,Statistics,not_assessed
+EMP-000064,ROL-000003,IT,Software Engineer,SKL-000020,5,2026-01-01,,2.0,2026-10-01,assessed,3,Linux,gap_identified
+EMP-000065,ROL-000003,IT,Software Engineer,SKL-000034,3,2026-01-01,,,,not_assessed,,Specialized Skill 0034,not_assessed
+EMP-000065,ROL-000003,IT,Software Engineer,SKL-000018,4,2026-01-01,,5.0,2026-10-01,assessed,0,AWS,no_gap
+EMP-000065,ROL-000003,IT,Software Engineer,SKL-000042,4,2026-01-01,,2.0,2026-10-01,assessed,2,Specialized Skill 0042,gap_identified
+EMP-000065,ROL-000003,IT,Software Engineer,SKL-000038,4,2026-01-01,,3.0,2026-10-01,assessed,1,Specialized Skill 0038,gap_identified
+EMP-000065,ROL-000003,IT,Software Engineer,SKL-000023,5,2026-01-01,,2.0,2026-10-01,assessed,3,REST APIs,gap_identified
+EMP-000065,ROL-000003,IT,Software Engineer,SKL-000003,3,2026-01-01,,,,not_assessed,,Java,not_assessed
+EMP-000065,ROL-000003,IT,Software Engineer,SKL-000004,3,2026-01-01,,,,not_assessed,,JavaScript,not_assessed
+EMP-000065,ROL-000003,IT,Software Engineer,SKL-000036,5,2026-01-01,,,,not_assessed,,Specialized Skill 0036,not_assessed
+EMP-000065,ROL-000003,IT,Software Engineer,SKL-000035,5,2026-01-01,,1.0,2026-10-01,assessed,4,Specialized Skill 0035,gap_identified
+EMP-000065,ROL-000003,IT,Software Engineer,SKL-000049,3,2026-01-01,,1.0,2026-10-01,assessed,2,Specialized Skill 0049,gap_identified
+EMP-000065,ROL-000003,IT,Software Engineer,SKL-000016,4,2026-01-01,,4.0,2026-10-01,assessed,0,Statistics,no_gap
+EMP-000065,ROL-000003,IT,Software Engineer,SKL-000020,5,2026-01-01,,5.0,2026-10-01,assessed,0,Linux,no_gap
+EMP-000066,ROL-000009,HR,Database Administrator,SKL-000008,4,2026-01-01,,,,not_assessed,,Flask,not_assessed
+EMP-000066,ROL-000009,HR,Database Administrator,SKL-000048,4,2026-01-01,,,,not_assessed,,Specialized Skill 0048,not_assessed
+EMP-000066,ROL-000009,HR,Database Administrator,SKL-000001,4,2026-01-01,,2.0,2026-10-01,assessed,2,Python,gap_identified
+EMP-000066,ROL-000009,HR,Database Administrator,SKL-000015,5,2026-01-01,,2.0,2026-10-01,assessed,3,Machine Learning,gap_identified
+EMP-000066,ROL-000009,HR,Database Administrator,SKL-000030,3,2026-01-01,,5.0,2026-10-01,assessed,0,Leadership,no_gap
+EMP-000066,ROL-000009,HR,Database Administrator,SKL-000027,4,2026-01-01,,5.0,2026-10-01,assessed,0,Cybersecurity,no_gap
+EMP-000066,ROL-000009,HR,Database Administrator,SKL-000049,5,2026-01-01,,5.0,2026-10-01,assessed,0,Specialized Skill 0049,no_gap
+EMP-000066,ROL-000009,HR,Database Administrator,SKL-000033,3,2026-01-01,,2.0,2026-10-01,assessed,1,Specialized Skill 0033,gap_identified
+EMP-000066,ROL-000009,HR,Database Administrator,SKL-000004,4,2026-01-01,,3.0,2026-10-01,assessed,1,JavaScript,gap_identified
+EMP-000066,ROL-000009,HR,Database Administrator,SKL-000041,4,2026-01-01,,,,not_assessed,,Specialized Skill 0041,not_assessed
+EMP-000066,ROL-000009,HR,Database Administrator,SKL-000042,5,2026-01-01,,,,not_assessed,,Specialized Skill 0042,not_assessed
+EMP-000066,ROL-000009,HR,Database Administrator,SKL-000021,5,2026-01-01,,5.0,2026-10-01,assessed,0,Docker,no_gap
+EMP-000067,ROL-000008,IT,QA Engineer,SKL-000017,3,2026-01-01,,,,not_assessed,,Cloud Computing,not_assessed
+EMP-000067,ROL-000008,IT,QA Engineer,SKL-000043,3,2026-01-01,,,,not_assessed,,Specialized Skill 0043,not_assessed
+EMP-000067,ROL-000008,IT,QA Engineer,SKL-000024,4,2026-01-01,,1.0,2026-10-01,assessed,3,Testing,gap_identified
+EMP-000067,ROL-000008,IT,QA Engineer,SKL-000048,5,2026-01-01,,1.0,2026-10-01,assessed,4,Specialized Skill 0048,gap_identified
+EMP-000067,ROL-000008,IT,QA Engineer,SKL-000016,3,2026-01-01,,1.0,2026-10-01,assessed,2,Statistics,gap_identified
+EMP-000067,ROL-000008,IT,QA Engineer,SKL-000049,3,2026-01-01,,3.0,2026-10-01,assessed,0,Specialized Skill 0049,no_gap
+EMP-000067,ROL-000008,IT,QA Engineer,SKL-000022,4,2026-01-01,,3.0,2026-10-01,assessed,1,Kubernetes,gap_identified
+EMP-000067,ROL-000008,IT,QA Engineer,SKL-000006,3,2026-01-01,,5.0,2026-10-01,assessed,0,CSS,no_gap
+EMP-000067,ROL-000008,IT,QA Engineer,SKL-000003,3,2026-01-01,,5.0,2026-10-01,assessed,0,Java,no_gap
+EMP-000067,ROL-000008,IT,QA Engineer,SKL-000015,4,2026-01-01,,,,not_assessed,,Machine Learning,not_assessed
+EMP-000067,ROL-000008,IT,QA Engineer,SKL-000039,5,2026-01-01,,,,not_assessed,,Specialized Skill 0039,not_assessed
+EMP-000067,ROL-000008,IT,QA Engineer,SKL-000018,3,2026-01-01,,2.0,2026-10-01,assessed,1,AWS,gap_identified
+EMP-000068,ROL-000001,Engineering,Python Developer,SKL-000031,5,2026-01-01,,3.0,2026-10-01,assessed,2,Specialized Skill 0031,gap_identified
+EMP-000068,ROL-000001,Engineering,Python Developer,SKL-000009,3,2026-01-01,,4.0,2026-10-01,assessed,0,Django,no_gap
+EMP-000068,ROL-000001,Engineering,Python Developer,SKL-000004,5,2026-01-01,,,,not_assessed,,JavaScript,not_assessed
+EMP-000068,ROL-000001,Engineering,Python Developer,SKL-000019,3,2026-01-01,,5.0,2026-10-01,assessed,0,Azure,no_gap
+EMP-000068,ROL-000001,Engineering,Python Developer,SKL-000012,5,2026-01-01,,5.0,2026-10-01,assessed,0,Communication,no_gap
+EMP-000068,ROL-000001,Engineering,Python Developer,SKL-000050,5,2026-01-01,,5.0,2026-10-01,assessed,0,Specialized Skill 0050,no_gap
+EMP-000068,ROL-000001,Engineering,Python Developer,SKL-000045,3,2026-01-01,,4.0,2026-10-01,assessed,0,Specialized Skill 0045,no_gap
+EMP-000068,ROL-000001,Engineering,Python Developer,SKL-000028,4,2026-01-01,,5.0,2026-10-01,assessed,0,Networking,no_gap
+EMP-000068,ROL-000001,Engineering,Python Developer,SKL-000024,5,2026-01-01,,3.0,2026-10-01,assessed,2,Testing,gap_identified
+EMP-000068,ROL-000001,Engineering,Python Developer,SKL-000026,5,2026-01-01,,,,not_assessed,,Data Structures,not_assessed
+EMP-000068,ROL-000001,Engineering,Python Developer,SKL-000021,4,2026-01-01,,,,not_assessed,,Docker,not_assessed
+EMP-000068,ROL-000001,Engineering,Python Developer,SKL-000048,3,2026-01-01,,,,not_assessed,,Specialized Skill 0048,not_assessed
+EMP-000069,ROL-000008,IT,QA Engineer,SKL-000017,3,2026-01-01,,3.0,2026-10-01,assessed,0,Cloud Computing,no_gap
+EMP-000069,ROL-000008,IT,QA Engineer,SKL-000043,3,2026-01-01,,3.0,2026-10-01,assessed,0,Specialized Skill 0043,no_gap
+EMP-000069,ROL-000008,IT,QA Engineer,SKL-000024,4,2026-01-01,,5.0,2026-10-01,assessed,0,Testing,no_gap
+EMP-000069,ROL-000008,IT,QA Engineer,SKL-000048,5,2026-01-01,,2.0,2026-10-01,assessed,3,Specialized Skill 0048,gap_identified
+EMP-000069,ROL-000008,IT,QA Engineer,SKL-000016,3,2026-01-01,,4.0,2026-10-01,assessed,0,Statistics,no_gap
+EMP-000069,ROL-000008,IT,QA Engineer,SKL-000049,3,2026-01-01,,,,not_assessed,,Specialized Skill 0049,not_assessed
+EMP-000069,ROL-000008,IT,QA Engineer,SKL-000022,4,2026-01-01,,,,not_assessed,,Kubernetes,not_assessed
+EMP-000069,ROL-000008,IT,QA Engineer,SKL-000006,3,2026-01-01,,,,not_assessed,,CSS,not_assessed
+EMP-000069,ROL-000008,IT,QA Engineer,SKL-000003,3,2026-01-01,,2.0,2026-10-01,assessed,1,Java,gap_identified
+EMP-000069,ROL-000008,IT,QA Engineer,SKL-000015,4,2026-01-01,,,,not_assessed,,Machine Learning,not_assessed
+EMP-000069,ROL-000008,IT,QA Engineer,SKL-000039,5,2026-01-01,,3.0,2026-10-01,assessed,2,Specialized Skill 0039,gap_identified
+EMP-000069,ROL-000008,IT,QA Engineer,SKL-000018,3,2026-01-01,,3.0,2026-10-01,assessed,0,AWS,no_gap
+EMP-000070,ROL-000005,Operations,HR Analyst,SKL-000031,4,2026-01-01,,1.0,2026-10-01,assessed,3,Specialized Skill 0031,gap_identified
+EMP-000070,ROL-000005,Operations,HR Analyst,SKL-000006,4,2026-01-01,,,,not_assessed,,CSS,not_assessed
+EMP-000070,ROL-000005,Operations,HR Analyst,SKL-000037,3,2026-01-01,,5.0,2026-10-01,assessed,0,Specialized Skill 0037,no_gap
+EMP-000070,ROL-000005,Operations,HR Analyst,SKL-000039,4,2026-01-01,,,,not_assessed,,Specialized Skill 0039,not_assessed
+EMP-000070,ROL-000005,Operations,HR Analyst,SKL-000024,5,2026-01-01,,,,not_assessed,,Testing,not_assessed
+EMP-000070,ROL-000005,Operations,HR Analyst,SKL-000008,4,2026-01-01,,1.0,2026-10-01,assessed,3,Flask,gap_identified
+EMP-000070,ROL-000005,Operations,HR Analyst,SKL-000044,3,2026-01-01,,,,not_assessed,,Specialized Skill 0044,not_assessed
+EMP-000070,ROL-000005,Operations,HR Analyst,SKL-000040,4,2026-01-01,,3.0,2026-10-01,assessed,1,Specialized Skill 0040,gap_identified
+EMP-000070,ROL-000005,Operations,HR Analyst,SKL-000041,5,2026-01-01,,3.0,2026-10-01,assessed,2,Specialized Skill 0041,gap_identified
+EMP-000070,ROL-000005,Operations,HR Analyst,SKL-000032,5,2026-01-01,,1.0,2026-10-01,assessed,4,Specialized Skill 0032,gap_identified
+EMP-000070,ROL-000005,Operations,HR Analyst,SKL-000042,4,2026-01-01,,3.0,2026-10-01,assessed,1,Specialized Skill 0042,gap_identified
+EMP-000070,ROL-000005,Operations,HR Analyst,SKL-000002,4,2026-01-01,,5.0,2026-10-01,assessed,0,SQL,no_gap
+EMP-000071,ROL-000009,HR,Database Administrator,SKL-000008,4,2026-01-01,,,,not_assessed,,Flask,not_assessed
+EMP-000071,ROL-000009,HR,Database Administrator,SKL-000048,4,2026-01-01,,5.0,2026-10-01,assessed,0,Specialized Skill 0048,no_gap
+EMP-000071,ROL-000009,HR,Database Administrator,SKL-000001,4,2026-01-01,,3.0,2026-10-01,assessed,1,Python,gap_identified
+EMP-000071,ROL-000009,HR,Database Administrator,SKL-000015,5,2026-01-01,,1.0,2026-10-01,assessed,4,Machine Learning,gap_identified
+EMP-000071,ROL-000009,HR,Database Administrator,SKL-000030,3,2026-01-01,,4.0,2026-10-01,assessed,0,Leadership,no_gap
+EMP-000071,ROL-000009,HR,Database Administrator,SKL-000027,4,2026-01-01,,,,not_assessed,,Cybersecurity,not_assessed
+EMP-000071,ROL-000009,HR,Database Administrator,SKL-000049,5,2026-01-01,,2.0,2026-10-01,assessed,3,Specialized Skill 0049,gap_identified
+EMP-000071,ROL-000009,HR,Database Administrator,SKL-000033,3,2026-01-01,,,,not_assessed,,Specialized Skill 0033,not_assessed
+EMP-000071,ROL-000009,HR,Database Administrator,SKL-000004,4,2026-01-01,,1.0,2026-10-01,assessed,3,JavaScript,gap_identified
+EMP-000071,ROL-000009,HR,Database Administrator,SKL-000041,4,2026-01-01,,,,not_assessed,,Specialized Skill 0041,not_assessed
+EMP-000071,ROL-000009,HR,Database Administrator,SKL-000042,5,2026-01-01,,1.0,2026-10-01,assessed,4,Specialized Skill 0042,gap_identified
+EMP-000071,ROL-000009,HR,Database Administrator,SKL-000021,5,2026-01-01,,1.0,2026-10-01,assessed,4,Docker,gap_identified
+EMP-000072,ROL-000002,Data,Data Analyst,SKL-000026,5,2026-01-01,,3.0,2026-10-01,assessed,2,Data Structures,gap_identified
+EMP-000072,ROL-000002,Data,Data Analyst,SKL-000033,3,2026-01-01,,,,not_assessed,,Specialized Skill 0033,not_assessed
+EMP-000072,ROL-000002,Data,Data Analyst,SKL-000048,5,2026-01-01,,4.0,2026-10-01,assessed,1,Specialized Skill 0048,gap_identified
+EMP-000072,ROL-000002,Data,Data Analyst,SKL-000037,5,2026-01-01,,4.0,2026-10-01,assessed,1,Specialized Skill 0037,gap_identified
+EMP-000072,ROL-000002,Data,Data Analyst,SKL-000034,5,2026-01-01,,5.0,2026-10-01,assessed,0,Specialized Skill 0034,no_gap
+EMP-000072,ROL-000002,Data,Data Analyst,SKL-000006,5,2026-01-01,,5.0,2026-10-01,assessed,0,CSS,no_gap
+EMP-000072,ROL-000002,Data,Data Analyst,SKL-000012,4,2026-01-01,,,,not_assessed,,Communication,not_assessed
+EMP-000072,ROL-000002,Data,Data Analyst,SKL-000045,3,2026-01-01,,4.0,2026-10-01,assessed,0,Specialized Skill 0045,no_gap
+EMP-000072,ROL-000002,Data,Data Analyst,SKL-000005,5,2026-01-01,,,,not_assessed,,HTML,not_assessed
+EMP-000072,ROL-000002,Data,Data Analyst,SKL-000047,4,2026-01-01,,,,not_assessed,,Specialized Skill 0047,not_assessed
+EMP-000072,ROL-000002,Data,Data Analyst,SKL-000030,4,2026-01-01,,2.0,2026-10-01,assessed,2,Leadership,gap_identified
+EMP-000072,ROL-000002,Data,Data Analyst,SKL-000003,3,2026-01-01,,4.0,2026-10-01,assessed,0,Java,no_gap
+EMP-000073,ROL-000007,Data,Cloud Engineer,SKL-000025,4,2026-01-01,,,,not_assessed,,OOP,not_assessed
+EMP-000073,ROL-000007,Data,Cloud Engineer,SKL-000048,4,2026-01-01,,1.0,2026-10-01,assessed,3,Specialized Skill 0048,gap_identified
+EMP-000073,ROL-000007,Data,Cloud Engineer,SKL-000002,5,2026-01-01,,3.0,2026-10-01,assessed,2,SQL,gap_identified
+EMP-000073,ROL-000007,Data,Cloud Engineer,SKL-000024,3,2026-01-01,,4.0,2026-10-01,assessed,0,Testing,no_gap
+EMP-000073,ROL-000007,Data,Cloud Engineer,SKL-000007,4,2026-01-01,,2.0,2026-10-01,assessed,2,React,gap_identified
+EMP-000073,ROL-000007,Data,Cloud Engineer,SKL-000023,4,2026-01-01,,3.0,2026-10-01,assessed,1,REST APIs,gap_identified
+EMP-000073,ROL-000007,Data,Cloud Engineer,SKL-000003,4,2026-01-01,,1.0,2026-10-01,assessed,3,Java,gap_identified
+EMP-000073,ROL-000007,Data,Cloud Engineer,SKL-000036,3,2026-01-01,,5.0,2026-10-01,assessed,0,Specialized Skill 0036,no_gap
+EMP-000073,ROL-000007,Data,Cloud Engineer,SKL-000030,3,2026-01-01,,4.0,2026-10-01,assessed,0,Leadership,no_gap
+EMP-000073,ROL-000007,Data,Cloud Engineer,SKL-000020,4,2026-01-01,,,,not_assessed,,Linux,not_assessed
+EMP-000073,ROL-000007,Data,Cloud Engineer,SKL-000011,3,2026-01-01,,,,not_assessed,,Problem Solving,not_assessed
+EMP-000073,ROL-000007,Data,Cloud Engineer,SKL-000021,5,2026-01-01,,,,not_assessed,,Docker,not_assessed
+EMP-000074,ROL-000003,IT,Software Engineer,SKL-000034,3,2026-01-01,,,,not_assessed,,Specialized Skill 0034,not_assessed
+EMP-000074,ROL-000003,IT,Software Engineer,SKL-000018,4,2026-01-01,,4.0,2026-10-01,assessed,0,AWS,no_gap
+EMP-000074,ROL-000003,IT,Software Engineer,SKL-000042,4,2026-01-01,,,,not_assessed,,Specialized Skill 0042,not_assessed
+EMP-000074,ROL-000003,IT,Software Engineer,SKL-000038,4,2026-01-01,,3.0,2026-10-01,assessed,1,Specialized Skill 0038,gap_identified
+EMP-000074,ROL-000003,IT,Software Engineer,SKL-000023,5,2026-01-01,,5.0,2026-10-01,assessed,0,REST APIs,no_gap
+EMP-000074,ROL-000003,IT,Software Engineer,SKL-000003,3,2026-01-01,,4.0,2026-10-01,assessed,0,Java,no_gap
+EMP-000074,ROL-000003,IT,Software Engineer,SKL-000004,3,2026-01-01,,,,not_assessed,,JavaScript,not_assessed
+EMP-000074,ROL-000003,IT,Software Engineer,SKL-000036,5,2026-01-01,,5.0,2026-10-01,assessed,0,Specialized Skill 0036,no_gap
+EMP-000074,ROL-000003,IT,Software Engineer,SKL-000035,5,2026-01-01,,2.0,2026-10-01,assessed,3,Specialized Skill 0035,gap_identified
+EMP-000074,ROL-000003,IT,Software Engineer,SKL-000049,3,2026-01-01,,1.0,2026-10-01,assessed,2,Specialized Skill 0049,gap_identified
+EMP-000074,ROL-000003,IT,Software Engineer,SKL-000016,4,2026-01-01,,,,not_assessed,,Statistics,not_assessed
+EMP-000074,ROL-000003,IT,Software Engineer,SKL-000020,5,2026-01-01,,1.0,2026-10-01,assessed,4,Linux,gap_identified
+EMP-000075,ROL-000008,IT,QA Engineer,SKL-000017,3,2026-01-01,,3.0,2026-10-01,assessed,0,Cloud Computing,no_gap
+EMP-000075,ROL-000008,IT,QA Engineer,SKL-000043,3,2026-01-01,,,,not_assessed,,Specialized Skill 0043,not_assessed
+EMP-000075,ROL-000008,IT,QA Engineer,SKL-000024,4,2026-01-01,,1.0,2026-10-01,assessed,3,Testing,gap_identified
+EMP-000075,ROL-000008,IT,QA Engineer,SKL-000048,5,2026-01-01,,4.0,2026-10-01,assessed,1,Specialized Skill 0048,gap_identified
+EMP-000075,ROL-000008,IT,QA Engineer,SKL-000016,3,2026-01-01,,3.0,2026-10-01,assessed,0,Statistics,no_gap
+EMP-000075,ROL-000008,IT,QA Engineer,SKL-000049,3,2026-01-01,,4.0,2026-10-01,assessed,0,Specialized Skill 0049,no_gap
+EMP-000075,ROL-000008,IT,QA Engineer,SKL-000022,4,2026-01-01,,1.0,2026-10-01,assessed,3,Kubernetes,gap_identified
+EMP-000075,ROL-000008,IT,QA Engineer,SKL-000006,3,2026-01-01,,,,not_assessed,,CSS,not_assessed
+EMP-000075,ROL-000008,IT,QA Engineer,SKL-000003,3,2026-01-01,,,,not_assessed,,Java,not_assessed
+EMP-000075,ROL-000008,IT,QA Engineer,SKL-000015,4,2026-01-01,,,,not_assessed,,Machine Learning,not_assessed
+EMP-000075,ROL-000008,IT,QA Engineer,SKL-000039,5,2026-01-01,,2.0,2026-10-01,assessed,3,Specialized Skill 0039,gap_identified
+EMP-000075,ROL-000008,IT,QA Engineer,SKL-000018,3,2026-01-01,,5.0,2026-10-01,assessed,0,AWS,no_gap
+EMP-000076,ROL-000010,Operations,Project Coordinator,SKL-000040,3,2026-01-01,,2.0,2026-10-01,assessed,1,Specialized Skill 0040,gap_identified
+EMP-000076,ROL-000010,Operations,Project Coordinator,SKL-000033,3,2026-01-01,,,,not_assessed,,Specialized Skill 0033,not_assessed
+EMP-000076,ROL-000010,Operations,Project Coordinator,SKL-000043,3,2026-01-01,,,,not_assessed,,Specialized Skill 0043,not_assessed
+EMP-000076,ROL-000010,Operations,Project Coordinator,SKL-000027,5,2026-01-01,,5.0,2026-10-01,assessed,0,Cybersecurity,no_gap
+EMP-000076,ROL-000010,Operations,Project Coordinator,SKL-000035,4,2026-01-01,,4.0,2026-10-01,assessed,0,Specialized Skill 0035,no_gap
+EMP-000076,ROL-000010,Operations,Project Coordinator,SKL-000020,3,2026-01-01,,,,not_assessed,,Linux,not_assessed
+EMP-000076,ROL-000010,Operations,Project Coordinator,SKL-000011,3,2026-01-01,,3.0,2026-10-01,assessed,0,Problem Solving,no_gap
+EMP-000076,ROL-000010,Operations,Project Coordinator,SKL-000025,3,2026-01-01,,4.0,2026-10-01,assessed,0,OOP,no_gap
+EMP-000076,ROL-000010,Operations,Project Coordinator,SKL-000017,3,2026-01-01,,4.0,2026-10-01,assessed,0,Cloud Computing,no_gap
+EMP-000076,ROL-000010,Operations,Project Coordinator,SKL-000031,4,2026-01-01,,,,not_assessed,,Specialized Skill 0031,not_assessed
+EMP-000076,ROL-000010,Operations,Project Coordinator,SKL-000003,3,2026-01-01,,5.0,2026-10-01,assessed,0,Java,no_gap
+EMP-000076,ROL-000010,Operations,Project Coordinator,SKL-000008,4,2026-01-01,,2.0,2026-10-01,assessed,2,Flask,gap_identified
+EMP-000077,ROL-000010,Operations,Project Coordinator,SKL-000040,3,2026-01-01,,4.0,2026-10-01,assessed,0,Specialized Skill 0040,no_gap
+EMP-000077,ROL-000010,Operations,Project Coordinator,SKL-000033,3,2026-01-01,,4.0,2026-10-01,assessed,0,Specialized Skill 0033,no_gap
+EMP-000077,ROL-000010,Operations,Project Coordinator,SKL-000043,3,2026-01-01,,1.0,2026-10-01,assessed,2,Specialized Skill 0043,gap_identified
+EMP-000077,ROL-000010,Operations,Project Coordinator,SKL-000027,5,2026-01-01,,,,not_assessed,,Cybersecurity,not_assessed
+EMP-000077,ROL-000010,Operations,Project Coordinator,SKL-000035,4,2026-01-01,,,,not_assessed,,Specialized Skill 0035,not_assessed
+EMP-000077,ROL-000010,Operations,Project Coordinator,SKL-000020,3,2026-01-01,,5.0,2026-10-01,assessed,0,Linux,no_gap
+EMP-000077,ROL-000010,Operations,Project Coordinator,SKL-000011,3,2026-01-01,,3.0,2026-10-01,assessed,0,Problem Solving,no_gap
+EMP-000077,ROL-000010,Operations,Project Coordinator,SKL-000025,3,2026-01-01,,,,not_assessed,,OOP,not_assessed
+EMP-000077,ROL-000010,Operations,Project Coordinator,SKL-000017,3,2026-01-01,,,,not_assessed,,Cloud Computing,not_assessed
+EMP-000077,ROL-000010,Operations,Project Coordinator,SKL-000031,4,2026-01-01,,2.0,2026-10-01,assessed,2,Specialized Skill 0031,gap_identified
+EMP-000077,ROL-000010,Operations,Project Coordinator,SKL-000003,3,2026-01-01,,5.0,2026-10-01,assessed,0,Java,no_gap
+EMP-000077,ROL-000010,Operations,Project Coordinator,SKL-000008,4,2026-01-01,,4.0,2026-10-01,assessed,0,Flask,no_gap
+EMP-000078,ROL-000009,HR,Database Administrator,SKL-000008,4,2026-01-01,,,,not_assessed,,Flask,not_assessed
+EMP-000078,ROL-000009,HR,Database Administrator,SKL-000048,4,2026-01-01,,4.0,2026-10-01,assessed,0,Specialized Skill 0048,no_gap
+EMP-000078,ROL-000009,HR,Database Administrator,SKL-000001,4,2026-01-01,,,,not_assessed,,Python,not_assessed
+EMP-000078,ROL-000009,HR,Database Administrator,SKL-000015,5,2026-01-01,,,,not_assessed,,Machine Learning,not_assessed
+EMP-000078,ROL-000009,HR,Database Administrator,SKL-000030,3,2026-01-01,,2.0,2026-10-01,assessed,1,Leadership,gap_identified
+EMP-000078,ROL-000009,HR,Database Administrator,SKL-000027,4,2026-01-01,,5.0,2026-10-01,assessed,0,Cybersecurity,no_gap
+EMP-000078,ROL-000009,HR,Database Administrator,SKL-000049,5,2026-01-01,,4.0,2026-10-01,assessed,1,Specialized Skill 0049,gap_identified
+EMP-000078,ROL-000009,HR,Database Administrator,SKL-000033,3,2026-01-01,,1.0,2026-10-01,assessed,2,Specialized Skill 0033,gap_identified
+EMP-000078,ROL-000009,HR,Database Administrator,SKL-000004,4,2026-01-01,,1.0,2026-10-01,assessed,3,JavaScript,gap_identified
+EMP-000078,ROL-000009,HR,Database Administrator,SKL-000041,4,2026-01-01,,2.0,2026-10-01,assessed,2,Specialized Skill 0041,gap_identified
+EMP-000078,ROL-000009,HR,Database Administrator,SKL-000042,5,2026-01-01,,4.0,2026-10-01,assessed,1,Specialized Skill 0042,gap_identified
+EMP-000078,ROL-000009,HR,Database Administrator,SKL-000021,5,2026-01-01,,,,not_assessed,,Docker,not_assessed
+EMP-000079,ROL-000006,Engineering,Business Analyst,SKL-000003,4,2026-01-01,,2.0,2026-10-01,assessed,2,Java,gap_identified
+EMP-000079,ROL-000006,Engineering,Business Analyst,SKL-000020,4,2026-01-01,,,,not_assessed,,Linux,not_assessed
+EMP-000079,ROL-000006,Engineering,Business Analyst,SKL-000008,3,2026-01-01,,,,not_assessed,,Flask,not_assessed
+EMP-000079,ROL-000006,Engineering,Business Analyst,SKL-000010,4,2026-01-01,,3.0,2026-10-01,assessed,1,Git,gap_identified
+EMP-000079,ROL-000006,Engineering,Business Analyst,SKL-000034,4,2026-01-01,,,,not_assessed,,Specialized Skill 0034,not_assessed
+EMP-000079,ROL-000006,Engineering,Business Analyst,SKL-000035,5,2026-01-01,,5.0,2026-10-01,assessed,0,Specialized Skill 0035,no_gap
+EMP-000079,ROL-000006,Engineering,Business Analyst,SKL-000043,5,2026-01-01,,2.0,2026-10-01,assessed,3,Specialized Skill 0043,gap_identified
+EMP-000079,ROL-000006,Engineering,Business Analyst,SKL-000039,5,2026-01-01,,3.0,2026-10-01,assessed,2,Specialized Skill 0039,gap_identified
+EMP-000079,ROL-000006,Engineering,Business Analyst,SKL-000009,5,2026-01-01,,,,not_assessed,,Django,not_assessed
+EMP-000079,ROL-000006,Engineering,Business Analyst,SKL-000047,3,2026-01-01,,4.0,2026-10-01,assessed,0,Specialized Skill 0047,no_gap
+EMP-000079,ROL-000006,Engineering,Business Analyst,SKL-000007,5,2026-01-01,,5.0,2026-10-01,assessed,0,React,no_gap
+EMP-000079,ROL-000006,Engineering,Business Analyst,SKL-000004,3,2026-01-01,,2.0,2026-10-01,assessed,1,JavaScript,gap_identified
+EMP-000080,ROL-000003,IT,Software Engineer,SKL-000034,3,2026-01-01,,,,not_assessed,,Specialized Skill 0034,not_assessed
+EMP-000080,ROL-000003,IT,Software Engineer,SKL-000018,4,2026-01-01,,2.0,2026-10-01,assessed,2,AWS,gap_identified
+EMP-000080,ROL-000003,IT,Software Engineer,SKL-000042,4,2026-01-01,,3.0,2026-10-01,assessed,1,Specialized Skill 0042,gap_identified
+EMP-000080,ROL-000003,IT,Software Engineer,SKL-000038,4,2026-01-01,,3.0,2026-10-01,assessed,1,Specialized Skill 0038,gap_identified
+EMP-000080,ROL-000003,IT,Software Engineer,SKL-000023,5,2026-01-01,,,,not_assessed,,REST APIs,not_assessed
+EMP-000080,ROL-000003,IT,Software Engineer,SKL-000003,3,2026-01-01,,4.0,2026-10-01,assessed,0,Java,no_gap
+EMP-000080,ROL-000003,IT,Software Engineer,SKL-000004,3,2026-01-01,,4.0,2026-10-01,assessed,0,JavaScript,no_gap
+EMP-000080,ROL-000003,IT,Software Engineer,SKL-000036,5,2026-01-01,,4.0,2026-10-01,assessed,1,Specialized Skill 0036,gap_identified
+EMP-000080,ROL-000003,IT,Software Engineer,SKL-000035,5,2026-01-01,,5.0,2026-10-01,assessed,0,Specialized Skill 0035,no_gap
+EMP-000080,ROL-000003,IT,Software Engineer,SKL-000049,3,2026-01-01,,,,not_assessed,,Specialized Skill 0049,not_assessed
+EMP-000080,ROL-000003,IT,Software Engineer,SKL-000016,4,2026-01-01,,2.0,2026-10-01,assessed,2,Statistics,gap_identified
+EMP-000080,ROL-000003,IT,Software Engineer,SKL-000020,5,2026-01-01,,,,not_assessed,,Linux,not_assessed
+EMP-000081,ROL-000006,Engineering,Business Analyst,SKL-000003,4,2026-01-01,,,,not_assessed,,Java,not_assessed
+EMP-000081,ROL-000006,Engineering,Business Analyst,SKL-000020,4,2026-01-01,,1.0,2026-10-01,assessed,3,Linux,gap_identified
+EMP-000081,ROL-000006,Engineering,Business Analyst,SKL-000008,3,2026-01-01,,,,not_assessed,,Flask,not_assessed
+EMP-000081,ROL-000006,Engineering,Business Analyst,SKL-000010,4,2026-01-01,,3.0,2026-10-01,assessed,1,Git,gap_identified
+EMP-000081,ROL-000006,Engineering,Business Analyst,SKL-000034,4,2026-01-01,,1.0,2026-10-01,assessed,3,Specialized Skill 0034,gap_identified
+EMP-000081,ROL-000006,Engineering,Business Analyst,SKL-000035,5,2026-01-01,,1.0,2026-10-01,assessed,4,Specialized Skill 0035,gap_identified
+EMP-000081,ROL-000006,Engineering,Business Analyst,SKL-000043,5,2026-01-01,,2.0,2026-10-01,assessed,3,Specialized Skill 0043,gap_identified
+EMP-000081,ROL-000006,Engineering,Business Analyst,SKL-000039,5,2026-01-01,,,,not_assessed,,Specialized Skill 0039,not_assessed
+EMP-000081,ROL-000006,Engineering,Business Analyst,SKL-000009,5,2026-01-01,,3.0,2026-10-01,assessed,2,Django,gap_identified
+EMP-000081,ROL-000006,Engineering,Business Analyst,SKL-000047,3,2026-01-01,,,,not_assessed,,Specialized Skill 0047,not_assessed
+EMP-000081,ROL-000006,Engineering,Business Analyst,SKL-000007,5,2026-01-01,,2.0,2026-10-01,assessed,3,React,gap_identified
+EMP-000081,ROL-000006,Engineering,Business Analyst,SKL-000004,3,2026-01-01,,4.0,2026-10-01,assessed,0,JavaScript,no_gap
+EMP-000082,ROL-000006,Engineering,Business Analyst,SKL-000003,4,2026-01-01,,,,not_assessed,,Java,not_assessed
+EMP-000082,ROL-000006,Engineering,Business Analyst,SKL-000020,4,2026-01-01,,5.0,2026-10-01,assessed,0,Linux,no_gap
+EMP-000082,ROL-000006,Engineering,Business Analyst,SKL-000008,3,2026-01-01,,4.0,2026-10-01,assessed,0,Flask,no_gap
+EMP-000082,ROL-000006,Engineering,Business Analyst,SKL-000010,4,2026-01-01,,,,not_assessed,,Git,not_assessed
+EMP-000082,ROL-000006,Engineering,Business Analyst,SKL-000034,4,2026-01-01,,,,not_assessed,,Specialized Skill 0034,not_assessed
+EMP-000082,ROL-000006,Engineering,Business Analyst,SKL-000035,5,2026-01-01,,4.0,2026-10-01,assessed,1,Specialized Skill 0035,gap_identified
+EMP-000082,ROL-000006,Engineering,Business Analyst,SKL-000043,5,2026-01-01,,5.0,2026-10-01,assessed,0,Specialized Skill 0043,no_gap
+EMP-000082,ROL-000006,Engineering,Business Analyst,SKL-000039,5,2026-01-01,,1.0,2026-10-01,assessed,4,Specialized Skill 0039,gap_identified
+EMP-000082,ROL-000006,Engineering,Business Analyst,SKL-000009,5,2026-01-01,,,,not_assessed,,Django,not_assessed
+EMP-000082,ROL-000006,Engineering,Business Analyst,SKL-000047,3,2026-01-01,,3.0,2026-10-01,assessed,0,Specialized Skill 0047,no_gap
+EMP-000082,ROL-000006,Engineering,Business Analyst,SKL-000007,5,2026-01-01,,3.0,2026-10-01,assessed,2,React,gap_identified
+EMP-000082,ROL-000006,Engineering,Business Analyst,SKL-000004,3,2026-01-01,,3.0,2026-10-01,assessed,0,JavaScript,no_gap
+EMP-000083,ROL-000010,Operations,Project Coordinator,SKL-000040,3,2026-01-01,,2.0,2026-10-01,assessed,1,Specialized Skill 0040,gap_identified
+EMP-000083,ROL-000010,Operations,Project Coordinator,SKL-000033,3,2026-01-01,,5.0,2026-10-01,assessed,0,Specialized Skill 0033,no_gap
+EMP-000083,ROL-000010,Operations,Project Coordinator,SKL-000043,3,2026-01-01,,,,not_assessed,,Specialized Skill 0043,not_assessed
+EMP-000083,ROL-000010,Operations,Project Coordinator,SKL-000027,5,2026-01-01,,,,not_assessed,,Cybersecurity,not_assessed
+EMP-000083,ROL-000010,Operations,Project Coordinator,SKL-000035,4,2026-01-01,,,,not_assessed,,Specialized Skill 0035,not_assessed
+EMP-000083,ROL-000010,Operations,Project Coordinator,SKL-000020,3,2026-01-01,,3.0,2026-10-01,assessed,0,Linux,no_gap
+EMP-000083,ROL-000010,Operations,Project Coordinator,SKL-000011,3,2026-01-01,,,,not_assessed,,Problem Solving,not_assessed
+EMP-000083,ROL-000010,Operations,Project Coordinator,SKL-000025,3,2026-01-01,,5.0,2026-10-01,assessed,0,OOP,no_gap
+EMP-000083,ROL-000010,Operations,Project Coordinator,SKL-000017,3,2026-01-01,,4.0,2026-10-01,assessed,0,Cloud Computing,no_gap
+EMP-000083,ROL-000010,Operations,Project Coordinator,SKL-000031,4,2026-01-01,,5.0,2026-10-01,assessed,0,Specialized Skill 0031,no_gap
+EMP-000083,ROL-000010,Operations,Project Coordinator,SKL-000003,3,2026-01-01,,3.0,2026-10-01,assessed,0,Java,no_gap
+EMP-000083,ROL-000010,Operations,Project Coordinator,SKL-000008,4,2026-01-01,,4.0,2026-10-01,assessed,0,Flask,no_gap
+EMP-000084,ROL-000001,Engineering,Python Developer,SKL-000031,5,2026-01-01,,5.0,2026-10-01,assessed,0,Specialized Skill 0031,no_gap
+EMP-000084,ROL-000001,Engineering,Python Developer,SKL-000009,3,2026-01-01,,,,not_assessed,,Django,not_assessed
+EMP-000084,ROL-000001,Engineering,Python Developer,SKL-000004,5,2026-01-01,,,,not_assessed,,JavaScript,not_assessed
+EMP-000084,ROL-000001,Engineering,Python Developer,SKL-000019,3,2026-01-01,,,,not_assessed,,Azure,not_assessed
+EMP-000084,ROL-000001,Engineering,Python Developer,SKL-000012,5,2026-01-01,,1.0,2026-10-01,assessed,4,Communication,gap_identified
+EMP-000084,ROL-000001,Engineering,Python Developer,SKL-000050,5,2026-01-01,,2.0,2026-10-01,assessed,3,Specialized Skill 0050,gap_identified
+EMP-000084,ROL-000001,Engineering,Python Developer,SKL-000045,3,2026-01-01,,,,not_assessed,,Specialized Skill 0045,not_assessed
+EMP-000084,ROL-000001,Engineering,Python Developer,SKL-000028,4,2026-01-01,,5.0,2026-10-01,assessed,0,Networking,no_gap
+EMP-000084,ROL-000001,Engineering,Python Developer,SKL-000024,5,2026-01-01,,2.0,2026-10-01,assessed,3,Testing,gap_identified
+EMP-000084,ROL-000001,Engineering,Python Developer,SKL-000026,5,2026-01-01,,2.0,2026-10-01,assessed,3,Data Structures,gap_identified
+EMP-000084,ROL-000001,Engineering,Python Developer,SKL-000021,4,2026-01-01,,3.0,2026-10-01,assessed,1,Docker,gap_identified
+EMP-000084,ROL-000001,Engineering,Python Developer,SKL-000048,3,2026-01-01,,2.0,2026-10-01,assessed,1,Specialized Skill 0048,gap_identified
+EMP-000085,ROL-000006,Engineering,Business Analyst,SKL-000003,4,2026-01-01,,,,not_assessed,,Java,not_assessed
+EMP-000085,ROL-000006,Engineering,Business Analyst,SKL-000020,4,2026-01-01,,4.0,2026-10-01,assessed,0,Linux,no_gap
+EMP-000085,ROL-000006,Engineering,Business Analyst,SKL-000008,3,2026-01-01,,2.0,2026-10-01,assessed,1,Flask,gap_identified
+EMP-000085,ROL-000006,Engineering,Business Analyst,SKL-000010,4,2026-01-01,,3.0,2026-10-01,assessed,1,Git,gap_identified
+EMP-000085,ROL-000006,Engineering,Business Analyst,SKL-000034,4,2026-01-01,,4.0,2026-10-01,assessed,0,Specialized Skill 0034,no_gap
+EMP-000085,ROL-000006,Engineering,Business Analyst,SKL-000035,5,2026-01-01,,,,not_assessed,,Specialized Skill 0035,not_assessed
+EMP-000085,ROL-000006,Engineering,Business Analyst,SKL-000043,5,2026-01-01,,3.0,2026-10-01,assessed,2,Specialized Skill 0043,gap_identified
+EMP-000085,ROL-000006,Engineering,Business Analyst,SKL-000039,5,2026-01-01,,4.0,2026-10-01,assessed,1,Specialized Skill 0039,gap_identified
+EMP-000085,ROL-000006,Engineering,Business Analyst,SKL-000009,5,2026-01-01,,2.0,2026-10-01,assessed,3,Django,gap_identified
+EMP-000085,ROL-000006,Engineering,Business Analyst,SKL-000047,3,2026-01-01,,5.0,2026-10-01,assessed,0,Specialized Skill 0047,no_gap
+EMP-000085,ROL-000006,Engineering,Business Analyst,SKL-000007,5,2026-01-01,,,,not_assessed,,React,not_assessed
+EMP-000085,ROL-000006,Engineering,Business Analyst,SKL-000004,3,2026-01-01,,,,not_assessed,,JavaScript,not_assessed
+EMP-000086,ROL-000010,Operations,Project Coordinator,SKL-000040,3,2026-01-01,,4.0,2026-10-01,assessed,0,Specialized Skill 0040,no_gap
+EMP-000086,ROL-000010,Operations,Project Coordinator,SKL-000033,3,2026-01-01,,2.0,2026-10-01,assessed,1,Specialized Skill 0033,gap_identified
+EMP-000086,ROL-000010,Operations,Project Coordinator,SKL-000043,3,2026-01-01,,1.0,2026-10-01,assessed,2,Specialized Skill 0043,gap_identified
+EMP-000086,ROL-000010,Operations,Project Coordinator,SKL-000027,5,2026-01-01,,1.0,2026-10-01,assessed,4,Cybersecurity,gap_identified
+EMP-000086,ROL-000010,Operations,Project Coordinator,SKL-000035,4,2026-01-01,,,,not_assessed,,Specialized Skill 0035,not_assessed
+EMP-000086,ROL-000010,Operations,Project Coordinator,SKL-000020,3,2026-01-01,,,,not_assessed,,Linux,not_assessed
+EMP-000086,ROL-000010,Operations,Project Coordinator,SKL-000011,3,2026-01-01,,1.0,2026-10-01,assessed,2,Problem Solving,gap_identified
+EMP-000086,ROL-000010,Operations,Project Coordinator,SKL-000025,3,2026-01-01,,1.0,2026-10-01,assessed,2,OOP,gap_identified
+EMP-000086,ROL-000010,Operations,Project Coordinator,SKL-000017,3,2026-01-01,,1.0,2026-10-01,assessed,2,Cloud Computing,gap_identified
+EMP-000086,ROL-000010,Operations,Project Coordinator,SKL-000031,4,2026-01-01,,4.0,2026-10-01,assessed,0,Specialized Skill 0031,no_gap
+EMP-000086,ROL-000010,Operations,Project Coordinator,SKL-000003,3,2026-01-01,,,,not_assessed,,Java,not_assessed
+EMP-000086,ROL-000010,Operations,Project Coordinator,SKL-000008,4,2026-01-01,,,,not_assessed,,Flask,not_assessed
+EMP-000087,ROL-000008,IT,QA Engineer,SKL-000017,3,2026-01-01,,,,not_assessed,,Cloud Computing,not_assessed
+EMP-000087,ROL-000008,IT,QA Engineer,SKL-000043,3,2026-01-01,,5.0,2026-10-01,assessed,0,Specialized Skill 0043,no_gap
+EMP-000087,ROL-000008,IT,QA Engineer,SKL-000024,4,2026-01-01,,,,not_assessed,,Testing,not_assessed
+EMP-000087,ROL-000008,IT,QA Engineer,SKL-000048,5,2026-01-01,,3.0,2026-10-01,assessed,2,Specialized Skill 0048,gap_identified
+EMP-000087,ROL-000008,IT,QA Engineer,SKL-000016,3,2026-01-01,,2.0,2026-10-01,assessed,1,Statistics,gap_identified
+EMP-000087,ROL-000008,IT,QA Engineer,SKL-000049,3,2026-01-01,,4.0,2026-10-01,assessed,0,Specialized Skill 0049,no_gap
+EMP-000087,ROL-000008,IT,QA Engineer,SKL-000022,4,2026-01-01,,4.0,2026-10-01,assessed,0,Kubernetes,no_gap
+EMP-000087,ROL-000008,IT,QA Engineer,SKL-000006,3,2026-01-01,,,,not_assessed,,CSS,not_assessed
+EMP-000087,ROL-000008,IT,QA Engineer,SKL-000003,3,2026-01-01,,,,not_assessed,,Java,not_assessed
+EMP-000087,ROL-000008,IT,QA Engineer,SKL-000015,4,2026-01-01,,5.0,2026-10-01,assessed,0,Machine Learning,no_gap
+EMP-000087,ROL-000008,IT,QA Engineer,SKL-000039,5,2026-01-01,,5.0,2026-10-01,assessed,0,Specialized Skill 0039,no_gap
+EMP-000087,ROL-000008,IT,QA Engineer,SKL-000018,3,2026-01-01,,5.0,2026-10-01,assessed,0,AWS,no_gap
+EMP-000088,ROL-000010,Operations,Project Coordinator,SKL-000040,3,2026-01-01,,5.0,2026-10-01,assessed,0,Specialized Skill 0040,no_gap
+EMP-000088,ROL-000010,Operations,Project Coordinator,SKL-000033,3,2026-01-01,,3.0,2026-10-01,assessed,0,Specialized Skill 0033,no_gap
+EMP-000088,ROL-000010,Operations,Project Coordinator,SKL-000043,3,2026-01-01,,,,not_assessed,,Specialized Skill 0043,not_assessed
+EMP-000088,ROL-000010,Operations,Project Coordinator,SKL-000027,5,2026-01-01,,4.0,2026-10-01,assessed,1,Cybersecurity,gap_identified
+EMP-000088,ROL-000010,Operations,Project Coordinator,SKL-000035,4,2026-01-01,,4.0,2026-10-01,assessed,0,Specialized Skill 0035,no_gap
+EMP-000088,ROL-000010,Operations,Project Coordinator,SKL-000020,3,2026-01-01,,5.0,2026-10-01,assessed,0,Linux,no_gap
+EMP-000088,ROL-000010,Operations,Project Coordinator,SKL-000011,3,2026-01-01,,,,not_assessed,,Problem Solving,not_assessed
+EMP-000088,ROL-000010,Operations,Project Coordinator,SKL-000025,3,2026-01-01,,,,not_assessed,,OOP,not_assessed
+EMP-000088,ROL-000010,Operations,Project Coordinator,SKL-000017,3,2026-01-01,,,,not_assessed,,Cloud Computing,not_assessed
+EMP-000088,ROL-000010,Operations,Project Coordinator,SKL-000031,4,2026-01-01,,1.0,2026-10-01,assessed,3,Specialized Skill 0031,gap_identified
+EMP-000088,ROL-000010,Operations,Project Coordinator,SKL-000003,3,2026-01-01,,2.0,2026-10-01,assessed,1,Java,gap_identified
+EMP-000088,ROL-000010,Operations,Project Coordinator,SKL-000008,4,2026-01-01,,3.0,2026-10-01,assessed,1,Flask,gap_identified
+EMP-000089,ROL-000003,IT,Software Engineer,SKL-000034,3,2026-01-01,,3.0,2026-10-01,assessed,0,Specialized Skill 0034,no_gap
+EMP-000089,ROL-000003,IT,Software Engineer,SKL-000018,4,2026-01-01,,,,not_assessed,,AWS,not_assessed
+EMP-000089,ROL-000003,IT,Software Engineer,SKL-000042,4,2026-01-01,,,,not_assessed,,Specialized Skill 0042,not_assessed
+EMP-000089,ROL-000003,IT,Software Engineer,SKL-000038,4,2026-01-01,,1.0,2026-10-01,assessed,3,Specialized Skill 0038,gap_identified
+EMP-000089,ROL-000003,IT,Software Engineer,SKL-000023,5,2026-01-01,,,,not_assessed,,REST APIs,not_assessed
+EMP-000089,ROL-000003,IT,Software Engineer,SKL-000003,3,2026-01-01,,,,not_assessed,,Java,not_assessed
+EMP-000089,ROL-000003,IT,Software Engineer,SKL-000004,3,2026-01-01,,1.0,2026-10-01,assessed,2,JavaScript,gap_identified
+EMP-000089,ROL-000003,IT,Software Engineer,SKL-000036,5,2026-01-01,,2.0,2026-10-01,assessed,3,Specialized Skill 0036,gap_identified
+EMP-000089,ROL-000003,IT,Software Engineer,SKL-000035,5,2026-01-01,,4.0,2026-10-01,assessed,1,Specialized Skill 0035,gap_identified
+EMP-000089,ROL-000003,IT,Software Engineer,SKL-000049,3,2026-01-01,,3.0,2026-10-01,assessed,0,Specialized Skill 0049,no_gap
+EMP-000089,ROL-000003,IT,Software Engineer,SKL-000016,4,2026-01-01,,1.0,2026-10-01,assessed,3,Statistics,gap_identified
+EMP-000089,ROL-000003,IT,Software Engineer,SKL-000020,5,2026-01-01,,5.0,2026-10-01,assessed,0,Linux,no_gap
+EMP-000090,ROL-000008,IT,QA Engineer,SKL-000017,3,2026-01-01,,,,not_assessed,,Cloud Computing,not_assessed
+EMP-000090,ROL-000008,IT,QA Engineer,SKL-000043,3,2026-01-01,,4.0,2026-10-01,assessed,0,Specialized Skill 0043,no_gap
+EMP-000090,ROL-000008,IT,QA Engineer,SKL-000024,4,2026-01-01,,1.0,2026-10-01,assessed,3,Testing,gap_identified
+EMP-000090,ROL-000008,IT,QA Engineer,SKL-000048,5,2026-01-01,,4.0,2026-10-01,assessed,1,Specialized Skill 0048,gap_identified
+EMP-000090,ROL-000008,IT,QA Engineer,SKL-000016,3,2026-01-01,,,,not_assessed,,Statistics,not_assessed
+EMP-000090,ROL-000008,IT,QA Engineer,SKL-000049,3,2026-01-01,,,,not_assessed,,Specialized Skill 0049,not_assessed
+EMP-000090,ROL-000008,IT,QA Engineer,SKL-000022,4,2026-01-01,,2.0,2026-10-01,assessed,2,Kubernetes,gap_identified
+EMP-000090,ROL-000008,IT,QA Engineer,SKL-000006,3,2026-01-01,,4.0,2026-10-01,assessed,0,CSS,no_gap
+EMP-000090,ROL-000008,IT,QA Engineer,SKL-000003,3,2026-01-01,,2.0,2026-10-01,assessed,1,Java,gap_identified
+EMP-000090,ROL-000008,IT,QA Engineer,SKL-000015,4,2026-01-01,,,,not_assessed,,Machine Learning,not_assessed
+EMP-000090,ROL-000008,IT,QA Engineer,SKL-000039,5,2026-01-01,,4.0,2026-10-01,assessed,1,Specialized Skill 0039,gap_identified
+EMP-000090,ROL-000008,IT,QA Engineer,SKL-000018,3,2026-01-01,,3.0,2026-10-01,assessed,0,AWS,no_gap
+EMP-000091,ROL-000007,Data,Cloud Engineer,SKL-000025,4,2026-01-01,,1.0,2026-10-01,assessed,3,OOP,gap_identified
+EMP-000091,ROL-000007,Data,Cloud Engineer,SKL-000048,4,2026-01-01,,5.0,2026-10-01,assessed,0,Specialized Skill 0048,no_gap
+EMP-000091,ROL-000007,Data,Cloud Engineer,SKL-000002,5,2026-01-01,,4.0,2026-10-01,assessed,1,SQL,gap_identified
+EMP-000091,ROL-000007,Data,Cloud Engineer,SKL-000024,3,2026-01-01,,,,not_assessed,,Testing,not_assessed
+EMP-000091,ROL-000007,Data,Cloud Engineer,SKL-000007,4,2026-01-01,,5.0,2026-10-01,assessed,0,React,no_gap
+EMP-000091,ROL-000007,Data,Cloud Engineer,SKL-000023,4,2026-01-01,,2.0,2026-10-01,assessed,2,REST APIs,gap_identified
+EMP-000091,ROL-000007,Data,Cloud Engineer,SKL-000003,4,2026-01-01,,,,not_assessed,,Java,not_assessed
+EMP-000091,ROL-000007,Data,Cloud Engineer,SKL-000036,3,2026-01-01,,4.0,2026-10-01,assessed,0,Specialized Skill 0036,no_gap
+EMP-000091,ROL-000007,Data,Cloud Engineer,SKL-000030,3,2026-01-01,,2.0,2026-10-01,assessed,1,Leadership,gap_identified
+EMP-000091,ROL-000007,Data,Cloud Engineer,SKL-000020,4,2026-01-01,,,,not_assessed,,Linux,not_assessed
+EMP-000091,ROL-000007,Data,Cloud Engineer,SKL-000011,3,2026-01-01,,2.0,2026-10-01,assessed,1,Problem Solving,gap_identified
+EMP-000091,ROL-000007,Data,Cloud Engineer,SKL-000021,5,2026-01-01,,,,not_assessed,,Docker,not_assessed
+EMP-000092,ROL-000002,Data,Data Analyst,SKL-000026,5,2026-01-01,,2.0,2026-10-01,assessed,3,Data Structures,gap_identified
+EMP-000092,ROL-000002,Data,Data Analyst,SKL-000033,3,2026-01-01,,2.0,2026-10-01,assessed,1,Specialized Skill 0033,gap_identified
+EMP-000092,ROL-000002,Data,Data Analyst,SKL-000048,5,2026-01-01,,1.0,2026-10-01,assessed,4,Specialized Skill 0048,gap_identified
+EMP-000092,ROL-000002,Data,Data Analyst,SKL-000037,5,2026-01-01,,,,not_assessed,,Specialized Skill 0037,not_assessed
+EMP-000092,ROL-000002,Data,Data Analyst,SKL-000034,5,2026-01-01,,3.0,2026-10-01,assessed,2,Specialized Skill 0034,gap_identified
+EMP-000092,ROL-000002,Data,Data Analyst,SKL-000006,5,2026-01-01,,1.0,2026-10-01,assessed,4,CSS,gap_identified
+EMP-000092,ROL-000002,Data,Data Analyst,SKL-000012,4,2026-01-01,,5.0,2026-10-01,assessed,0,Communication,no_gap
+EMP-000092,ROL-000002,Data,Data Analyst,SKL-000045,3,2026-01-01,,,,not_assessed,,Specialized Skill 0045,not_assessed
+EMP-000092,ROL-000002,Data,Data Analyst,SKL-000005,5,2026-01-01,,,,not_assessed,,HTML,not_assessed
+EMP-000092,ROL-000002,Data,Data Analyst,SKL-000047,4,2026-01-01,,,,not_assessed,,Specialized Skill 0047,not_assessed
+EMP-000092,ROL-000002,Data,Data Analyst,SKL-000030,4,2026-01-01,,4.0,2026-10-01,assessed,0,Leadership,no_gap
+EMP-000092,ROL-000002,Data,Data Analyst,SKL-000003,3,2026-01-01,,3.0,2026-10-01,assessed,0,Java,no_gap
+EMP-000093,ROL-000008,IT,QA Engineer,SKL-000017,3,2026-01-01,,3.0,2026-10-01,assessed,0,Cloud Computing,no_gap
+EMP-000093,ROL-000008,IT,QA Engineer,SKL-000043,3,2026-01-01,,,,not_assessed,,Specialized Skill 0043,not_assessed
+EMP-000093,ROL-000008,IT,QA Engineer,SKL-000024,4,2026-01-01,,,,not_assessed,,Testing,not_assessed
+EMP-000093,ROL-000008,IT,QA Engineer,SKL-000048,5,2026-01-01,,,,not_assessed,,Specialized Skill 0048,not_assessed
+EMP-000093,ROL-000008,IT,QA Engineer,SKL-000016,3,2026-01-01,,,,not_assessed,,Statistics,not_assessed
+EMP-000093,ROL-000008,IT,QA Engineer,SKL-000049,3,2026-01-01,,4.0,2026-10-01,assessed,0,Specialized Skill 0049,no_gap
+EMP-000093,ROL-000008,IT,QA Engineer,SKL-000022,4,2026-01-01,,1.0,2026-10-01,assessed,3,Kubernetes,gap_identified
+EMP-000093,ROL-000008,IT,QA Engineer,SKL-000006,3,2026-01-01,,5.0,2026-10-01,assessed,0,CSS,no_gap
+EMP-000093,ROL-000008,IT,QA Engineer,SKL-000003,3,2026-01-01,,5.0,2026-10-01,assessed,0,Java,no_gap
+EMP-000093,ROL-000008,IT,QA Engineer,SKL-000015,4,2026-01-01,,2.0,2026-10-01,assessed,2,Machine Learning,gap_identified
+EMP-000093,ROL-000008,IT,QA Engineer,SKL-000039,5,2026-01-01,,5.0,2026-10-01,assessed,0,Specialized Skill 0039,no_gap
+EMP-000093,ROL-000008,IT,QA Engineer,SKL-000018,3,2026-01-01,,2.0,2026-10-01,assessed,1,AWS,gap_identified
+EMP-000094,ROL-000003,IT,Software Engineer,SKL-000034,3,2026-01-01,,,,not_assessed,,Specialized Skill 0034,not_assessed
+EMP-000094,ROL-000003,IT,Software Engineer,SKL-000018,4,2026-01-01,,4.0,2026-10-01,assessed,0,AWS,no_gap
+EMP-000094,ROL-000003,IT,Software Engineer,SKL-000042,4,2026-01-01,,3.0,2026-10-01,assessed,1,Specialized Skill 0042,gap_identified
+EMP-000094,ROL-000003,IT,Software Engineer,SKL-000038,4,2026-01-01,,3.0,2026-10-01,assessed,1,Specialized Skill 0038,gap_identified
+EMP-000094,ROL-000003,IT,Software Engineer,SKL-000023,5,2026-01-01,,,,not_assessed,,REST APIs,not_assessed
+EMP-000094,ROL-000003,IT,Software Engineer,SKL-000003,3,2026-01-01,,4.0,2026-10-01,assessed,0,Java,no_gap
+EMP-000094,ROL-000003,IT,Software Engineer,SKL-000004,3,2026-01-01,,,,not_assessed,,JavaScript,not_assessed
+EMP-000094,ROL-000003,IT,Software Engineer,SKL-000036,5,2026-01-01,,2.0,2026-10-01,assessed,3,Specialized Skill 0036,gap_identified
+EMP-000094,ROL-000003,IT,Software Engineer,SKL-000035,5,2026-01-01,,1.0,2026-10-01,assessed,4,Specialized Skill 0035,gap_identified
+EMP-000094,ROL-000003,IT,Software Engineer,SKL-000049,3,2026-01-01,,4.0,2026-10-01,assessed,0,Specialized Skill 0049,no_gap
+EMP-000094,ROL-000003,IT,Software Engineer,SKL-000016,4,2026-01-01,,3.0,2026-10-01,assessed,1,Statistics,gap_identified
+EMP-000094,ROL-000003,IT,Software Engineer,SKL-000020,5,2026-01-01,,,,not_assessed,,Linux,not_assessed
+EMP-000095,ROL-000007,Data,Cloud Engineer,SKL-000025,4,2026-01-01,,2.0,2026-10-01,assessed,2,OOP,gap_identified
+EMP-000095,ROL-000007,Data,Cloud Engineer,SKL-000048,4,2026-01-01,,1.0,2026-10-01,assessed,3,Specialized Skill 0048,gap_identified
+EMP-000095,ROL-000007,Data,Cloud Engineer,SKL-000002,5,2026-01-01,,3.0,2026-10-01,assessed,2,SQL,gap_identified
+EMP-000095,ROL-000007,Data,Cloud Engineer,SKL-000024,3,2026-01-01,,,,not_assessed,,Testing,not_assessed
+EMP-000095,ROL-000007,Data,Cloud Engineer,SKL-000007,4,2026-01-01,,,,not_assessed,,React,not_assessed
+EMP-000095,ROL-000007,Data,Cloud Engineer,SKL-000023,4,2026-01-01,,1.0,2026-10-01,assessed,3,REST APIs,gap_identified
+EMP-000095,ROL-000007,Data,Cloud Engineer,SKL-000003,4,2026-01-01,,,,not_assessed,,Java,not_assessed
+EMP-000095,ROL-000007,Data,Cloud Engineer,SKL-000036,3,2026-01-01,,3.0,2026-10-01,assessed,0,Specialized Skill 0036,no_gap
+EMP-000095,ROL-000007,Data,Cloud Engineer,SKL-000030,3,2026-01-01,,,,not_assessed,,Leadership,not_assessed
+EMP-000095,ROL-000007,Data,Cloud Engineer,SKL-000020,4,2026-01-01,,3.0,2026-10-01,assessed,1,Linux,gap_identified
+EMP-000095,ROL-000007,Data,Cloud Engineer,SKL-000011,3,2026-01-01,,4.0,2026-10-01,assessed,0,Problem Solving,no_gap
+EMP-000095,ROL-000007,Data,Cloud Engineer,SKL-000021,5,2026-01-01,,3.0,2026-10-01,assessed,2,Docker,gap_identified
+EMP-000096,ROL-000003,IT,Software Engineer,SKL-000034,3,2026-01-01,,,,not_assessed,,Specialized Skill 0034,not_assessed
+EMP-000096,ROL-000003,IT,Software Engineer,SKL-000018,4,2026-01-01,,3.0,2026-10-01,assessed,1,AWS,gap_identified
+EMP-000096,ROL-000003,IT,Software Engineer,SKL-000042,4,2026-01-01,,,,not_assessed,,Specialized Skill 0042,not_assessed
+EMP-000096,ROL-000003,IT,Software Engineer,SKL-000038,4,2026-01-01,,,,not_assessed,,Specialized Skill 0038,not_assessed
+EMP-000096,ROL-000003,IT,Software Engineer,SKL-000023,5,2026-01-01,,2.0,2026-10-01,assessed,3,REST APIs,gap_identified
+EMP-000096,ROL-000003,IT,Software Engineer,SKL-000003,3,2026-01-01,,1.0,2026-10-01,assessed,2,Java,gap_identified
+EMP-000096,ROL-000003,IT,Software Engineer,SKL-000004,3,2026-01-01,,1.0,2026-10-01,assessed,2,JavaScript,gap_identified
+EMP-000096,ROL-000003,IT,Software Engineer,SKL-000036,5,2026-01-01,,4.0,2026-10-01,assessed,1,Specialized Skill 0036,gap_identified
+EMP-000096,ROL-000003,IT,Software Engineer,SKL-000035,5,2026-01-01,,3.0,2026-10-01,assessed,2,Specialized Skill 0035,gap_identified
+EMP-000096,ROL-000003,IT,Software Engineer,SKL-000049,3,2026-01-01,,5.0,2026-10-01,assessed,0,Specialized Skill 0049,no_gap
+EMP-000096,ROL-000003,IT,Software Engineer,SKL-000016,4,2026-01-01,,,,not_assessed,,Statistics,not_assessed
+EMP-000096,ROL-000003,IT,Software Engineer,SKL-000020,5,2026-01-01,,4.0,2026-10-01,assessed,1,Linux,gap_identified
+EMP-000097,ROL-000006,Engineering,Business Analyst,SKL-000003,4,2026-01-01,,3.0,2026-10-01,assessed,1,Java,gap_identified
+EMP-000097,ROL-000006,Engineering,Business Analyst,SKL-000020,4,2026-01-01,,,,not_assessed,,Linux,not_assessed
+EMP-000097,ROL-000006,Engineering,Business Analyst,SKL-000008,3,2026-01-01,,,,not_assessed,,Flask,not_assessed
+EMP-000097,ROL-000006,Engineering,Business Analyst,SKL-000010,4,2026-01-01,,4.0,2026-10-01,assessed,0,Git,no_gap
+EMP-000097,ROL-000006,Engineering,Business Analyst,SKL-000034,4,2026-01-01,,4.0,2026-10-01,assessed,0,Specialized Skill 0034,no_gap
+EMP-000097,ROL-000006,Engineering,Business Analyst,SKL-000035,5,2026-01-01,,,,not_assessed,,Specialized Skill 0035,not_assessed
+EMP-000097,ROL-000006,Engineering,Business Analyst,SKL-000043,5,2026-01-01,,1.0,2026-10-01,assessed,4,Specialized Skill 0043,gap_identified
+EMP-000097,ROL-000006,Engineering,Business Analyst,SKL-000039,5,2026-01-01,,1.0,2026-10-01,assessed,4,Specialized Skill 0039,gap_identified
+EMP-000097,ROL-000006,Engineering,Business Analyst,SKL-000009,5,2026-01-01,,5.0,2026-10-01,assessed,0,Django,no_gap
+EMP-000097,ROL-000006,Engineering,Business Analyst,SKL-000047,3,2026-01-01,,1.0,2026-10-01,assessed,2,Specialized Skill 0047,gap_identified
+EMP-000097,ROL-000006,Engineering,Business Analyst,SKL-000007,5,2026-01-01,,,,not_assessed,,React,not_assessed
+EMP-000097,ROL-000006,Engineering,Business Analyst,SKL-000004,3,2026-01-01,,4.0,2026-10-01,assessed,0,JavaScript,no_gap
+EMP-000098,ROL-000001,Engineering,Python Developer,SKL-000031,5,2026-01-01,,,,not_assessed,,Specialized Skill 0031,not_assessed
+EMP-000098,ROL-000001,Engineering,Python Developer,SKL-000009,3,2026-01-01,,3.0,2026-10-01,assessed,0,Django,no_gap
+EMP-000098,ROL-000001,Engineering,Python Developer,SKL-000004,5,2026-01-01,,1.0,2026-10-01,assessed,4,JavaScript,gap_identified
+EMP-000098,ROL-000001,Engineering,Python Developer,SKL-000019,3,2026-01-01,,4.0,2026-10-01,assessed,0,Azure,no_gap
+EMP-000098,ROL-000001,Engineering,Python Developer,SKL-000012,5,2026-01-01,,1.0,2026-10-01,assessed,4,Communication,gap_identified
+EMP-000098,ROL-000001,Engineering,Python Developer,SKL-000050,5,2026-01-01,,,,not_assessed,,Specialized Skill 0050,not_assessed
+EMP-000098,ROL-000001,Engineering,Python Developer,SKL-000045,3,2026-01-01,,,,not_assessed,,Specialized Skill 0045,not_assessed
+EMP-000098,ROL-000001,Engineering,Python Developer,SKL-000028,4,2026-01-01,,5.0,2026-10-01,assessed,0,Networking,no_gap
+EMP-000098,ROL-000001,Engineering,Python Developer,SKL-000024,5,2026-01-01,,3.0,2026-10-01,assessed,2,Testing,gap_identified
+EMP-000098,ROL-000001,Engineering,Python Developer,SKL-000026,5,2026-01-01,,1.0,2026-10-01,assessed,4,Data Structures,gap_identified
+EMP-000098,ROL-000001,Engineering,Python Developer,SKL-000021,4,2026-01-01,,,,not_assessed,,Docker,not_assessed
+EMP-000098,ROL-000001,Engineering,Python Developer,SKL-000048,3,2026-01-01,,3.0,2026-10-01,assessed,0,Specialized Skill 0048,no_gap
+EMP-000099,ROL-000002,Data,Data Analyst,SKL-000026,5,2026-01-01,,3.0,2026-10-01,assessed,2,Data Structures,gap_identified
+EMP-000099,ROL-000002,Data,Data Analyst,SKL-000033,3,2026-01-01,,3.0,2026-10-01,assessed,0,Specialized Skill 0033,no_gap
+EMP-000099,ROL-000002,Data,Data Analyst,SKL-000048,5,2026-01-01,,,,not_assessed,,Specialized Skill 0048,not_assessed
+EMP-000099,ROL-000002,Data,Data Analyst,SKL-000037,5,2026-01-01,,1.0,2026-10-01,assessed,4,Specialized Skill 0037,gap_identified
+EMP-000099,ROL-000002,Data,Data Analyst,SKL-000034,5,2026-01-01,,,,not_assessed,,Specialized Skill 0034,not_assessed
+EMP-000099,ROL-000002,Data,Data Analyst,SKL-000006,5,2026-01-01,,1.0,2026-10-01,assessed,4,CSS,gap_identified
+EMP-000099,ROL-000002,Data,Data Analyst,SKL-000012,4,2026-01-01,,5.0,2026-10-01,assessed,0,Communication,no_gap
+EMP-000099,ROL-000002,Data,Data Analyst,SKL-000045,3,2026-01-01,,4.0,2026-10-01,assessed,0,Specialized Skill 0045,no_gap
+EMP-000099,ROL-000002,Data,Data Analyst,SKL-000005,5,2026-01-01,,3.0,2026-10-01,assessed,2,HTML,gap_identified
+EMP-000099,ROL-000002,Data,Data Analyst,SKL-000047,4,2026-01-01,,,,not_assessed,,Specialized Skill 0047,not_assessed
+EMP-000099,ROL-000002,Data,Data Analyst,SKL-000030,4,2026-01-01,,,,not_assessed,,Leadership,not_assessed
+EMP-000099,ROL-000002,Data,Data Analyst,SKL-000003,3,2026-01-01,,3.0,2026-10-01,assessed,0,Java,no_gap
+EMP-000100,ROL-000009,HR,Database Administrator,SKL-000008,4,2026-01-01,,2.0,2026-10-01,assessed,2,Flask,gap_identified
+EMP-000100,ROL-000009,HR,Database Administrator,SKL-000048,4,2026-01-01,,,,not_assessed,,Specialized Skill 0048,not_assessed
+EMP-000100,ROL-000009,HR,Database Administrator,SKL-000001,4,2026-01-01,,1.0,2026-10-01,assessed,3,Python,gap_identified
+EMP-000100,ROL-000009,HR,Database Administrator,SKL-000015,5,2026-01-01,,2.0,2026-10-01,assessed,3,Machine Learning,gap_identified
+EMP-000100,ROL-000009,HR,Database Administrator,SKL-000030,3,2026-01-01,,2.0,2026-10-01,assessed,1,Leadership,gap_identified
+EMP-000100,ROL-000009,HR,Database Administrator,SKL-000027,4,2026-01-01,,2.0,2026-10-01,assessed,2,Cybersecurity,gap_identified
+EMP-000100,ROL-000009,HR,Database Administrator,SKL-000049,5,2026-01-01,,2.0,2026-10-01,assessed,3,Specialized Skill 0049,gap_identified
+EMP-000100,ROL-000009,HR,Database Administrator,SKL-000033,3,2026-01-01,,,,not_assessed,,Specialized Skill 0033,not_assessed
+EMP-000100,ROL-000009,HR,Database Administrator,SKL-000004,4,2026-01-01,,3.0,2026-10-01,assessed,1,JavaScript,gap_identified
+EMP-000100,ROL-000009,HR,Database Administrator,SKL-000041,4,2026-01-01,,4.0,2026-10-01,assessed,0,Specialized Skill 0041,no_gap
+EMP-000100,ROL-000009,HR,Database Administrator,SKL-000042,5,2026-01-01,,,,not_assessed,,Specialized Skill 0042,not_assessed
+EMP-000100,ROL-000009,HR,Database Administrator,SKL-000021,5,2026-01-01,,,,not_assessed,,Docker,not_assessed

@@ -1,0 +1,47 @@
+[
+  {
+    "case_id": "EDGE-001",
+    "scenario": "prerequisite_violation",
+    "input_condition": "An employee attempts a course without passing its required prerequisite.",
+    "expected_result": "BLOCK",
+    "expected_reason": "Required prerequisite is not satisfied.",
+    "severity": "high",
+    "is_expected_to_pass": false
+  },
+  {
+    "case_id": "EDGE-002",
+    "scenario": "budget_exceeded",
+    "input_condition": "A proposed allocation makes department spending exceed its approved budget.",
+    "expected_result": "REJECT_ALLOCATION",
+    "expected_reason": "Department budget limit would be exceeded.",
+    "severity": "high",
+    "is_expected_to_pass": false
+  },
+  {
+    "case_id": "EDGE-003",
+    "scenario": "duplicate_completion",
+    "input_condition": "Two completion records exist for the same enrollment.",
+    "expected_result": "FLAG_DUPLICATE",
+    "expected_reason": "An enrollment should not have duplicate completion records.",
+    "severity": "medium",
+    "is_expected_to_pass": false
+  },
+  {
+    "case_id": "EDGE-004",
+    "scenario": "missing_reassessment",
+    "input_condition": "An employee's skill assessment is older than the allowed reassessment interval.",
+    "expected_result": "FLAG_REASSESSMENT",
+    "expected_reason": "The skill assessment needs to be refreshed before relying on it.",
+    "severity": "medium",
+    "is_expected_to_pass": false
+  },
+  {
+    "case_id": "EDGE-005",
+    "scenario": "course_unavailable",
+    "input_condition": "A recommendation is attempted for an inactive course or one outside its availability dates.",
+    "expected_result": "EXCLUDE_COURSE",
+    "expected_reason": "Unavailable courses must not be recommended.",
+    "severity": "high",
+    "is_expected_to_pass": false
+  }
+]

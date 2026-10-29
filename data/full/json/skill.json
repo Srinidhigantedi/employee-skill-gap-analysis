@@ -1,0 +1,3002 @@
+[
+  {
+    "skill_id":"SKL-000001",
+    "skill_name":"Python",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000002",
+    "skill_name":"SQL",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000003",
+    "skill_name":"Java",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000004",
+    "skill_name":"JavaScript",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000005",
+    "skill_name":"HTML",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000006",
+    "skill_name":"CSS",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000007",
+    "skill_name":"React",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000008",
+    "skill_name":"Flask",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000009",
+    "skill_name":"Django",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000010",
+    "skill_name":"Git",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000011",
+    "skill_name":"Problem Solving",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000012",
+    "skill_name":"Communication",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000013",
+    "skill_name":"Excel",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000014",
+    "skill_name":"Data Analysis",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000015",
+    "skill_name":"Machine Learning",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000016",
+    "skill_name":"Statistics",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000017",
+    "skill_name":"Cloud Computing",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000018",
+    "skill_name":"AWS",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000019",
+    "skill_name":"Azure",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000020",
+    "skill_name":"Linux",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000021",
+    "skill_name":"Docker",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000022",
+    "skill_name":"Kubernetes",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000023",
+    "skill_name":"REST APIs",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000024",
+    "skill_name":"Testing",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000025",
+    "skill_name":"OOP",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000026",
+    "skill_name":"Data Structures",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000027",
+    "skill_name":"Cybersecurity",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000028",
+    "skill_name":"Networking",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000029",
+    "skill_name":"Project Management",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000030",
+    "skill_name":"Leadership",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000031",
+    "skill_name":"Specialized Skill 0031",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000032",
+    "skill_name":"Specialized Skill 0032",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000033",
+    "skill_name":"Specialized Skill 0033",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000034",
+    "skill_name":"Specialized Skill 0034",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000035",
+    "skill_name":"Specialized Skill 0035",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000036",
+    "skill_name":"Specialized Skill 0036",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000037",
+    "skill_name":"Specialized Skill 0037",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000038",
+    "skill_name":"Specialized Skill 0038",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000039",
+    "skill_name":"Specialized Skill 0039",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000040",
+    "skill_name":"Specialized Skill 0040",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000041",
+    "skill_name":"Specialized Skill 0041",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000042",
+    "skill_name":"Specialized Skill 0042",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000043",
+    "skill_name":"Specialized Skill 0043",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000044",
+    "skill_name":"Specialized Skill 0044",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000045",
+    "skill_name":"Specialized Skill 0045",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000046",
+    "skill_name":"Specialized Skill 0046",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000047",
+    "skill_name":"Specialized Skill 0047",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000048",
+    "skill_name":"Specialized Skill 0048",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000049",
+    "skill_name":"Specialized Skill 0049",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000050",
+    "skill_name":"Specialized Skill 0050",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000051",
+    "skill_name":"Specialized Skill 0051",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000052",
+    "skill_name":"Specialized Skill 0052",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000053",
+    "skill_name":"Specialized Skill 0053",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000054",
+    "skill_name":"Specialized Skill 0054",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000055",
+    "skill_name":"Specialized Skill 0055",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000056",
+    "skill_name":"Specialized Skill 0056",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000057",
+    "skill_name":"Specialized Skill 0057",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000058",
+    "skill_name":"Specialized Skill 0058",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000059",
+    "skill_name":"Specialized Skill 0059",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000060",
+    "skill_name":"Specialized Skill 0060",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000061",
+    "skill_name":"Specialized Skill 0061",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000062",
+    "skill_name":"Specialized Skill 0062",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000063",
+    "skill_name":"Specialized Skill 0063",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000064",
+    "skill_name":"Specialized Skill 0064",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000065",
+    "skill_name":"Specialized Skill 0065",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000066",
+    "skill_name":"Specialized Skill 0066",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000067",
+    "skill_name":"Specialized Skill 0067",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000068",
+    "skill_name":"Specialized Skill 0068",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000069",
+    "skill_name":"Specialized Skill 0069",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000070",
+    "skill_name":"Specialized Skill 0070",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000071",
+    "skill_name":"Specialized Skill 0071",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000072",
+    "skill_name":"Specialized Skill 0072",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000073",
+    "skill_name":"Specialized Skill 0073",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000074",
+    "skill_name":"Specialized Skill 0074",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000075",
+    "skill_name":"Specialized Skill 0075",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000076",
+    "skill_name":"Specialized Skill 0076",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000077",
+    "skill_name":"Specialized Skill 0077",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000078",
+    "skill_name":"Specialized Skill 0078",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000079",
+    "skill_name":"Specialized Skill 0079",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000080",
+    "skill_name":"Specialized Skill 0080",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000081",
+    "skill_name":"Specialized Skill 0081",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000082",
+    "skill_name":"Specialized Skill 0082",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000083",
+    "skill_name":"Specialized Skill 0083",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000084",
+    "skill_name":"Specialized Skill 0084",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000085",
+    "skill_name":"Specialized Skill 0085",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000086",
+    "skill_name":"Specialized Skill 0086",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000087",
+    "skill_name":"Specialized Skill 0087",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000088",
+    "skill_name":"Specialized Skill 0088",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000089",
+    "skill_name":"Specialized Skill 0089",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000090",
+    "skill_name":"Specialized Skill 0090",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000091",
+    "skill_name":"Specialized Skill 0091",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000092",
+    "skill_name":"Specialized Skill 0092",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000093",
+    "skill_name":"Specialized Skill 0093",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000094",
+    "skill_name":"Specialized Skill 0094",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000095",
+    "skill_name":"Specialized Skill 0095",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000096",
+    "skill_name":"Specialized Skill 0096",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000097",
+    "skill_name":"Specialized Skill 0097",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000098",
+    "skill_name":"Specialized Skill 0098",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000099",
+    "skill_name":"Specialized Skill 0099",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000100",
+    "skill_name":"Specialized Skill 0100",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000101",
+    "skill_name":"Specialized Skill 0101",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000102",
+    "skill_name":"Specialized Skill 0102",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000103",
+    "skill_name":"Specialized Skill 0103",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000104",
+    "skill_name":"Specialized Skill 0104",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000105",
+    "skill_name":"Specialized Skill 0105",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000106",
+    "skill_name":"Specialized Skill 0106",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000107",
+    "skill_name":"Specialized Skill 0107",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000108",
+    "skill_name":"Specialized Skill 0108",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000109",
+    "skill_name":"Specialized Skill 0109",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000110",
+    "skill_name":"Specialized Skill 0110",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000111",
+    "skill_name":"Specialized Skill 0111",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000112",
+    "skill_name":"Specialized Skill 0112",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000113",
+    "skill_name":"Specialized Skill 0113",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000114",
+    "skill_name":"Specialized Skill 0114",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000115",
+    "skill_name":"Specialized Skill 0115",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000116",
+    "skill_name":"Specialized Skill 0116",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000117",
+    "skill_name":"Specialized Skill 0117",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000118",
+    "skill_name":"Specialized Skill 0118",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000119",
+    "skill_name":"Specialized Skill 0119",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000120",
+    "skill_name":"Specialized Skill 0120",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000121",
+    "skill_name":"Specialized Skill 0121",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000122",
+    "skill_name":"Specialized Skill 0122",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000123",
+    "skill_name":"Specialized Skill 0123",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000124",
+    "skill_name":"Specialized Skill 0124",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000125",
+    "skill_name":"Specialized Skill 0125",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000126",
+    "skill_name":"Specialized Skill 0126",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000127",
+    "skill_name":"Specialized Skill 0127",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000128",
+    "skill_name":"Specialized Skill 0128",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000129",
+    "skill_name":"Specialized Skill 0129",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000130",
+    "skill_name":"Specialized Skill 0130",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000131",
+    "skill_name":"Specialized Skill 0131",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000132",
+    "skill_name":"Specialized Skill 0132",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000133",
+    "skill_name":"Specialized Skill 0133",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000134",
+    "skill_name":"Specialized Skill 0134",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000135",
+    "skill_name":"Specialized Skill 0135",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000136",
+    "skill_name":"Specialized Skill 0136",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000137",
+    "skill_name":"Specialized Skill 0137",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000138",
+    "skill_name":"Specialized Skill 0138",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000139",
+    "skill_name":"Specialized Skill 0139",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000140",
+    "skill_name":"Specialized Skill 0140",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000141",
+    "skill_name":"Specialized Skill 0141",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000142",
+    "skill_name":"Specialized Skill 0142",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000143",
+    "skill_name":"Specialized Skill 0143",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000144",
+    "skill_name":"Specialized Skill 0144",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000145",
+    "skill_name":"Specialized Skill 0145",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000146",
+    "skill_name":"Specialized Skill 0146",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000147",
+    "skill_name":"Specialized Skill 0147",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000148",
+    "skill_name":"Specialized Skill 0148",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000149",
+    "skill_name":"Specialized Skill 0149",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000150",
+    "skill_name":"Specialized Skill 0150",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000151",
+    "skill_name":"Specialized Skill 0151",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000152",
+    "skill_name":"Specialized Skill 0152",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000153",
+    "skill_name":"Specialized Skill 0153",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000154",
+    "skill_name":"Specialized Skill 0154",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000155",
+    "skill_name":"Specialized Skill 0155",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000156",
+    "skill_name":"Specialized Skill 0156",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000157",
+    "skill_name":"Specialized Skill 0157",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000158",
+    "skill_name":"Specialized Skill 0158",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000159",
+    "skill_name":"Specialized Skill 0159",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000160",
+    "skill_name":"Specialized Skill 0160",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000161",
+    "skill_name":"Specialized Skill 0161",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000162",
+    "skill_name":"Specialized Skill 0162",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000163",
+    "skill_name":"Specialized Skill 0163",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000164",
+    "skill_name":"Specialized Skill 0164",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000165",
+    "skill_name":"Specialized Skill 0165",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000166",
+    "skill_name":"Specialized Skill 0166",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000167",
+    "skill_name":"Specialized Skill 0167",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000168",
+    "skill_name":"Specialized Skill 0168",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000169",
+    "skill_name":"Specialized Skill 0169",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000170",
+    "skill_name":"Specialized Skill 0170",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000171",
+    "skill_name":"Specialized Skill 0171",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000172",
+    "skill_name":"Specialized Skill 0172",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000173",
+    "skill_name":"Specialized Skill 0173",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000174",
+    "skill_name":"Specialized Skill 0174",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000175",
+    "skill_name":"Specialized Skill 0175",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000176",
+    "skill_name":"Specialized Skill 0176",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000177",
+    "skill_name":"Specialized Skill 0177",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000178",
+    "skill_name":"Specialized Skill 0178",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000179",
+    "skill_name":"Specialized Skill 0179",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000180",
+    "skill_name":"Specialized Skill 0180",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000181",
+    "skill_name":"Specialized Skill 0181",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000182",
+    "skill_name":"Specialized Skill 0182",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000183",
+    "skill_name":"Specialized Skill 0183",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000184",
+    "skill_name":"Specialized Skill 0184",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000185",
+    "skill_name":"Specialized Skill 0185",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000186",
+    "skill_name":"Specialized Skill 0186",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000187",
+    "skill_name":"Specialized Skill 0187",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000188",
+    "skill_name":"Specialized Skill 0188",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000189",
+    "skill_name":"Specialized Skill 0189",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000190",
+    "skill_name":"Specialized Skill 0190",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000191",
+    "skill_name":"Specialized Skill 0191",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000192",
+    "skill_name":"Specialized Skill 0192",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000193",
+    "skill_name":"Specialized Skill 0193",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000194",
+    "skill_name":"Specialized Skill 0194",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000195",
+    "skill_name":"Specialized Skill 0195",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000196",
+    "skill_name":"Specialized Skill 0196",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000197",
+    "skill_name":"Specialized Skill 0197",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000198",
+    "skill_name":"Specialized Skill 0198",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000199",
+    "skill_name":"Specialized Skill 0199",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000200",
+    "skill_name":"Specialized Skill 0200",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000201",
+    "skill_name":"Specialized Skill 0201",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000202",
+    "skill_name":"Specialized Skill 0202",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000203",
+    "skill_name":"Specialized Skill 0203",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000204",
+    "skill_name":"Specialized Skill 0204",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000205",
+    "skill_name":"Specialized Skill 0205",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000206",
+    "skill_name":"Specialized Skill 0206",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000207",
+    "skill_name":"Specialized Skill 0207",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000208",
+    "skill_name":"Specialized Skill 0208",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000209",
+    "skill_name":"Specialized Skill 0209",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000210",
+    "skill_name":"Specialized Skill 0210",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000211",
+    "skill_name":"Specialized Skill 0211",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000212",
+    "skill_name":"Specialized Skill 0212",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000213",
+    "skill_name":"Specialized Skill 0213",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000214",
+    "skill_name":"Specialized Skill 0214",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000215",
+    "skill_name":"Specialized Skill 0215",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000216",
+    "skill_name":"Specialized Skill 0216",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000217",
+    "skill_name":"Specialized Skill 0217",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000218",
+    "skill_name":"Specialized Skill 0218",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000219",
+    "skill_name":"Specialized Skill 0219",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000220",
+    "skill_name":"Specialized Skill 0220",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000221",
+    "skill_name":"Specialized Skill 0221",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000222",
+    "skill_name":"Specialized Skill 0222",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000223",
+    "skill_name":"Specialized Skill 0223",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000224",
+    "skill_name":"Specialized Skill 0224",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000225",
+    "skill_name":"Specialized Skill 0225",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000226",
+    "skill_name":"Specialized Skill 0226",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000227",
+    "skill_name":"Specialized Skill 0227",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000228",
+    "skill_name":"Specialized Skill 0228",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000229",
+    "skill_name":"Specialized Skill 0229",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000230",
+    "skill_name":"Specialized Skill 0230",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000231",
+    "skill_name":"Specialized Skill 0231",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000232",
+    "skill_name":"Specialized Skill 0232",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000233",
+    "skill_name":"Specialized Skill 0233",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000234",
+    "skill_name":"Specialized Skill 0234",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000235",
+    "skill_name":"Specialized Skill 0235",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000236",
+    "skill_name":"Specialized Skill 0236",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000237",
+    "skill_name":"Specialized Skill 0237",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000238",
+    "skill_name":"Specialized Skill 0238",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000239",
+    "skill_name":"Specialized Skill 0239",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000240",
+    "skill_name":"Specialized Skill 0240",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000241",
+    "skill_name":"Specialized Skill 0241",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000242",
+    "skill_name":"Specialized Skill 0242",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000243",
+    "skill_name":"Specialized Skill 0243",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000244",
+    "skill_name":"Specialized Skill 0244",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000245",
+    "skill_name":"Specialized Skill 0245",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000246",
+    "skill_name":"Specialized Skill 0246",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000247",
+    "skill_name":"Specialized Skill 0247",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000248",
+    "skill_name":"Specialized Skill 0248",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000249",
+    "skill_name":"Specialized Skill 0249",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000250",
+    "skill_name":"Specialized Skill 0250",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000251",
+    "skill_name":"Specialized Skill 0251",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000252",
+    "skill_name":"Specialized Skill 0252",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000253",
+    "skill_name":"Specialized Skill 0253",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000254",
+    "skill_name":"Specialized Skill 0254",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000255",
+    "skill_name":"Specialized Skill 0255",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000256",
+    "skill_name":"Specialized Skill 0256",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000257",
+    "skill_name":"Specialized Skill 0257",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000258",
+    "skill_name":"Specialized Skill 0258",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000259",
+    "skill_name":"Specialized Skill 0259",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000260",
+    "skill_name":"Specialized Skill 0260",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000261",
+    "skill_name":"Specialized Skill 0261",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000262",
+    "skill_name":"Specialized Skill 0262",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000263",
+    "skill_name":"Specialized Skill 0263",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000264",
+    "skill_name":"Specialized Skill 0264",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000265",
+    "skill_name":"Specialized Skill 0265",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000266",
+    "skill_name":"Specialized Skill 0266",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000267",
+    "skill_name":"Specialized Skill 0267",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000268",
+    "skill_name":"Specialized Skill 0268",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000269",
+    "skill_name":"Specialized Skill 0269",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000270",
+    "skill_name":"Specialized Skill 0270",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000271",
+    "skill_name":"Specialized Skill 0271",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000272",
+    "skill_name":"Specialized Skill 0272",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000273",
+    "skill_name":"Specialized Skill 0273",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000274",
+    "skill_name":"Specialized Skill 0274",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000275",
+    "skill_name":"Specialized Skill 0275",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000276",
+    "skill_name":"Specialized Skill 0276",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000277",
+    "skill_name":"Specialized Skill 0277",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000278",
+    "skill_name":"Specialized Skill 0278",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000279",
+    "skill_name":"Specialized Skill 0279",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000280",
+    "skill_name":"Specialized Skill 0280",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000281",
+    "skill_name":"Specialized Skill 0281",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000282",
+    "skill_name":"Specialized Skill 0282",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000283",
+    "skill_name":"Specialized Skill 0283",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000284",
+    "skill_name":"Specialized Skill 0284",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000285",
+    "skill_name":"Specialized Skill 0285",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000286",
+    "skill_name":"Specialized Skill 0286",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000287",
+    "skill_name":"Specialized Skill 0287",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000288",
+    "skill_name":"Specialized Skill 0288",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000289",
+    "skill_name":"Specialized Skill 0289",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000290",
+    "skill_name":"Specialized Skill 0290",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000291",
+    "skill_name":"Specialized Skill 0291",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000292",
+    "skill_name":"Specialized Skill 0292",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000293",
+    "skill_name":"Specialized Skill 0293",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000294",
+    "skill_name":"Specialized Skill 0294",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000295",
+    "skill_name":"Specialized Skill 0295",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000296",
+    "skill_name":"Specialized Skill 0296",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000297",
+    "skill_name":"Specialized Skill 0297",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000298",
+    "skill_name":"Specialized Skill 0298",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000299",
+    "skill_name":"Specialized Skill 0299",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000300",
+    "skill_name":"Specialized Skill 0300",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000301",
+    "skill_name":"Specialized Skill 0301",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000302",
+    "skill_name":"Specialized Skill 0302",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000303",
+    "skill_name":"Specialized Skill 0303",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000304",
+    "skill_name":"Specialized Skill 0304",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000305",
+    "skill_name":"Specialized Skill 0305",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000306",
+    "skill_name":"Specialized Skill 0306",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000307",
+    "skill_name":"Specialized Skill 0307",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000308",
+    "skill_name":"Specialized Skill 0308",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000309",
+    "skill_name":"Specialized Skill 0309",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000310",
+    "skill_name":"Specialized Skill 0310",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000311",
+    "skill_name":"Specialized Skill 0311",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000312",
+    "skill_name":"Specialized Skill 0312",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000313",
+    "skill_name":"Specialized Skill 0313",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000314",
+    "skill_name":"Specialized Skill 0314",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000315",
+    "skill_name":"Specialized Skill 0315",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000316",
+    "skill_name":"Specialized Skill 0316",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000317",
+    "skill_name":"Specialized Skill 0317",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000318",
+    "skill_name":"Specialized Skill 0318",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000319",
+    "skill_name":"Specialized Skill 0319",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000320",
+    "skill_name":"Specialized Skill 0320",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000321",
+    "skill_name":"Specialized Skill 0321",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000322",
+    "skill_name":"Specialized Skill 0322",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000323",
+    "skill_name":"Specialized Skill 0323",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000324",
+    "skill_name":"Specialized Skill 0324",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000325",
+    "skill_name":"Specialized Skill 0325",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000326",
+    "skill_name":"Specialized Skill 0326",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000327",
+    "skill_name":"Specialized Skill 0327",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000328",
+    "skill_name":"Specialized Skill 0328",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000329",
+    "skill_name":"Specialized Skill 0329",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000330",
+    "skill_name":"Specialized Skill 0330",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000331",
+    "skill_name":"Specialized Skill 0331",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000332",
+    "skill_name":"Specialized Skill 0332",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000333",
+    "skill_name":"Specialized Skill 0333",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000334",
+    "skill_name":"Specialized Skill 0334",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000335",
+    "skill_name":"Specialized Skill 0335",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000336",
+    "skill_name":"Specialized Skill 0336",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000337",
+    "skill_name":"Specialized Skill 0337",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000338",
+    "skill_name":"Specialized Skill 0338",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000339",
+    "skill_name":"Specialized Skill 0339",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000340",
+    "skill_name":"Specialized Skill 0340",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000341",
+    "skill_name":"Specialized Skill 0341",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000342",
+    "skill_name":"Specialized Skill 0342",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000343",
+    "skill_name":"Specialized Skill 0343",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000344",
+    "skill_name":"Specialized Skill 0344",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000345",
+    "skill_name":"Specialized Skill 0345",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000346",
+    "skill_name":"Specialized Skill 0346",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000347",
+    "skill_name":"Specialized Skill 0347",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000348",
+    "skill_name":"Specialized Skill 0348",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000349",
+    "skill_name":"Specialized Skill 0349",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000350",
+    "skill_name":"Specialized Skill 0350",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000351",
+    "skill_name":"Specialized Skill 0351",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000352",
+    "skill_name":"Specialized Skill 0352",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000353",
+    "skill_name":"Specialized Skill 0353",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000354",
+    "skill_name":"Specialized Skill 0354",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000355",
+    "skill_name":"Specialized Skill 0355",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000356",
+    "skill_name":"Specialized Skill 0356",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000357",
+    "skill_name":"Specialized Skill 0357",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000358",
+    "skill_name":"Specialized Skill 0358",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000359",
+    "skill_name":"Specialized Skill 0359",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000360",
+    "skill_name":"Specialized Skill 0360",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000361",
+    "skill_name":"Specialized Skill 0361",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000362",
+    "skill_name":"Specialized Skill 0362",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000363",
+    "skill_name":"Specialized Skill 0363",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000364",
+    "skill_name":"Specialized Skill 0364",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000365",
+    "skill_name":"Specialized Skill 0365",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000366",
+    "skill_name":"Specialized Skill 0366",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000367",
+    "skill_name":"Specialized Skill 0367",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000368",
+    "skill_name":"Specialized Skill 0368",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000369",
+    "skill_name":"Specialized Skill 0369",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000370",
+    "skill_name":"Specialized Skill 0370",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000371",
+    "skill_name":"Specialized Skill 0371",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000372",
+    "skill_name":"Specialized Skill 0372",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000373",
+    "skill_name":"Specialized Skill 0373",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000374",
+    "skill_name":"Specialized Skill 0374",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000375",
+    "skill_name":"Specialized Skill 0375",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000376",
+    "skill_name":"Specialized Skill 0376",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000377",
+    "skill_name":"Specialized Skill 0377",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000378",
+    "skill_name":"Specialized Skill 0378",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000379",
+    "skill_name":"Specialized Skill 0379",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000380",
+    "skill_name":"Specialized Skill 0380",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000381",
+    "skill_name":"Specialized Skill 0381",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000382",
+    "skill_name":"Specialized Skill 0382",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000383",
+    "skill_name":"Specialized Skill 0383",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000384",
+    "skill_name":"Specialized Skill 0384",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000385",
+    "skill_name":"Specialized Skill 0385",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000386",
+    "skill_name":"Specialized Skill 0386",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000387",
+    "skill_name":"Specialized Skill 0387",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000388",
+    "skill_name":"Specialized Skill 0388",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000389",
+    "skill_name":"Specialized Skill 0389",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000390",
+    "skill_name":"Specialized Skill 0390",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000391",
+    "skill_name":"Specialized Skill 0391",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000392",
+    "skill_name":"Specialized Skill 0392",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000393",
+    "skill_name":"Specialized Skill 0393",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000394",
+    "skill_name":"Specialized Skill 0394",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000395",
+    "skill_name":"Specialized Skill 0395",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000396",
+    "skill_name":"Specialized Skill 0396",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000397",
+    "skill_name":"Specialized Skill 0397",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000398",
+    "skill_name":"Specialized Skill 0398",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000399",
+    "skill_name":"Specialized Skill 0399",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000400",
+    "skill_name":"Specialized Skill 0400",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000401",
+    "skill_name":"Specialized Skill 0401",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000402",
+    "skill_name":"Specialized Skill 0402",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000403",
+    "skill_name":"Specialized Skill 0403",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000404",
+    "skill_name":"Specialized Skill 0404",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000405",
+    "skill_name":"Specialized Skill 0405",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000406",
+    "skill_name":"Specialized Skill 0406",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000407",
+    "skill_name":"Specialized Skill 0407",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000408",
+    "skill_name":"Specialized Skill 0408",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000409",
+    "skill_name":"Specialized Skill 0409",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000410",
+    "skill_name":"Specialized Skill 0410",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000411",
+    "skill_name":"Specialized Skill 0411",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000412",
+    "skill_name":"Specialized Skill 0412",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000413",
+    "skill_name":"Specialized Skill 0413",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000414",
+    "skill_name":"Specialized Skill 0414",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000415",
+    "skill_name":"Specialized Skill 0415",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000416",
+    "skill_name":"Specialized Skill 0416",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000417",
+    "skill_name":"Specialized Skill 0417",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000418",
+    "skill_name":"Specialized Skill 0418",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000419",
+    "skill_name":"Specialized Skill 0419",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000420",
+    "skill_name":"Specialized Skill 0420",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000421",
+    "skill_name":"Specialized Skill 0421",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000422",
+    "skill_name":"Specialized Skill 0422",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000423",
+    "skill_name":"Specialized Skill 0423",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000424",
+    "skill_name":"Specialized Skill 0424",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000425",
+    "skill_name":"Specialized Skill 0425",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000426",
+    "skill_name":"Specialized Skill 0426",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000427",
+    "skill_name":"Specialized Skill 0427",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000428",
+    "skill_name":"Specialized Skill 0428",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000429",
+    "skill_name":"Specialized Skill 0429",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000430",
+    "skill_name":"Specialized Skill 0430",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000431",
+    "skill_name":"Specialized Skill 0431",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000432",
+    "skill_name":"Specialized Skill 0432",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000433",
+    "skill_name":"Specialized Skill 0433",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000434",
+    "skill_name":"Specialized Skill 0434",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000435",
+    "skill_name":"Specialized Skill 0435",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000436",
+    "skill_name":"Specialized Skill 0436",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000437",
+    "skill_name":"Specialized Skill 0437",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000438",
+    "skill_name":"Specialized Skill 0438",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000439",
+    "skill_name":"Specialized Skill 0439",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000440",
+    "skill_name":"Specialized Skill 0440",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000441",
+    "skill_name":"Specialized Skill 0441",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000442",
+    "skill_name":"Specialized Skill 0442",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000443",
+    "skill_name":"Specialized Skill 0443",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000444",
+    "skill_name":"Specialized Skill 0444",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000445",
+    "skill_name":"Specialized Skill 0445",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000446",
+    "skill_name":"Specialized Skill 0446",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000447",
+    "skill_name":"Specialized Skill 0447",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000448",
+    "skill_name":"Specialized Skill 0448",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000449",
+    "skill_name":"Specialized Skill 0449",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000450",
+    "skill_name":"Specialized Skill 0450",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000451",
+    "skill_name":"Specialized Skill 0451",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000452",
+    "skill_name":"Specialized Skill 0452",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000453",
+    "skill_name":"Specialized Skill 0453",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000454",
+    "skill_name":"Specialized Skill 0454",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000455",
+    "skill_name":"Specialized Skill 0455",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000456",
+    "skill_name":"Specialized Skill 0456",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000457",
+    "skill_name":"Specialized Skill 0457",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000458",
+    "skill_name":"Specialized Skill 0458",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000459",
+    "skill_name":"Specialized Skill 0459",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000460",
+    "skill_name":"Specialized Skill 0460",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000461",
+    "skill_name":"Specialized Skill 0461",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000462",
+    "skill_name":"Specialized Skill 0462",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000463",
+    "skill_name":"Specialized Skill 0463",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000464",
+    "skill_name":"Specialized Skill 0464",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000465",
+    "skill_name":"Specialized Skill 0465",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000466",
+    "skill_name":"Specialized Skill 0466",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000467",
+    "skill_name":"Specialized Skill 0467",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000468",
+    "skill_name":"Specialized Skill 0468",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000469",
+    "skill_name":"Specialized Skill 0469",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000470",
+    "skill_name":"Specialized Skill 0470",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000471",
+    "skill_name":"Specialized Skill 0471",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000472",
+    "skill_name":"Specialized Skill 0472",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000473",
+    "skill_name":"Specialized Skill 0473",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000474",
+    "skill_name":"Specialized Skill 0474",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000475",
+    "skill_name":"Specialized Skill 0475",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000476",
+    "skill_name":"Specialized Skill 0476",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000477",
+    "skill_name":"Specialized Skill 0477",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000478",
+    "skill_name":"Specialized Skill 0478",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000479",
+    "skill_name":"Specialized Skill 0479",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000480",
+    "skill_name":"Specialized Skill 0480",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000481",
+    "skill_name":"Specialized Skill 0481",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000482",
+    "skill_name":"Specialized Skill 0482",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000483",
+    "skill_name":"Specialized Skill 0483",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000484",
+    "skill_name":"Specialized Skill 0484",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000485",
+    "skill_name":"Specialized Skill 0485",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000486",
+    "skill_name":"Specialized Skill 0486",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000487",
+    "skill_name":"Specialized Skill 0487",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000488",
+    "skill_name":"Specialized Skill 0488",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000489",
+    "skill_name":"Specialized Skill 0489",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000490",
+    "skill_name":"Specialized Skill 0490",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000491",
+    "skill_name":"Specialized Skill 0491",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000492",
+    "skill_name":"Specialized Skill 0492",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000493",
+    "skill_name":"Specialized Skill 0493",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000494",
+    "skill_name":"Specialized Skill 0494",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000495",
+    "skill_name":"Specialized Skill 0495",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000496",
+    "skill_name":"Specialized Skill 0496",
+    "category":"Professional",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000497",
+    "skill_name":"Specialized Skill 0497",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000498",
+    "skill_name":"Specialized Skill 0498",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000499",
+    "skill_name":"Specialized Skill 0499",
+    "category":"Technical",
+    "status":"active"
+  },
+  {
+    "skill_id":"SKL-000500",
+    "skill_name":"Specialized Skill 0500",
+    "category":"Professional",
+    "status":"active"
+  }
+]
