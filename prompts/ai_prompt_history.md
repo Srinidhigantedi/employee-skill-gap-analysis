@@ -1,6 +1,6 @@
 # AI Prompt History
 
-Note: This is a reconstructed summary of AI-assisted development activities, not a verbatim transcript.
+This document is a reconstructed summary of the AI-assisted development activities and prompts used during this project. It is not a complete verbatim transcript of all conversations.
 
 ## 1. Project planning
 Requested guidance for building an Employee Skill Gap Analysis and Learning Path Recommendation System using synthetic employee, role, skill, course, enrollment, completion, prerequisite, and budget data.
