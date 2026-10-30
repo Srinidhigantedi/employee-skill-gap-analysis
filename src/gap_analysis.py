@@ -1,4 +1,5 @@
 
+
 """Analyze employee skill gaps against role requirements."""
 
 from pathlib import Path
@@ -10,6 +11,10 @@ import pandas as pd
 DATA_DIR = Path("data") / "starter"
 OUTPUT_DIR = Path("outputs")
 
+# Project rule: reassessment is required after 180 days.
+REFERENCE_DATE = pd.Timestamp("2026-10-28")
+REASSESSMENT_DAYS = 180
+
 
 def calculate_skill_gaps(data_dir=DATA_DIR, output_dir=OUTPUT_DIR):
     employees = pd.read_csv(data_dir / "employee.csv")
@@ -18,7 +23,7 @@ def calculate_skill_gaps(data_dir=DATA_DIR, output_dir=OUTPUT_DIR):
     targets = pd.read_csv(data_dir / "role_skill_target.csv")
     assessments = pd.read_csv(data_dir / "employee_skill.csv")
 
-    # Connect each employee to their role's required skills.
+    # Connect employees to their role requirements.
     employee_targets = employees[
         ["employee_id", "role_id", "department"]
     ].merge(
@@ -31,7 +36,7 @@ def calculate_skill_gaps(data_dir=DATA_DIR, output_dir=OUTPUT_DIR):
         validate="many_to_many",
     )
 
-    # Attach the current assessment, if one exists.
+    # Attach assessments where available.
     results = employee_targets.merge(
         assessments[
             ["employee_id", "skill_id", "proficiency", "assessed_on"]
@@ -41,18 +46,43 @@ def calculate_skill_gaps(data_dir=DATA_DIR, output_dir=OUTPUT_DIR):
         validate="one_to_one",
     )
 
-    # Missing assessments are unknown, not proof of zero proficiency.
-    results["assessment_status"] = results["proficiency"].apply(
-        lambda value: "assessed" if pd.notna(value) else "not_assessed"
+    results["assessed_on"] = pd.to_datetime(
+        results["assessed_on"], errors="coerce"
     )
 
-    # Calculate gaps only where a valid assessment exists.
+    # Classify assessment freshness.
+    results["assessment_status"] = "assessed"
+
+    results.loc[
+        results["proficiency"].isna(),
+        "assessment_status",
+    ] = "not_assessed"
+
+    assessment_age = (
+        REFERENCE_DATE - results["assessed_on"]
+    ).dt.days
+
+    stale_assessment = (
+        results["proficiency"].notna()
+        & (
+            results["assessed_on"].isna()
+            | (assessment_age > REASSESSMENT_DAYS)
+        )
+    )
+
+    results.loc[
+        stale_assessment,
+        "assessment_status",
+    ] = "reassessment_required"
+
+    # Calculate confirmed gaps only from current assessments.
     results["gap"] = (
         results["target_proficiency"] - results["proficiency"]
     ).clip(lower=0)
 
     results.loc[
-        results["proficiency"].isna(), "gap"
+        results["assessment_status"] != "assessed",
+        "gap",
     ] = pd.NA
 
     # Add readable skill names.
@@ -63,11 +93,20 @@ def calculate_skill_gaps(data_dir=DATA_DIR, output_dir=OUTPUT_DIR):
     )
 
     results["gap_status"] = "not_assessed"
+
     results.loc[
-        results["gap"].eq(0), "gap_status"
+        results["assessment_status"] == "reassessment_required",
+        "gap_status",
+    ] = "reassessment_required"
+
+    results.loc[
+        results["gap"].eq(0),
+        "gap_status",
     ] = "no_gap"
+
     results.loc[
-        results["gap"].gt(0), "gap_status"
+        results["gap"].gt(0),
+        "gap_status",
     ] = "gap_identified"
 
     results["gap"] = results["gap"].astype("Int64")
@@ -77,27 +116,26 @@ def calculate_skill_gaps(data_dir=DATA_DIR, output_dir=OUTPUT_DIR):
     output_file = output_dir / "skill_gap_analysis.csv"
     results.to_csv(output_file, index=False)
 
+    # Print a summary.
     print("\nSKILL GAP ANALYSIS")
     print("=" * 50)
     print(f"Employees analyzed: {employees['employee_id'].nunique()}")
-    print(f"Role-skill requirements: {len(targets)}")
     print(f"Employee requirement rows: {len(results)}")
-    print(f"Rows with assessments: {results['proficiency'].notna().sum()}")
-    print(f"Rows not assessed: {results['proficiency'].isna().sum()}")
-    print(f"Identified gaps: {results['gap_status'].eq('gap_identified').sum()}")
+    print(
+        f"Current assessments: "
+        f"{results['assessment_status'].eq('assessed').sum()}"
+    )
+    print(
+        f"Not assessed: "
+        f"{results['assessment_status'].eq('not_assessed').sum()}"
+    )
+    print(
+        f"Reassessment required: "
+        f"{results['assessment_status'].eq('reassessment_required').sum()}"
+    )
+    print(f"Identified skill gaps: {results['gap_status'].eq('gap_identified').sum()}")
     print(f"No-gap rows: {results['gap_status'].eq('no_gap').sum()}")
     print(f"Results saved to: {output_file}")
-
-    print("\nExample results:")
-    columns = [
-        "employee_id", "role_name", "skill_name",
-        "proficiency", "target_proficiency", "gap_status", "gap",
-    ]
-    print(
-        results.loc[
-            results["assessment_status"] == "assessed", columns
-        ].head(10).to_string(index=False)
-    )
 
     return results
 

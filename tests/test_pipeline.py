@@ -169,3 +169,75 @@ def test_allocations_satisfy_required_prerequisites():
         assert needed.issubset(already_passed), (
             f"{row.employee_id} lacks a prerequisite for {row.course_id}"
         )
+
+def test_stale_assessment_requires_reassessment(tmp_path):
+    import pandas as pd
+    from src.gap_analysis import calculate_skill_gaps
+
+    data_dir = tmp_path / "data"
+    output_dir = tmp_path / "outputs"
+    data_dir.mkdir()
+
+    # One employee has three required skills.
+    pd.DataFrame([
+        {
+            "employee_id": "EMP-000001",
+            "role_id": "ROLE-001",
+            "department": "Engineering",
+        }
+    ]).to_csv(data_dir / "employee.csv", index=False)
+
+    pd.DataFrame([
+        {"role_id": "ROLE-001", "role_name": "Test Engineer"}
+    ]).to_csv(data_dir / "role.csv", index=False)
+
+    pd.DataFrame([
+        {"skill_id": "SKL-001", "skill_name": "Python"},
+        {"skill_id": "SKL-002", "skill_name": "SQL"},
+        {"skill_id": "SKL-003", "skill_name": "Git"},
+    ]).to_csv(data_dir / "skill.csv", index=False)
+
+    pd.DataFrame([
+        {
+            "role_id": "ROLE-001",
+            "skill_id": skill_id,
+            "target_proficiency": 4,
+        }
+        for skill_id in ["SKL-001", "SKL-002", "SKL-003"]
+    ]).to_csv(data_dir / "role_skill_target.csv", index=False)
+
+    pd.DataFrame([
+        {
+            "employee_id": "EMP-000001",
+            "skill_id": "SKL-001",
+            "proficiency": 2,
+            "assessed_on": "2025-01-01",
+        },
+        {
+            "employee_id": "EMP-000001",
+            "skill_id": "SKL-002",
+            "proficiency": 2,
+            "assessed_on": "2026-10-01",
+        },
+    ]).to_csv(data_dir / "employee_skill.csv", index=False)
+
+    results = calculate_skill_gaps(
+        data_dir=data_dir,
+        output_dir=output_dir,
+    )
+
+    statuses = results.set_index("skill_id")["assessment_status"]
+    gaps = results.set_index("skill_id")["gap"]
+    gap_statuses = results.set_index("skill_id")["gap_status"]
+
+    assert statuses["SKL-001"] == "reassessment_required"
+    assert pd.isna(gaps["SKL-001"])
+    assert gap_statuses["SKL-001"] == "reassessment_required"
+
+    assert statuses["SKL-002"] == "assessed"
+    assert gaps["SKL-002"] == 2
+    assert gap_statuses["SKL-002"] == "gap_identified"
+
+    assert statuses["SKL-003"] == "not_assessed"
+    assert pd.isna(gaps["SKL-003"])
+    assert gap_statuses["SKL-003"] == "not_assessed"
